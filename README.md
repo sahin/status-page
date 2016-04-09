@@ -1,4 +1,6 @@
-# Status Page
+# Service status page
+
+Service status page of over 3 cloud services.
 
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Operational-green.svg)](https://www.cloudflarestatus.com/) 
 
