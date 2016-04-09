@@ -1,6 +1,7 @@
 # Service status page
 
 Service status page of over 3 cloud services. 
+
 Built with serverless structure in mind with Amazon Lambda. 
 
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Operational-green.svg)](https://www.cloudflarestatus.com/) 
