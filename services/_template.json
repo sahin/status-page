@@ -1,0 +1,12 @@
+{
+  "name": "name",
+  "readable_name": "Name",
+  "status": {
+    "indicator": "Operational|Major|Minor",
+    "color": "Green|Red|yellow",
+    "description": "All Systems Operational",
+    "url": "https://status.movielala.com/",
+    "updated_at": "2016-03-08T12:55:09.901Z"
+  },
+  "status_page_service": "StatusPage.io|Status.io|Custom"
+}
