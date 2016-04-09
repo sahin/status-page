@@ -4,5 +4,5 @@
 
 [![Docker](https://img.shields.io/badge/Docker-major-red.svg)](https://status.docker.com) 
 
-[![Fastly](https://img.shields.io/badge/Docker-minor-FDC000.svg)](https://status.fastly.com) 
+[![Fastly](https://img.shields.io/badge/Fastly-minor-FDC000.svg)](https://status.fastly.com) 
 
