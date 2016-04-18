@@ -7,5 +7,5 @@
     "url": "https://www.cloudflarestatus.com/",
     "updated_at": "2016-03-08T12:55:09.901Z"
   },
-  "status_page_service": "StatusPage.io"
+  "provider": "StatusPage.io"
 }
