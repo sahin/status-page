@@ -10,4 +10,4 @@ Upcoming Status.io,
 
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Operational-green.svg)](https://www.cloudflarestatus.com/)
 
-[![Fastly](https://img.shields.io/badge/Fastly-Minor-FDC000.svg)](https://status.fastly.com)
+[![Fastly](https://img.shields.io/badge/Fastly-Minor-yellow.svg)](https://status.fastly.com)
