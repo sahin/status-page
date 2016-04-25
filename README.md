@@ -10,6 +10,4 @@ Upcoming Status.io,
 
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Operational-green.svg)](https://www.cloudflarestatus.com/)
 
-[![Docker](https://img.shields.io/badge/Docker-Major-red.svg)](https://status.docker.com)
-
 [![Fastly](https://img.shields.io/badge/Fastly-Minor-FDC000.svg)](https://status.fastly.com)
