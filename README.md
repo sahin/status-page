@@ -8,7 +8,7 @@ Supported services which uses StatusPage.io.
 
 Upcoming Status.io,
 
-[![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](https://status.acquia.com/)
+[![Acquia](https://img.shields.io/badge/Acquia-Major-red.svg)](https://status.acquia.com/)
 
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Operational-green.svg)](https://www.cloudflarestatus.com/)
 
