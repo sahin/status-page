@@ -2,10 +2,10 @@
   "name": "name",
   "readable_name": "Name",
   "url": "https://www.cloudflarestatus.com/",
-  "provider": "StatusPage.io|Status.io|Custom",
+  "provider": "StatusPage.io|Status.io",
   "status": {
     "indicator": "Operational|Major|Minor",
-    "color": "Green|Red|yellow",
+    "color": "green|red|yellow",
     "description": "All Systems Operational",
     "updated_at": "2016-03-08T12:55:09.901Z"
   }
