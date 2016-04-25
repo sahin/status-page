@@ -1,7 +1,7 @@
 {
   "name": "fastly",
   "readable_name": "Fastly",
-  "url": "https://status.fastly.com,
+  "url": "https://status.fastly.com",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

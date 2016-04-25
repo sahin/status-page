@@ -2,7 +2,7 @@
   "name": "docker",
   "readable_name": "Docker",
   "url": "https://status.docker.com",
-  "provider": "StatusPage.io",
+  "provider": "Status.io",
   "status": {
     "indicator": "Major",
     "description": "",
