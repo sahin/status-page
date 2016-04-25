@@ -5,7 +5,7 @@
   "status": {
     "indicator": "Operational",
     "description": "All Systems Operational",
-    "updated_at": "2016-04-25T08:42:33.881Z",
+    "updated_at": "2016-04-25T08:42:54.509Z",
     "color": "green"
   },
   "status_page_service": "StatusPage.io"
