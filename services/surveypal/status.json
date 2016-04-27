@@ -1,0 +1,12 @@
+{
+  "name": "surveypal",
+  "readable_name": "Surveypal",
+  "url": "https://status.surveypal.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:32.629Z",
+    "color": "green"
+  }
+}

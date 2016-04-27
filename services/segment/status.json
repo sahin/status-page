@@ -1,0 +1,12 @@
+{
+  "name": "segment",
+  "readable_name": "Segment",
+  "url": "http://status.segment.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:04.444Z",
+    "color": "green"
+  }
+}

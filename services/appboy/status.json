@@ -1,0 +1,12 @@
+{
+  "name": "appboy",
+  "readable_name": "Appboy",
+  "url": "http://status.appboy.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:06:10.719Z",
+    "color": "green"
+  }
+}

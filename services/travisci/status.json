@@ -1,0 +1,12 @@
+{
+  "name": "travisci",
+  "readable_name": "Travis CI",
+  "url": "https://www.traviscistatus.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:41.700Z",
+    "color": "green"
+  }
+}

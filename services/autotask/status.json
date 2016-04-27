@@ -1,0 +1,12 @@
+{
+  "name": "autotask",
+  "readable_name": "Autotask",
+  "url": "http://www.autotaskstatus.net",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:06:20.059Z",
+    "color": "red"
+  }
+}

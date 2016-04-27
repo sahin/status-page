@@ -1,0 +1,12 @@
+{
+  "name": "desk",
+  "readable_name": "Desk.com",
+  "url": "https://status.desk.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:07:32.961Z",
+    "color": "green"
+  }
+}

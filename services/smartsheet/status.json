@@ -1,0 +1,12 @@
+{
+  "name": "smartsheet",
+  "readable_name": "Smartsheet.com",
+  "url": "http://status.smartsheet.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:20.109Z",
+    "color": "green"
+  }
+}

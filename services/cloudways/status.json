@@ -1,0 +1,12 @@
+{
+  "name": "cloudways",
+  "readable_name": "Cloudways",
+  "url": "http://status.cloudways.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:07:12.767Z",
+    "color": "green"
+  }
+}

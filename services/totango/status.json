@@ -1,0 +1,12 @@
+{
+  "name": "totango",
+  "readable_name": "Totango",
+  "url": "http://status.totango.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:40.830Z",
+    "color": "green"
+  }
+}

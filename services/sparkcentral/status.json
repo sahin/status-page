@@ -1,0 +1,12 @@
+{
+  "name": "sparkcentral",
+  "readable_name": "Sparkcentral",
+  "url": "http://status.sparkcentral.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:21.603Z",
+    "color": "green"
+  }
+}

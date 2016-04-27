@@ -1,0 +1,12 @@
+{
+  "name": "front",
+  "readable_name": "Front",
+  "url": "http://status.frontapp.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:05.557Z",
+    "color": "green"
+  }
+}

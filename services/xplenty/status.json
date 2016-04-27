@@ -1,0 +1,12 @@
+{
+  "name": "xplenty",
+  "readable_name": "Xplenty",
+  "url": "http://status.xplenty.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:11:00.291Z",
+    "color": "green"
+  }
+}

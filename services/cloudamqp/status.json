@@ -1,0 +1,12 @@
+{
+  "name": "cloudamqp",
+  "readable_name": "CloudAMQP",
+  "url": "http://status.cloudamqp.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:07:07.852Z",
+    "color": "green"
+  }
+}

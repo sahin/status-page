@@ -1,0 +1,12 @@
+{
+  "name": "stream",
+  "readable_name": "Stream",
+  "url": "http://status.getstream.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:27.835Z",
+    "color": "green"
+  }
+}

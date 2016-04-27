@@ -1,0 +1,12 @@
+{
+  "name": "skylight",
+  "readable_name": "Skylight",
+  "url": "http://status.skylight.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:19.366Z",
+    "color": "green"
+  }
+}

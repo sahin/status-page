@@ -1,0 +1,12 @@
+{
+  "name": "disqus",
+  "readable_name": "Disqus",
+  "url": "https://status.disqus.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:07:37.854Z",
+    "color": "red"
+  }
+}

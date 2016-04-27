@@ -1,0 +1,12 @@
+{
+  "name": "codeship",
+  "readable_name": "Codeship",
+  "url": "http://codeshipstatus.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:07:20.788Z",
+    "color": "green"
+  }
+}

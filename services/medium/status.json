@@ -1,0 +1,12 @@
+{
+  "name": "medium",
+  "readable_name": "Medium",
+  "url": "https://medium.statuspage.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:09:07.065Z",
+    "color": "green"
+  }
+}

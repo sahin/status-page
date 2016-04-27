@@ -1,0 +1,12 @@
+{
+  "name": "librato",
+  "readable_name": "Librato",
+  "url": "https://status.librato.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:51.524Z",
+    "color": "green"
+  }
+}

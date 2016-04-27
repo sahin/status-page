@@ -1,0 +1,12 @@
+{
+  "name": "periscope",
+  "readable_name": "Periscope Data",
+  "url": "https://status.periscopedata.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "Partial System Outage",
+    "updated_at": "2016-04-27T07:09:34.143Z",
+    "color": "red"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "iterable",
+  "readable_name": "Iterable",
+  "url": "http://status.iterable.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:36.494Z",
+    "color": "green"
+  }
+}

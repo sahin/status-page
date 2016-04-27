@@ -1,0 +1,12 @@
+{
+  "name": "loggly",
+  "readable_name": "Loggly",
+  "url": "http://status.loggly.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:59.329Z",
+    "color": "green"
+  }
+}

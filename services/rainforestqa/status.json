@@ -1,0 +1,12 @@
+{
+  "name": "rainforestqa",
+  "readable_name": "Rainforest QA",
+  "url": "http://status.rainforestqa.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:09:50.362Z",
+    "color": "green"
+  }
+}

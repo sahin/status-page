@@ -1,0 +1,12 @@
+{
+  "name": "duosecurity",
+  "readable_name": "Duo",
+  "url": "https://status.duo.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:07:43.662Z",
+    "color": "green"
+  }
+}

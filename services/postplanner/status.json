@@ -1,0 +1,12 @@
+{
+  "name": "postplanner",
+  "readable_name": "Post Planner",
+  "url": "http://status.postplanner.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:09:42.957Z",
+    "color": "green"
+  }
+}

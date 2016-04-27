@@ -1,0 +1,12 @@
+{
+  "name": "ifttt",
+  "readable_name": "IFTTT",
+  "url": "http://status.ifttt.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "Partially Degraded Service",
+    "updated_at": "2016-04-27T07:08:28.213Z",
+    "color": "red"
+  }
+}

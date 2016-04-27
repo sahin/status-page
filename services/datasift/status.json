@@ -1,0 +1,12 @@
+{
+  "name": "datasift",
+  "readable_name": "DataSift",
+  "url": "https://status.datasift.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:07:31.390Z",
+    "color": "red"
+  }
+}

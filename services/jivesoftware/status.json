@@ -1,0 +1,12 @@
+{
+  "name": "jivesoftware",
+  "readable_name": "Jive Software",
+  "url": "http://status.jivesoftware.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:39.091Z",
+    "color": "green"
+  }
+}

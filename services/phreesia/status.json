@@ -1,0 +1,12 @@
+{
+  "name": "phreesia",
+  "readable_name": "Phreesia",
+  "url": "http://status.phreesia.net",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:09:36.148Z",
+    "color": "green"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "superfeedr",
+  "readable_name": "Superfeedr",
+  "url": "http://status.superfeedr.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:30.530Z",
+    "color": "green"
+  }
+}

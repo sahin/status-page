@@ -1,0 +1,12 @@
+{
+  "name": "assembla",
+  "readable_name": "Assembla",
+  "url": "http://status.assembla.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:06:14.293Z",
+    "color": "green"
+  }
+}

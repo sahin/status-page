@@ -1,0 +1,12 @@
+{
+  "name": "nylas",
+  "readable_name": "Nylas",
+  "url": "http://status.nylas.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:09:19.547Z",
+    "color": "red"
+  }
+}

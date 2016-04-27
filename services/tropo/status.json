@@ -1,0 +1,12 @@
+{
+  "name": "tropo",
+  "readable_name": "Tropo",
+  "url": "http://status.tropo.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:10:43.875Z",
+    "color": "red"
+  }
+}

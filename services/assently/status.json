@@ -1,0 +1,12 @@
+{
+  "name": "assently",
+  "readable_name": "Assently",
+  "url": "https://assently.statuspage.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:06:15.458Z",
+    "color": "red"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "greenhouse",
+  "readable_name": "Greenhouse",
+  "url": "http://status.greenhouse.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:16.771Z",
+    "color": "green"
+  }
+}

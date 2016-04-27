@@ -1,0 +1,12 @@
+{
+  "name": "zoom",
+  "readable_name": "Zoom",
+  "url": "http://status.zoom.us",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:11:03.506Z",
+    "color": "green"
+  }
+}

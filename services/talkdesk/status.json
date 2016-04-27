@@ -1,0 +1,12 @@
+{
+  "name": "talkdesk",
+  "readable_name": "Talkdesk",
+  "url": "http://status.talkdesk.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:35.218Z",
+    "color": "green"
+  }
+}

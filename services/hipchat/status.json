@@ -1,0 +1,12 @@
+{
+  "name": "hipchat",
+  "readable_name": "HipChat",
+  "url": "https://status.hipchat.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:24.456Z",
+    "color": "green"
+  }
+}

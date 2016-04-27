@@ -1,0 +1,12 @@
+{
+  "name": "bitfinex",
+  "readable_name": "Bitfinex",
+  "url": "https://bitfinex.statuspage.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:06:28.507Z",
+    "color": "green"
+  }
+}

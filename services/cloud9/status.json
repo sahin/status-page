@@ -1,0 +1,12 @@
+{
+  "name": "cloud9",
+  "readable_name": "Cloud9",
+  "url": "http://status.c9.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:07:07.301Z",
+    "color": "green"
+  }
+}

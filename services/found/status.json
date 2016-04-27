@@ -1,0 +1,12 @@
+{
+  "name": "found",
+  "readable_name": "Found",
+  "url": "http://status.found.no",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:02.585Z",
+    "color": "green"
+  }
+}

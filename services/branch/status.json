@@ -1,0 +1,12 @@
+{
+  "name": "branch",
+  "readable_name": "Branch",
+  "url": "http://status.branch.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:06:42.249Z",
+    "color": "red"
+  }
+}

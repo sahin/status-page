@@ -1,0 +1,12 @@
+{
+  "name": "ghostinspector",
+  "readable_name": "Ghost Inspector",
+  "url": "https://ghostinspector.statuspage.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:11.754Z",
+    "color": "green"
+  }
+}

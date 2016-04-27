@@ -1,0 +1,12 @@
+{
+  "name": "campaignmonitor",
+  "readable_name": "Campaign Monitor",
+  "url": "https://status.campaignmonitor.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:06:47.781Z",
+    "color": "green"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "uservoice",
+  "readable_name": "UserVoice",
+  "url": "https://status.uservoice.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:50.032Z",
+    "color": "green"
+  }
+}

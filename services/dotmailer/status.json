@@ -1,0 +1,12 @@
+{
+  "name": "dotmailer",
+  "readable_name": "dotmailer",
+  "url": "http://status.dotmailer.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:07:39.563Z",
+    "color": "red"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "contactually",
+  "readable_name": "Contactually",
+  "url": "http://status.contactually.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:07:24.777Z",
+    "color": "green"
+  }
+}

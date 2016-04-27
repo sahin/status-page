@@ -1,0 +1,12 @@
+{
+  "name": "runscope",
+  "readable_name": "Runscope",
+  "url": "http://status.runscope.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:00.650Z",
+    "color": "green"
+  }
+}

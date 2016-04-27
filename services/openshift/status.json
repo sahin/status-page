@@ -1,0 +1,12 @@
+{
+  "name": "openshift",
+  "readable_name": "OpenShift",
+  "url": "http://status.openshift.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:09:24.609Z",
+    "color": "green"
+  }
+}

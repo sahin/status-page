@@ -1,0 +1,12 @@
+{
+  "name": "siftscience",
+  "readable_name": "Sift Science",
+  "url": "https://status.siftscience.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:14.978Z",
+    "color": "green"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "smtp2go",
+  "readable_name": "SMTP2GO",
+  "url": "http://smtp2gostatus.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:20.860Z",
+    "color": "green"
+  }
+}

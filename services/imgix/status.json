@@ -1,0 +1,12 @@
+{
+  "name": "imgix",
+  "readable_name": "imgix",
+  "url": "http://status.imgix.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:28.818Z",
+    "color": "green"
+  }
+}

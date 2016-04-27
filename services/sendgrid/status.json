@@ -1,0 +1,12 @@
+{
+  "name": "sendgrid",
+  "readable_name": "SendGrid",
+  "url": "http://status.sendgrid.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:05.199Z",
+    "color": "green"
+  }
+}

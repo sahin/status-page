@@ -1,0 +1,12 @@
+{
+  "name": "barricade",
+  "readable_name": "Barricade",
+  "url": "https://barricade.statuspage.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:06:22.261Z",
+    "color": "green"
+  }
+}

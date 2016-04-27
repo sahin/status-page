@@ -1,0 +1,12 @@
+{
+  "name": "bigpanda",
+  "readable_name": "BigPanda",
+  "url": "http://status.bigpanda.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:06:25.373Z",
+    "color": "green"
+  }
+}

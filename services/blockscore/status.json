@@ -1,0 +1,12 @@
+{
+  "name": "blockscore",
+  "readable_name": "BlockScore",
+  "url": "http://status.blockscore.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:06:32.334Z",
+    "color": "green"
+  }
+}

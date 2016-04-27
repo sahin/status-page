@@ -1,0 +1,12 @@
+{
+  "name": "pingidentity",
+  "readable_name": "Ping Identity",
+  "url": "https://status.pingidentity.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:09:37.194Z",
+    "color": "green"
+  }
+}

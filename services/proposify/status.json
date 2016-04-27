@@ -1,0 +1,12 @@
+{
+  "name": "proposify",
+  "readable_name": "Proposify",
+  "url": "http://status.proposify.biz",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:09:44.805Z",
+    "color": "green"
+  }
+}

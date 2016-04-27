@@ -1,0 +1,12 @@
+{
+  "name": "onecom",
+  "readable_name": "One.com",
+  "url": "http://status.one.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:09:21.665Z",
+    "color": "green"
+  }
+}

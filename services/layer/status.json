@@ -1,0 +1,12 @@
+{
+  "name": "layer",
+  "readable_name": "Layer",
+  "url": "http://status.layer.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:48.197Z",
+    "color": "green"
+  }
+}

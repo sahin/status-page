@@ -1,12 +1,12 @@
 {
   "name": "acquia",
   "readable_name": "Acquia",
-  "url": "https://status.acquia.com/",
+  "url": "https://status.acquia.com",
+  "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
     "description": "All Systems Operational",
-    "updated_at": "2016-04-25T08:46:10.206Z",
+    "updated_at": "2016-04-27T07:06:01.769Z",
     "color": "green"
-  },
-  "status_page_service": "StatusPage.io"
+  }
 }

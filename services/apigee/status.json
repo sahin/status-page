@@ -1,0 +1,12 @@
+{
+  "name": "apigee",
+  "readable_name": "Apigee",
+  "url": "https://status.apigee.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:06:09.769Z",
+    "color": "red"
+  }
+}

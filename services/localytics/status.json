@@ -1,0 +1,12 @@
+{
+  "name": "localytics",
+  "readable_name": "Localytics",
+  "url": "http://status.localytics.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:57.955Z",
+    "color": "green"
+  }
+}

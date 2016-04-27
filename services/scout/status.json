@@ -1,0 +1,12 @@
+{
+  "name": "scout",
+  "readable_name": "Scout",
+  "url": "https://status.scoutapp.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:02.486Z",
+    "color": "green"
+  }
+}

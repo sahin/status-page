@@ -1,0 +1,12 @@
+{
+  "name": "hubspot",
+  "readable_name": "HubSpot",
+  "url": "https://status.hubspot.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:27.651Z",
+    "color": "green"
+  }
+}

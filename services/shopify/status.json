@@ -1,0 +1,12 @@
+{
+  "name": "shopify",
+  "readable_name": "Shopify",
+  "url": "https://status.shopify.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:13.444Z",
+    "color": "green"
+  }
+}

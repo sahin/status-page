@@ -1,0 +1,12 @@
+{
+  "name": "chargebee",
+  "readable_name": "Chargebee",
+  "url": "http://status.chargebee.com",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:06:52.627Z",
+    "color": "red"
+  }
+}

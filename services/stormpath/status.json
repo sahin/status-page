@@ -1,0 +1,12 @@
+{
+  "name": "stormpath",
+  "readable_name": "Stormpath",
+  "url": "http://status.stormpath.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:26.543Z",
+    "color": "green"
+  }
+}

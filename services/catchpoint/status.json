@@ -1,0 +1,12 @@
+{
+  "name": "catchpoint",
+  "readable_name": "Catchpoint",
+  "url": "http://status.catchpoint.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:06:51.949Z",
+    "color": "red"
+  }
+}

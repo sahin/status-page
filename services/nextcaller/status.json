@@ -1,0 +1,12 @@
+{
+  "name": "nextcaller",
+  "readable_name": "Next Caller",
+  "url": "http://status.nextcaller.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:09:15.930Z",
+    "color": "green"
+  }
+}

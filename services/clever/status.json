@@ -1,0 +1,12 @@
+{
+  "name": "clever",
+  "readable_name": "Clever",
+  "url": "https://status.clever.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:07:04.015Z",
+    "color": "green"
+  }
+}

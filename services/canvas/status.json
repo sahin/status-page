@@ -1,0 +1,12 @@
+{
+  "name": "canvas",
+  "readable_name": "Canvas",
+  "url": "http://status.instructure.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:06:48.920Z",
+    "color": "green"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "linode",
+  "readable_name": "Linode",
+  "url": "http://status.linode.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:53.170Z",
+    "color": "green"
+  }
+}

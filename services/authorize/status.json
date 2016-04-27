@@ -1,0 +1,12 @@
+{
+  "name": "authorize",
+  "readable_name": "Authorize.Net",
+  "url": "https://status.authorize.net",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:06:17.998Z",
+    "color": "green"
+  }
+}

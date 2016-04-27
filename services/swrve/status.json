@@ -1,0 +1,12 @@
+{
+  "name": "swrve",
+  "readable_name": "Swrve",
+  "url": "http://status.swrve.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:33.996Z",
+    "color": "green"
+  }
+}

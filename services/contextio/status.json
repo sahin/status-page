@@ -1,0 +1,12 @@
+{
+  "name": "contextio",
+  "readable_name": "Context.IO",
+  "url": "http://status.context.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:07:26.249Z",
+    "color": "green"
+  }
+}

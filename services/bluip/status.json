@@ -1,0 +1,12 @@
+{
+  "name": "bluip",
+  "readable_name": "BluIP",
+  "url": "http://status.bluip.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:06:37.524Z",
+    "color": "red"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "honeybadger",
+  "readable_name": "Honeybadger",
+  "url": "http://status.honeybadger.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:25.805Z",
+    "color": "green"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "chartboost",
+  "readable_name": "Chartboost",
+  "url": "http://status.chartboost.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:06:55.119Z",
+    "color": "green"
+  }
+}

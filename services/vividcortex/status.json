@@ -1,0 +1,12 @@
+{
+  "name": "vividcortex",
+  "readable_name": "VividCortex",
+  "url": "https://vividcortex.statuspage.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:53.038Z",
+    "color": "green"
+  }
+}

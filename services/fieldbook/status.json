@@ -1,0 +1,12 @@
+{
+  "name": "fieldbook",
+  "readable_name": "Fieldbook",
+  "url": "http://status.fieldbook.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:07:57.954Z",
+    "color": "green"
+  }
+}

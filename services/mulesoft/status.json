@@ -1,0 +1,12 @@
+{
+  "name": "mulesoft",
+  "readable_name": "MuleSoft",
+  "url": "http://status.mulesoft.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:09:12.239Z",
+    "color": "green"
+  }
+}

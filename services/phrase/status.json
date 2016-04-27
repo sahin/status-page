@@ -1,0 +1,12 @@
+{
+  "name": "phrase",
+  "readable_name": "PhraseApp",
+  "url": "http://status.phraseapp.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:09:35.366Z",
+    "color": "green"
+  }
+}

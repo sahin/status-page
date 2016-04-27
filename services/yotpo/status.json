@@ -1,0 +1,12 @@
+{
+  "name": "yotpo",
+  "readable_name": "Yotpo",
+  "url": "http://status.yotpo.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:11:01.909Z",
+    "color": "green"
+  }
+}

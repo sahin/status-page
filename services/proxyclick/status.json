@@ -1,0 +1,12 @@
+{
+  "name": "proxyclick",
+  "readable_name": "Proxyclick",
+  "url": "http://status.proxyclick.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:09:45.563Z",
+    "color": "green"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "bitbucket",
+  "readable_name": "Bitbucket",
+  "url": "http://status.bitbucket.org",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:06:27.596Z",
+    "color": "green"
+  }
+}

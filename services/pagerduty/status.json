@@ -1,0 +1,12 @@
+{
+  "name": "pagerduty",
+  "readable_name": "PagerDuty",
+  "url": "https://status.pagerduty.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:09:29.585Z",
+    "color": "green"
+  }
+}

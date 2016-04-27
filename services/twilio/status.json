@@ -1,0 +1,12 @@
+{
+  "name": "twilio",
+  "readable_name": "Twilio",
+  "url": "http://status.twilio.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:10:44.847Z",
+    "color": "red"
+  }
+}

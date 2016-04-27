@@ -1,0 +1,12 @@
+{
+  "name": "hightail",
+  "readable_name": "Hightail",
+  "url": "http://status.hightail.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:23.720Z",
+    "color": "green"
+  }
+}

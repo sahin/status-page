@@ -1,0 +1,12 @@
+{
+  "name": "wistia",
+  "readable_name": "Wistia",
+  "url": "https://status.wistia.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:56.459Z",
+    "color": "green"
+  }
+}

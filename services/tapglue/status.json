@@ -1,0 +1,12 @@
+{
+  "name": "tapglue",
+  "readable_name": "Tapglue",
+  "url": "http://status.tapglue.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:10:36.147Z",
+    "color": "green"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "insightly",
+  "readable_name": "Insightly",
+  "url": "http://status.insightly.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:08:30.357Z",
+    "color": "green"
+  }
+}

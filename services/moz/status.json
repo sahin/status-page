@@ -1,0 +1,12 @@
+{
+  "name": "moz",
+  "readable_name": "Moz",
+  "url": "http://health.moz.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:09:11.563Z",
+    "color": "red"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "olark",
+  "readable_name": "Olark",
+  "url": "http://status.olark.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:09:20.215Z",
+    "color": "green"
+  }
+}

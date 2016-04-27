@@ -1,0 +1,12 @@
+{
+  "name": "codecov",
+  "readable_name": "Codecov",
+  "url": "http://status.codecov.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-27T07:07:19.317Z",
+    "color": "red"
+  }
+}
