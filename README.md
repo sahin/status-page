@@ -1,6 +1,6 @@
 # Service status page
 
-Service status page of over 200+ cloud services.
+Service status page of over 350+ cloud services.
 
 Built super mininal. Status in json in github. Workers are built with serverless structure in mind with Amazon Lambda.
 
