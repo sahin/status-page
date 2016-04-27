@@ -4,9 +4,9 @@
   "url": "http://status.twilio.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Major",
-    "description": "",
-    "updated_at": "2016-04-27T07:10:44.847Z",
-    "color": "red"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-27T07:27:36.738Z",
+    "color": "green"
   }
 }
