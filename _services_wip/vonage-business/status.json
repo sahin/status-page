@@ -1,0 +1,12 @@
+{
+  "name": "vonage-business",
+  "readable_name": "Vonage Business",
+  "url": "http://vonagebusiness.force.com/trust",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:44:37.499Z",
+    "color": "red"
+  }
+}

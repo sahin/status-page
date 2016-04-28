@@ -1,0 +1,12 @@
+{
+  "name": "apple",
+  "readable_name": "Apple",
+  "url": "https://www.apple.com/support/systemstatus/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:42:32.845Z",
+    "color": "red"
+  }
+}

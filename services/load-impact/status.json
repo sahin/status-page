@@ -1,0 +1,12 @@
+{
+  "name": "load-impact",
+  "readable_name": "Load Impact",
+  "url": "http://status.loadimpact.com/",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-28T16:43:43.852Z",
+    "color": "green"
+  }
+}

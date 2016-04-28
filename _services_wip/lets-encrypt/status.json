@@ -1,0 +1,12 @@
+{
+  "name": "lets-encrypt",
+  "readable_name": "Let's Encrypt",
+  "url": "https://letsencrypt.status.io/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:40.004Z",
+    "color": "red"
+  }
+}

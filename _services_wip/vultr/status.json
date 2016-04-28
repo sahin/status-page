@@ -1,0 +1,12 @@
+{
+  "name": "vultr",
+  "readable_name": "Vultr",
+  "url": "https://www.vultr.com/status/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:44:38.232Z",
+    "color": "red"
+  }
+}

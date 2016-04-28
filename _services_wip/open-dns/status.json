@@ -1,0 +1,12 @@
+{
+  "name": "open-dns",
+  "readable_name": "Open DNS",
+  "url": "http://system.opendns.com",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:56.150Z",
+    "color": "red"
+  }
+}

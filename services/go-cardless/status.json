@@ -1,0 +1,12 @@
+{
+  "name": "go-cardless",
+  "readable_name": "Go Cardless",
+  "url": "http://www.gocardless-status.com/",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-28T16:43:26.935Z",
+    "color": "green"
+  }
+}

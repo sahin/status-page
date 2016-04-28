@@ -1,0 +1,12 @@
+{
+  "name": "facebook-platform",
+  "readable_name": "Facebook Platform",
+  "url": "https://developers.facebook.com/status/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:19.447Z",
+    "color": "red"
+  }
+}

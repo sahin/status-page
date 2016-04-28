@@ -1,0 +1,12 @@
+{
+  "name": "mailchimp",
+  "readable_name": "MailChimp",
+  "url": "https://status.mailchimp.com/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:45.162Z",
+    "color": "red"
+  }
+}

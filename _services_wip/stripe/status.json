@@ -1,0 +1,12 @@
+{
+  "name": "stripe",
+  "readable_name": "Stripe",
+  "url": "https://status.stripe.com",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:44:27.137Z",
+    "color": "red"
+  }
+}

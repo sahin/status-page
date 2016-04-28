@@ -1,0 +1,12 @@
+{
+  "name": "send-with-us",
+  "readable_name": "sendwithus",
+  "url": "http://status.sendwithus.com/",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-28T16:44:16.719Z",
+    "color": "green"
+  }
+}

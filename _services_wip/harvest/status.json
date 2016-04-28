@@ -1,0 +1,12 @@
+{
+  "name": "harvest",
+  "readable_name": "Harvest",
+  "url": "http://harveststatus.com/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:28.608Z",
+    "color": "red"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "okta",
+  "readable_name": "Okta",
+  "url": "https://trust.okta.com",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:53.300Z",
+    "color": "red"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "deskcom",
+  "readable_name": "Desk.com",
+  "url": "https://status.desk.com/",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:07.403Z",
+    "color": "red"
+  }
+}

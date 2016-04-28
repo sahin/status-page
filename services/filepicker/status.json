@@ -1,0 +1,12 @@
+{
+  "name": "filepicker",
+  "readable_name": "Filestack",
+  "url": "http://status.filestack.com/",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-28T16:43:21.078Z",
+    "color": "green"
+  }
+}

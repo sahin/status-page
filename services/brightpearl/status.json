@@ -1,0 +1,12 @@
+{
+  "name": "brightpearl",
+  "readable_name": "Brightpearl",
+  "url": "http://status.brightpearl.com/",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-28T16:42:50.842Z",
+    "color": "green"
+  }
+}

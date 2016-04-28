@@ -1,0 +1,12 @@
+{
+  "name": "dns-made-easy",
+  "readable_name": "DNS Made Easy",
+  "url": "http://dnsstatus.com/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:10.660Z",
+    "color": "red"
+  }
+}

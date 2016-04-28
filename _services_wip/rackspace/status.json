@@ -1,0 +1,12 @@
+{
+  "name": "rackspace",
+  "readable_name": "Rackspace",
+  "url": "https://status.rackspace.com",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:44:07.342Z",
+    "color": "red"
+  }
+}

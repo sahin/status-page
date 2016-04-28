@@ -1,0 +1,12 @@
+{
+  "name": "userify",
+  "readable_name": "Userify",
+  "url": "https://dashboard.userify.com/api/userify/status",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:44:35.026Z",
+    "color": "red"
+  }
+}

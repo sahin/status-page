@@ -1,0 +1,12 @@
+{
+  "name": "google-apps",
+  "readable_name": "Google Apps",
+  "url": "http://www.google.com/appsstatus",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:27.103Z",
+    "color": "red"
+  }
+}

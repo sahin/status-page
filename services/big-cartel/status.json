@@ -1,0 +1,12 @@
+{
+  "name": "big-cartel",
+  "readable_name": "Big Cartel",
+  "url": "http://status.bigcartel.com/",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-28T16:42:42.383Z",
+    "color": "green"
+  }
+}

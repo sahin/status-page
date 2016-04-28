@@ -1,0 +1,12 @@
+{
+  "name": "intuit-developer",
+  "readable_name": "Intuit Developer",
+  "url": "http://developer-status.intuit.com/",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:37.414Z",
+    "color": "red"
+  }
+}

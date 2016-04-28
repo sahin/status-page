@@ -1,0 +1,12 @@
+{
+  "name": "transloadit",
+  "readable_name": "Transloadit",
+  "url": "http://status.transloadit.com/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:44:30.332Z",
+    "color": "red"
+  }
+}

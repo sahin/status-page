@@ -1,0 +1,12 @@
+{
+  "name": "i-want-my-name",
+  "readable_name": "I Want My Name",
+  "url": "http://status.iwantmyname.com/",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-28T16:43:38.706Z",
+    "color": "green"
+  }
+}

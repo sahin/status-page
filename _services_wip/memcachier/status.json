@@ -1,0 +1,12 @@
+{
+  "name": "memcachier",
+  "readable_name": "Memcachier",
+  "url": "http://status.memcachier.com",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:49.103Z",
+    "color": "red"
+  }
+}

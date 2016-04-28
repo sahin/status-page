@@ -1,0 +1,12 @@
+{
+  "name": "firebase",
+  "readable_name": "Firebase",
+  "url": "http://status.firebase.com/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:22.083Z",
+    "color": "red"
+  }
+}

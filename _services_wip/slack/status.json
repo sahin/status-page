@@ -1,0 +1,12 @@
+{
+  "name": "slack",
+  "readable_name": "Slack",
+  "url": "https://status.slack.com",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:44:20.703Z",
+    "color": "red"
+  }
+}

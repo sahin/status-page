@@ -1,0 +1,12 @@
+{
+  "name": "onelogin",
+  "readable_name": "OneLogin",
+  "url": "http://status.us.onelogin.com/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:54.377Z",
+    "color": "red"
+  }
+}

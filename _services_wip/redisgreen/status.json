@@ -1,0 +1,12 @@
+{
+  "name": "redisgreen",
+  "readable_name": "RedisGreen",
+  "url": "http://status.redisgreen.net/services/1",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:44:10.307Z",
+    "color": "red"
+  }
+}

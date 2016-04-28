@@ -1,0 +1,12 @@
+{
+  "name": "gearhost",
+  "readable_name": "GearHost",
+  "url": "https://gearhost.statuspage.io/",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-28T16:43:23.826Z",
+    "color": "green"
+  }
+}

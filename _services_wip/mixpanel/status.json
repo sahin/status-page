@@ -1,0 +1,12 @@
+{
+  "name": "mixpanel",
+  "readable_name": "Mixpanel",
+  "url": "https://status.mixpanel.com/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:49.686Z",
+    "color": "red"
+  }
+}

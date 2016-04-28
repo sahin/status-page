@@ -1,0 +1,12 @@
+{
+  "name": "swiftype",
+  "readable_name": "Swiftype",
+  "url": "http://status.swiftype.com/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:44:28.994Z",
+    "color": "red"
+  }
+}

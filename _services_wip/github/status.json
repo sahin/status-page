@@ -1,0 +1,12 @@
+{
+  "name": "github",
+  "readable_name": "GitHub",
+  "url": "https://status.github.com/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:25.741Z",
+    "color": "red"
+  }
+}

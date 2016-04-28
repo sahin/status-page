@@ -1,0 +1,12 @@
+{
+  "name": "bonsai-elasticsearch",
+  "readable_name": "Bonsai Elasticsearch",
+  "url": "https://status.bonsai.io",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-28T16:42:45.520Z",
+    "color": "green"
+  }
+}

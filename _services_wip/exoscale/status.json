@@ -1,0 +1,12 @@
+{
+  "name": "exoscale",
+  "readable_name": "Exoscale",
+  "url": "https://status.exoscale.ch",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:18.502Z",
+    "color": "red"
+  }
+}

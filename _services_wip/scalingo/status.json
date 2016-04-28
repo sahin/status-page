@@ -1,0 +1,12 @@
+{
+  "name": "scalingo",
+  "readable_name": "Scalingo",
+  "url": "http://status.scalingo.com",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:44:14.598Z",
+    "color": "red"
+  }
+}

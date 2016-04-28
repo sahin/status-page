@@ -1,0 +1,12 @@
+{
+  "name": "uberconference",
+  "readable_name": "UberConference",
+  "url": "http://status.uberconference.com/",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-28T16:44:34.323Z",
+    "color": "green"
+  }
+}

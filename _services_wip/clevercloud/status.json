@@ -1,0 +1,12 @@
+{
+  "name": "clevercloud",
+  "readable_name": "CleverCloud",
+  "url": "http://status.clever-cloud.com/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:42:56.832Z",
+    "color": "red"
+  }
+}

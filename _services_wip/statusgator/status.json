@@ -1,0 +1,12 @@
+{
+  "name": "statusgator",
+  "readable_name": "StatusGator",
+  "url": "https://statusgator.runstat.us/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:44:24.421Z",
+    "color": "red"
+  }
+}

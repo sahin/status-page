@@ -1,0 +1,12 @@
+{
+  "name": "new-relic",
+  "readable_name": "New Relic",
+  "url": "https://status.newrelic.com",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-28T16:43:51.046Z",
+    "color": "green"
+  }
+}

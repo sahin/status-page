@@ -1,0 +1,12 @@
+{
+  "name": "switchco",
+  "readable_name": "Dialpad",
+  "url": "http://status.dialpad.com/",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-28T16:43:08.000Z",
+    "color": "green"
+  }
+}

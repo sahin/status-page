@@ -1,0 +1,12 @@
+{
+  "name": "azure",
+  "readable_name": "Azure",
+  "url": "https://azure.microsoft.com/en-us/status/",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:42:39.988Z",
+    "color": "red"
+  }
+}

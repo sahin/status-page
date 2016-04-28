@@ -1,0 +1,12 @@
+{
+  "name": "circuithub",
+  "readable_name": "CircuitHub",
+  "url": "http://status.circuithub.com/",
+  "provider": "StatusPage.io",
+  "status": {
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-28T16:42:55.952Z",
+    "color": "green"
+  }
+}
