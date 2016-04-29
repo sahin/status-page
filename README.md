@@ -759,6 +759,3 @@ I will also commit the parser codes too. I can only little time a day, so every 
 [![Zoom](https://img.shields.io/badge/Zoom-Operational-green.svg)](http://status.zoom.us)
 
 [![Zuora](https://img.shields.io/badge/Zuora-Operational-green.svg)](http://trust.zuora.com)
-
-[![Zuora](https://img.shields.io/badge/Zuora-Operational-green.svg)](http://trust.zuora.com)
- 
