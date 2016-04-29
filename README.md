@@ -2,9 +2,12 @@
 
 Service status page of over 350+ cloud services.
 
-Built super mininal. Status in json in github. Workers are built with serverless structure in mind with Amazon Lambda.
+Super mininal. Status in json in github. Workers are built with serverless structure in mind with Amazon Lambda.
 
 Supported services which uses StatusPage.io for now and Upcoming Status.io.
+
+Why? 
+My first node project from many years of year, I thought it will be very interesting to use github like a db and built a repo for all the popular services' statuses. I will also commit the parser codes too. 
 
 [![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](https://status.acquia.com)
  
