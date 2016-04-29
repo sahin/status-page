@@ -12,7 +12,7 @@ Why?
 
 For my first node project after many years of ruby, I thought it will be very interesting to use github like a repository for status of the services. (I hope github will be ok for 300 commits every minute) and built a repo for all the popular services' statuses. 
 
-I will also commit the parser codes too. I can only little time a day, so every contribution counts. 
+I will also commit the parser codes too. I can only dedicate a little time a day, so every contribution counts. 
 
 [![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](https://status.acquia.com)
 
