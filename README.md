@@ -1,8 +1,10 @@
 # Service status page
 
+# NOTE: STATUSES ARE NOT LIVE !!!!!
+
 Service status page of over 350+ cloud services.
 
-Super mininal. All Statuses in json live in github and workers are built with serverless structure in mind with Amazon Lambda. 
+Super mininal. All statuses stored as json in github and workers are built with serverless structure in mind with Amazon Lambda and I am thinking to do 1 minute update pretty soon.
 
 Supported services which uses StatusPage.io for now and Upcoming Status.io.
 
