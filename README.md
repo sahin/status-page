@@ -7,7 +7,7 @@ Super mininal. All Statuses in json live in github and workers are built with se
 Supported services which uses StatusPage.io for now and Upcoming Status.io.
 
 Why? 
-For my first node project from many years of year, I thought it will be very interesting to use github like a db and built a repo for all the popular services' statuses. I will also commit the parser codes too. 
+For my first node project from many years of year, I thought it will be very interesting to use github like a db and built a repo for all the popular services' statuses. I will also commit the parser codes too. I can only spending 30 minutes a day, so every contribution counts. 
 
 [![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](https://status.acquia.com)
  
