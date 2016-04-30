@@ -342,7 +342,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Hightail](https://img.shields.io/badge/Hightail-Operational-green.svg)](http://status.hightail.com)
 
-[![HipChat](https://img.shields.io/badge/HipChat-Operational-green.svg)](https://status.hipchat.com)
+[![HipChat](https://img.shields.io/badge/HipChat-Major-red.svg)](https://status.hipchat.com)
 
 [![HireFire](https://img.shields.io/badge/HireFire-Operational-green.svg)](http://status.hirefire.io)
 
