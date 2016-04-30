@@ -450,7 +450,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![MaxCDN](https://img.shields.io/badge/MaxCDN-Operational-green.svg)](http://status.maxcdn.com)
 
-[![Media Temple](https://img.shields.io/badge/Media Temple-Major-red.svg)](http://status.mediatemple.net)
+[![Media Temple](https://img.shields.io/badge/Media Temple-Operational-green.svg)](http://status.mediatemple.net)
 
 [![Medium](https://img.shields.io/badge/Medium-Operational-green.svg)](https://medium.statuspage.io)
 
