@@ -184,7 +184,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![CloudAMQP](https://img.shields.io/badge/CloudAMQP-Operational-green.svg)](http://status.cloudamqp.com)
 
-[![CloudFlare](https://img.shields.io/badge/CloudFlare-Major-red.svg)](https://www.cloudflarestatus.com)
+[![CloudFlare](https://img.shields.io/badge/CloudFlare-Operational-green.svg)](https://www.cloudflarestatus.com)
 
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-Operational-green.svg)](http://status.cloudinary.com)
 
