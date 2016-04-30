@@ -356,7 +356,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![I Want My Name](https://img.shields.io/badge/I Want My Name-Operational-green.svg)](http://status.iwantmyname.com/)
 
-[![IFTTT](https://img.shields.io/badge/IFTTT-Major-red.svg)](http://status.ifttt.com)
+[![IFTTT](https://img.shields.io/badge/IFTTT-Operational-green.svg)](http://status.ifttt.com)
 
 [![imgix](https://img.shields.io/badge/imgix-Operational-green.svg)](http://status.imgix.com)
 
