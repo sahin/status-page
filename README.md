@@ -348,7 +348,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Hoiio](https://img.shields.io/badge/Hoiio-Major-red.svg)](http://status.hoiio.com/)
 
-[![Honeybadger](https://img.shields.io/badge/Honeybadger-Operational-green.svg)](http://status.honeybadger.io)
+[![Honeybadger](https://img.shields.io/badge/Honeybadger-Major-red.svg)](http://status.honeybadger.io)
 
 [![Hosted Graphite](https://img.shields.io/badge/Hosted Graphite-Operational-green.svg)](http://status.hostedgraphite.com)
 
