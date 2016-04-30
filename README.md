@@ -192,7 +192,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![CloudSigma](https://img.shields.io/badge/CloudSigma-Operational-green.svg)](http://status.cloudsigma.com)
 
-[![Cloudways](https://img.shields.io/badge/Cloudways-Major-red.svg)](http://status.cloudways.com)
+[![Cloudways](https://img.shields.io/badge/Cloudways-Operational-green.svg)](http://status.cloudways.com)
 
 [![Code Climate](https://img.shields.io/badge/Code Climate-Operational-green.svg)](http://status.codeclimate.com)
 
