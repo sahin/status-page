@@ -490,7 +490,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![OnApp](https://img.shields.io/badge/OnApp-Operational-green.svg)](http://status.onapp.com)
 
-[![One.com](https://img.shields.io/badge/One.com-Major-red.svg)](http://status.one.com)
+[![One.com](https://img.shields.io/badge/One.com-Operational-green.svg)](http://status.one.com)
 
 [![Ookla](https://img.shields.io/badge/Ookla-Operational-green.svg)](http://status.ookla.com)
 
