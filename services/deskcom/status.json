@@ -4,9 +4,9 @@
   "url": "https://status.desk.com/",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Major",
-    "description": "",
-    "updated_at": "2016-04-28T16:43:07.403Z",
-    "color": "red"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-30T06:03:44.629Z",
+    "color": "green"
   }
 }
