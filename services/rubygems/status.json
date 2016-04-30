@@ -4,9 +4,9 @@
   "url": "https://status.rubygems.org",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Major",
-    "description": "",
-    "updated_at": "2016-04-30T16:13:15.433Z",
-    "color": "red"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-30T16:29:49.385Z",
+    "color": "green"
   }
 }
