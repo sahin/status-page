@@ -4,9 +4,9 @@
   "url": "https://status.disqus.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Major",
-    "description": "",
-    "updated_at": "2016-04-27T07:24:22.621Z",
-    "color": "red"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-04-30T06:03:48.222Z",
+    "color": "green"
   }
 }
