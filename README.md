@@ -756,6 +756,6 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Yotpo](https://img.shields.io/badge/Yotpo-Operational-green.svg)](http://status.yotpo.com)
 
-[![Zoom](https://img.shields.io/badge/Zoom-Operational-green.svg)](http://status.zoom.us)
+[![Zoom](https://img.shields.io/badge/Zoom-Major-red.svg)](http://status.zoom.us)
 
 [![Zuora](https://img.shields.io/badge/Zuora-Operational-green.svg)](http://trust.zuora.com)
