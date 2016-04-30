@@ -234,7 +234,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Dispatch](https://img.shields.io/badge/Dispatch-Operational-green.svg)](http://status.dispatch.me)
 
-[![Disqus](https://img.shields.io/badge/Disqus-Major-red.svg)](https://status.disqus.com)
+[![Disqus](https://img.shields.io/badge/Disqus-Operational-green.svg)](https://status.disqus.com)
 
 [![DNSimple](https://img.shields.io/badge/DNSimple-Operational-green.svg)](http://dnsimplestatus.com)
 
