@@ -668,7 +668,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Stream](https://img.shields.io/badge/Stream-Operational-green.svg)](http://status.getstream.io)
 
-[![Sumo Logic](https://img.shields.io/badge/Sumo Logic-Operational-green.svg)](http://status.sumologic.com)
+[![Sumo Logic](https://img.shields.io/badge/Sumo Logic-Major-red.svg)](http://status.sumologic.com)
 
 [![Superfeedr](https://img.shields.io/badge/Superfeedr-Operational-green.svg)](http://status.superfeedr.com)
 
