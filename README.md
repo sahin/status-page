@@ -586,7 +586,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Rollbar](https://img.shields.io/badge/Rollbar-Operational-green.svg)](http://status.rollbar.com)
 
-[![RubyGems](https://img.shields.io/badge/RubyGems-Major-red.svg)](https://status.rubygems.org)
+[![RubyGems](https://img.shields.io/badge/RubyGems-Operational-green.svg)](https://status.rubygems.org)
 
 [![Runscope](https://img.shields.io/badge/Runscope-Operational-green.svg)](http://status.runscope.com)
 
