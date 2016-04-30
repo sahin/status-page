@@ -324,7 +324,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Haiku Learning](https://img.shields.io/badge/Haiku Learning-Operational-green.svg)](http://status.haikulearning.com)
 
-[![Hakiri](https://img.shields.io/badge/Hakiri-Major-red.svg)](http://status.hakiri.io)
+[![Hakiri](https://img.shields.io/badge/Hakiri-Operational-green.svg)](http://status.hakiri.io)
 
 [![Handwriting.io](https://img.shields.io/badge/Handwriting.io-Operational-green.svg)](http://status.handwriting.io)
 
