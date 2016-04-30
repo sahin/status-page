@@ -5,8 +5,8 @@
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Major",
-    "description": "",
-    "updated_at": "2016-04-27T07:25:48.446Z",
+    "description": "Partially Degraded Service",
+    "updated_at": "2016-04-30T06:05:36.731Z",
     "color": "red"
   }
 }
