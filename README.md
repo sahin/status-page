@@ -432,7 +432,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![LocationKit](https://img.shields.io/badge/LocationKit-Operational-green.svg)](http://status.locationkit.io)
 
-[![Loggly](https://img.shields.io/badge/Loggly-Major-red.svg)](http://status.loggly.com)
+[![Loggly](https://img.shields.io/badge/Loggly-Operational-green.svg)](http://status.loggly.com)
 
 [![Logmatic.io](https://img.shields.io/badge/Logmatic.io-Operational-green.svg)](http://status.logmatic.io)
 
