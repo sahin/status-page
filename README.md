@@ -70,7 +70,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![BetterCloud](https://img.shields.io/badge/BetterCloud-Operational-green.svg)](http://status.bettercloud.com)
 
-[![Big Cartel](https://img.shields.io/badge/Big Cartel-Operational-green.svg)](http://status.bigcartel.com/)
+[![Big Cartel](https://img.shields.io/badge/Big Cartel-Major-red.svg)](http://status.bigcartel.com/)
 
 [![Bigcommerce](https://img.shields.io/badge/Bigcommerce-Operational-green.svg)](http://status.bigcommerce.com)
 
