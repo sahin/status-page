@@ -1,7 +1,5 @@
 # Service status page
 
-# NOTE: STATUSES ARE NOT LIVE !!!!!
-
 Service status page of over 350+ cloud services.
 
 Super mininal. All statuses stored as json in github and workers are built with serverless structure in mind with Amazon Lambda and I am thinking to do 1 minute update pretty soon.
@@ -13,6 +11,8 @@ Why?
 I thought it will be very interesting to use github like a repository for status of the services (I hope github will be ok for 300 commits every minute) and built a repo for all the popular services' statuses. 
 
 I will also commit the parser codes too. I can only dedicate a little time a day, so every contribution counts. 
+
+# NOTE: STATUSES ARE NOT LIVE !!!!!
 
 [![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](https://status.acquia.com)
 
