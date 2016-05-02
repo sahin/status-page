@@ -706,7 +706,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Tropo](https://img.shields.io/badge/Tropo-Operational-green.svg)](http://status.tropo.com)
 
-[![Twilio](https://img.shields.io/badge/Twilio-Operational-green.svg)](http://status.twilio.com)
+[![Twilio](https://img.shields.io/badge/Twilio-Major-red.svg)](http://status.twilio.com)
 
 [![TwoTap](https://img.shields.io/badge/TwoTap-Operational-green.svg)](http://status.twotap.com)
 
