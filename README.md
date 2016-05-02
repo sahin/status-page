@@ -440,7 +440,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Mailgun](https://img.shields.io/badge/Mailgun-Operational-green.svg)](http://status.mailgun.com)
 
-[![Mailjet](https://img.shields.io/badge/Mailjet-Major-red.svg)](http://status.mailjet.com)
+[![Mailjet](https://img.shields.io/badge/Mailjet-Operational-green.svg)](http://status.mailjet.com)
 
 [![Mango](https://img.shields.io/badge/Mango-Operational-green.svg)](https://status.getmango.com/)
 
