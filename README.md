@@ -346,7 +346,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![HireFire](https://img.shields.io/badge/HireFire-Operational-green.svg)](http://status.hirefire.io)
 
-[![Hoiio](https://img.shields.io/badge/Hoiio-Major-red.svg)](http://status.hoiio.com/)
+[![Hoiio](https://img.shields.io/badge/Hoiio-Operational-green.svg)](http://status.hoiio.com/)
 
 [![Honeybadger](https://img.shields.io/badge/Honeybadger-Operational-green.svg)](http://status.honeybadger.io)
 
