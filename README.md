@@ -416,7 +416,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Linode](https://img.shields.io/badge/Linode-Operational-green.svg)](http://status.linode.com)
 
-[![Litmus](https://img.shields.io/badge/Litmus-Major-red.svg)](https://status.litmus.com)
+[![Litmus](https://img.shields.io/badge/Litmus-Operational-green.svg)](https://status.litmus.com)
 
 [![LiveChat](https://img.shields.io/badge/LiveChat-Operational-green.svg)](https://status.livechatinc.com)
 
