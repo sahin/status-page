@@ -46,7 +46,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Assembla](https://img.shields.io/badge/Assembla-Operational-green.svg)](http://status.assembla.com)
 
-[![Assently](https://img.shields.io/badge/Assently-Major-red.svg)](https://assently.statuspage.io)
+[![Assently](https://img.shields.io/badge/Assently-Operational-green.svg)](https://assently.statuspage.io)
 
 [![Atlassian](https://img.shields.io/badge/Atlassian-Operational-green.svg)](http://status.atlassian.com)
 
