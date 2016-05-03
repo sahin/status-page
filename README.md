@@ -428,7 +428,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Lob](https://img.shields.io/badge/Lob-Operational-green.svg)](http://status.lob.com)
 
-[![Localytics](https://img.shields.io/badge/Localytics-Major-red.svg)](http://status.localytics.com)
+[![Localytics](https://img.shields.io/badge/Localytics-Operational-green.svg)](http://status.localytics.com)
 
 [![LocationKit](https://img.shields.io/badge/LocationKit-Operational-green.svg)](http://status.locationkit.io)
 
