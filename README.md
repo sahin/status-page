@@ -224,7 +224,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Datadog](https://img.shields.io/badge/Datadog-Operational-green.svg)](http://status.datadoghq.com)
 
-[![DataSift](https://img.shields.io/badge/DataSift-Major-red.svg)](https://status.datasift.com)
+[![DataSift](https://img.shields.io/badge/DataSift-Minor-yellow.svg)](https://status.datasift.com)
 
 [![Desk.com](https://img.shields.io/badge/Desk.com-Operational-green.svg)](https://status.desk.com)
 
