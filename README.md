@@ -166,7 +166,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![CircuitHub](https://img.shields.io/badge/CircuitHub-Operational-green.svg)](http://status.circuithub.com/)
 
-[![Cisco Spark](https://img.shields.io/badge/Cisco Spark-Minor-yellow.svg)](https://status.ciscospark.com)
+[![Cisco Spark](https://img.shields.io/badge/Cisco Spark-Operational-green.svg)](https://status.ciscospark.com)
 
 [![Clearbit](https://img.shields.io/badge/Clearbit-Operational-green.svg)](http://status.clearbit.com)
 
