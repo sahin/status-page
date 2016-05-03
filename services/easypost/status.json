@@ -4,9 +4,9 @@
   "url": "http://www.easypoststatus.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Major",
     "description": "",
-    "updated_at": "2016-05-03T07:15:47.055Z",
+    "indicator": "Not Fully Operational",
     "color": "red"
-  }
+  },
+  "updated_at": "2016-05-03T07:40:25.793Z"
 }
