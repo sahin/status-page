@@ -248,7 +248,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Dwolla](https://img.shields.io/badge/Dwolla-Operational-green.svg)](http://status.dwolla.com)
 
-[![Dyn](https://img.shields.io/badge/Dyn-Major-red.svg)](https://www.dynstatus.com)
+[![Dyn](https://img.shields.io/badge/Dyn-Minor-yellow.svg)](https://www.dynstatus.com)
 
 [![EasyPost](https://img.shields.io/badge/EasyPost-Not Fully Operational-red.svg)](http://www.easypoststatus.com)
 
