@@ -100,7 +100,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Blueshift](https://img.shields.io/badge/Blueshift-Operational-green.svg)](http://status.getblueshift.com)
 
-[![BluIP](https://img.shields.io/badge/BluIP-Major-red.svg)](http://status.bluip.com)
+[![BluIP](https://img.shields.io/badge/BluIP-Operational-green.svg)](http://status.bluip.com)
 
 [![Bonsai](https://img.shields.io/badge/Bonsai-Operational-green.svg)](https://status.bonsai.io)
 
