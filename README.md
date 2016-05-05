@@ -258,7 +258,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Embedly](https://img.shields.io/badge/Embedly-Operational-green.svg)](http://status.embed.ly)
 
-[![Engine Yard](https://img.shields.io/badge/Engine Yard-Operational-green.svg)](http://status.engineyard.com)
+[![Engine Yard](https://img.shields.io/badge/Engine Yard-Non impact-black.svg)](http://status.engineyard.com)
 
 [![Envato](https://img.shields.io/badge/Envato-Operational-green.svg)](http://status.envato.com)
 
