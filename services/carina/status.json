@@ -4,9 +4,9 @@
   "url": "https://status.getcarina.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Operational",
-    "description": "All Systems Operational",
-    "updated_at": "2016-04-30T16:26:37.496Z",
-    "color": "green"
+    "indicator": "Unknown",
+    "description": "Unknown incident",
+    "updated_at": "2016-05-05T17:12:11.772Z",
+    "color": "black"
   }
 }
