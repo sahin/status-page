@@ -14,7 +14,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 # NOTE: STATUSES ARE NOT LIVE !!!!!
 
-[![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](https://status.acquia.com)
+[![Acquia](https://img.shields.io/badge/Acquia-Unknown-black.svg)](https://status.acquia.com)
 
 [![ActiveCampaign](https://img.shields.io/badge/ActiveCampaign-Operational-green.svg)](http://status.activecampaign.com)
 
