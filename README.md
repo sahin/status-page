@@ -138,7 +138,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Canvas](https://img.shields.io/badge/Canvas-Operational-green.svg)](http://status.instructure.com)
 
-[![Carina](https://img.shields.io/badge/Carina-Operational-green.svg)](https://status.getcarina.com)
+[![Carina](https://img.shields.io/badge/Carina-Unknown-black.svg)](https://status.getcarina.com)
 
 [![Catalyze](https://img.shields.io/badge/Catalyze-Operational-green.svg)](http://status.catalyze.io)
 
