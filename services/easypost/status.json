@@ -4,9 +4,10 @@
   "url": "http://www.easypoststatus.com",
   "provider": "StatusPage.io",
   "status": {
-    "description": "",
-    "indicator": "Not Fully Operational",
-    "color": "red"
+    "indicator": "Non impact",
+    "description": "Non impact incident",
+    "updated_at": "2016-05-05T06:56:23.829Z",
+    "color": "black"
   },
   "updated_at": "2016-05-03T07:40:25.793Z"
 }
