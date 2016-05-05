@@ -562,7 +562,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Rainforest QA](https://img.shields.io/badge/Rainforest QA-Operational-green.svg)](http://status.rainforestqa.com)
 
-[![Rapid7](https://img.shields.io/badge/Rapid7-Operational-green.svg)](https://status.rapid7.com/)
+[![Rapid7](https://img.shields.io/badge/Rapid7-Unknown-black.svg)](https://status.rapid7.com/)
 
 [![Raven](https://img.shields.io/badge/Raven-Operational-green.svg)](http://status.raventools.com)
 
