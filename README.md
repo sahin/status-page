@@ -572,7 +572,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![reddit](https://img.shields.io/badge/reddit-Operational-green.svg)](http://www.redditstatus.com)
 
-[![Redis Labs](https://img.shields.io/badge/Redis Labs-Operational-green.svg)](https://status.redislabs.com)
+[![Redis Labs](https://img.shields.io/badge/Redis Labs-Minor-yellow.svg)](https://status.redislabs.com)
 
 [![Redis To Go](https://img.shields.io/badge/Redis To Go-Operational-green.svg)](http://status.redistogo.com)
 
