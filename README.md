@@ -626,7 +626,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![ShopKeep](https://img.shields.io/badge/ShopKeep-Operational-green.svg)](http://status.shopkeep.com)
 
-[![Sift Science](https://img.shields.io/badge/Sift Science-Minor-yellow.svg)](https://status.siftscience.com)
+[![Sift Science](https://img.shields.io/badge/Sift Science-Operational-green.svg)](https://status.siftscience.com)
 
 [![SignalFX](https://img.shields.io/badge/SignalFX-Operational-green.svg)](http://status.signalfx.com)
 
