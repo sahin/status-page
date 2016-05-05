@@ -474,7 +474,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Newton Software](https://img.shields.io/badge/Newton Software-Operational-green.svg)](http://status.newtonsoftware.com)
 
-[![Nexmo](https://img.shields.io/badge/Nexmo-Operational-green.svg)](https://status.nexmo.com)
+[![Nexmo](https://img.shields.io/badge/Nexmo-Minor-yellow.svg)](https://status.nexmo.com)
 
 [![Next Caller](https://img.shields.io/badge/Next Caller-Operational-green.svg)](http://status.nextcaller.com)
 
