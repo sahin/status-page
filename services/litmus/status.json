@@ -4,9 +4,9 @@
   "url": "https://status.litmus.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "test",
-    "description": "test incident",
-    "updated_at": "2016-05-05T16:31:32.680Z",
+    "indicator": "Major",
+    "description": "Major incident",
+    "updated_at": "2016-05-05T16:49:54.008Z",
     "color": "red"
   }
 }
