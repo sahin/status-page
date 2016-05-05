@@ -202,7 +202,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Codeship](https://img.shields.io/badge/Codeship-Operational-green.svg)](http://codeshipstatus.com)
 
-[![Coinbase](https://img.shields.io/badge/Coinbase-Operational-green.svg)](http://status.coinbase.com)
+[![Coinbase](https://img.shields.io/badge/Coinbase-Unknown-black.svg)](http://status.coinbase.com)
 
 [![Compose](https://img.shields.io/badge/Compose-Operational-green.svg)](https://status.compose.io)
 
