@@ -448,7 +448,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Mavenlink](https://img.shields.io/badge/Mavenlink-Operational-green.svg)](https://mavenlink.statuspage.io)
 
-[![MaxCDN](https://img.shields.io/badge/MaxCDN-Operational-green.svg)](http://status.maxcdn.com)
+[![MaxCDN](https://img.shields.io/badge/MaxCDN-Non impact-black.svg)](http://status.maxcdn.com)
 
 [![Media Temple](https://img.shields.io/badge/Media Temple-Operational-green.svg)](http://status.mediatemple.net)
 
