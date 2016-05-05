@@ -738,7 +738,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![WePay](https://img.shields.io/badge/WePay-Operational-green.svg)](https://status.wepay.com)
 
-[![When I Work](https://img.shields.io/badge/When I Work-Operational-green.svg)](http://status.wheniwork.com)
+[![When I Work](https://img.shields.io/badge/When I Work-Minor-yellow.svg)](http://status.wheniwork.com)
 
 [![Wistia](https://img.shields.io/badge/Wistia-Operational-green.svg)](https://status.wistia.com)
 
