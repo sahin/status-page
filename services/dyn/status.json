@@ -4,9 +4,9 @@
   "url": "https://www.dynstatus.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Major",
-    "description": "",
-    "updated_at": "2016-04-30T16:27:37.001Z",
-    "color": "red"
+    "indicator": "Minor",
+    "description": "Minor incident",
+    "updated_at": "2016-05-05T06:56:22.082Z",
+    "color": "yellow"
   }
 }
