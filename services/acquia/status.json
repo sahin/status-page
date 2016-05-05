@@ -4,9 +4,9 @@
   "url": "https://status.acquia.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Unknown",
-    "description": "Unknown incident",
-    "updated_at": "2016-05-05T17:11:15.597Z",
-    "color": "black"
+    "indicator": "Minor",
+    "description": "Minor incident",
+    "updated_at": "2016-05-05T18:07:00.599Z",
+    "color": "yellow"
   }
 }
