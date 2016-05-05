@@ -190,7 +190,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![CloudShare](https://img.shields.io/badge/CloudShare-Operational-green.svg)](http://status.cloudshare.com)
 
-[![CloudSigma](https://img.shields.io/badge/CloudSigma-Operational-green.svg)](http://status.cloudsigma.com)
+[![CloudSigma](https://img.shields.io/badge/CloudSigma-Non impact-black.svg)](http://status.cloudsigma.com)
 
 [![Cloudways](https://img.shields.io/badge/Cloudways-Operational-green.svg)](http://status.cloudways.com)
 
