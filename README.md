@@ -32,7 +32,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![anynines](https://img.shields.io/badge/anynines-Operational-green.svg)](http://status.anynines.com)
 
-[![Apigee](https://img.shields.io/badge/Apigee-Non impact-black.svg)](https://status.apigee.com)
+[![Apigee](https://img.shields.io/badge/Apigee-Operational-green.svg)](https://status.apigee.com)
 
 [![Appboy](https://img.shields.io/badge/Appboy-Operational-green.svg)](http://status.appboy.com)
 
