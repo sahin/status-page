@@ -86,7 +86,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Bitium](https://img.shields.io/badge/Bitium-Operational-green.svg)](http://status.bitium.com)
 
-[![Bitrise](https://img.shields.io/badge/Bitrise-Operational-green.svg)](http://status.bitrise.io)
+[![Bitrise](https://img.shields.io/badge/Bitrise-Minor-yellow.svg)](http://status.bitrise.io)
 
 [![BlazeMeter](https://img.shields.io/badge/BlazeMeter-Operational-green.svg)](http://status.blazemeter.com)
 
