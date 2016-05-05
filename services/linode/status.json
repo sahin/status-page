@@ -4,9 +4,9 @@
   "url": "http://status.linode.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Non impact",
-    "description": "Non impact incident",
-    "updated_at": "2016-05-05T15:15:49.728Z",
-    "color": "black"
+    "indicator": "Minor",
+    "description": "Minor incident",
+    "updated_at": "2016-05-05T16:04:59.108Z",
+    "color": "yellow"
   }
 }
