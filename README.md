@@ -56,7 +56,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Autopilot](https://img.shields.io/badge/Autopilot-Operational-green.svg)](http://status.autopilothq.com)
 
-[![Autotask](https://img.shields.io/badge/Autotask-Operational-green.svg)](http://www.autotaskstatus.net)
+[![Autotask](https://img.shields.io/badge/Autotask-Minor-yellow.svg)](http://www.autotaskstatus.net)
 
 [![Avalara](https://img.shields.io/badge/Avalara-Operational-green.svg)](https://status.avalara.com)
 
