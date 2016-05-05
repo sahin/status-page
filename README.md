@@ -198,7 +198,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Codecov](https://img.shields.io/badge/Codecov-Operational-green.svg)](http://status.codecov.io)
 
-[![Code School](https://img.shields.io/badge/Code School-Operational-green.svg)](http://status.codeschool.com)
+[![Code School](https://img.shields.io/badge/Code School-Minor-yellow.svg)](http://status.codeschool.com)
 
 [![Codeship](https://img.shields.io/badge/Codeship-Operational-green.svg)](http://codeshipstatus.com)
 
