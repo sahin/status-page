@@ -486,7 +486,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Nylas](https://img.shields.io/badge/Nylas-Operational-green.svg)](http://status.nylas.com)
 
-[![Olark](https://img.shields.io/badge/Olark-Operational-green.svg)](http://status.olark.com)
+[![Olark](https://img.shields.io/badge/Olark-Non impact-black.svg)](http://status.olark.com)
 
 [![OnApp](https://img.shields.io/badge/OnApp-Operational-green.svg)](http://status.onapp.com)
 
