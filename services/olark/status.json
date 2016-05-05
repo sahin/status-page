@@ -4,9 +4,9 @@
   "url": "http://status.olark.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Non impact",
-    "description": "Non impact incident",
-    "updated_at": "2016-05-05T06:58:36.089Z",
-    "color": "black"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-05T15:16:24.452Z",
+    "color": "green"
   }
 }
