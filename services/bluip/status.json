@@ -4,9 +4,9 @@
   "url": "http://status.bluip.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Major",
-    "description": "Partially Degraded Service",
-    "updated_at": "2016-04-30T16:26:17.703Z",
-    "color": "red"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-05T06:52:37.330Z",
+    "color": "green"
   }
 }
