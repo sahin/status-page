@@ -508,7 +508,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![packagecloud.io](https://img.shields.io/badge/packagecloud.io-Operational-green.svg)](http://www.packagecloudstatus.io)
 
-[![Packet](https://img.shields.io/badge/Packet-Operational-green.svg)](http://status.packet.net)
+[![Packet](https://img.shields.io/badge/Packet-Major-red.svg)](http://status.packet.net)
 
 [![PagerDuty](https://img.shields.io/badge/PagerDuty-Operational-green.svg)](https://status.pagerduty.com)
 
