@@ -270,7 +270,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Fabric](https://img.shields.io/badge/Fabric-Operational-green.svg)](http://status.fabric.io)
 
-[![Fastly](https://img.shields.io/badge/Fastly-Operational-green.svg)](https://status.fastly.com)
+[![Fastly](https://img.shields.io/badge/Fastly-Non impact-black.svg)](https://status.fastly.com)
 
 [![Fieldbook](https://img.shields.io/badge/Fieldbook-Operational-green.svg)](http://status.fieldbook.com)
 
