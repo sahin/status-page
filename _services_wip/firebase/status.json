@@ -2,7 +2,7 @@
   "name": "firebase",
   "readable_name": "Firebase",
   "url": "http://status.firebase.com/",
-  "provider": "Unknown",
+  "provider": "Pingdom",
   "status": {
     "indicator": "Major",
     "description": "",
