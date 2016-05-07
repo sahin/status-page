@@ -2,7 +2,7 @@
   "name": "heroku",
   "readable_name": "Heroku",
   "url": "https://status.heroku.com/",
-  "provider": "Unknown",
+  "provider": "Inhouse",
   "status": {
     "indicator": "Major",
     "description": "",
