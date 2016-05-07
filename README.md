@@ -464,7 +464,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Modulus](https://img.shields.io/badge/Modulus-Operational-green.svg)](http://status.modulus.io)
 
-[![Moz](https://img.shields.io/badge/Moz-Minor-yellow.svg)](http://health.moz.com)
+[![Moz](https://img.shields.io/badge/Moz-Operational-green.svg)](http://health.moz.com)
 
 [![MuleSoft](https://img.shields.io/badge/MuleSoft-Operational-green.svg)](http://status.mulesoft.com)
 
