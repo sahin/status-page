@@ -4,9 +4,9 @@
   "url": "https://status.ciscospark.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Major",
-    "description": "Major incident",
-    "updated_at": "2016-05-05T06:55:24.253Z",
-    "color": "red"
+    "indicator": "Minor",
+    "description": "Minor incident",
+    "updated_at": "2016-05-07T18:47:14.203Z",
+    "color": "yellow"
   }
 }
