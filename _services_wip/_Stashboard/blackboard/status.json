@@ -1,0 +1,12 @@
+{
+  "name": "blackboard",
+  "readable_name": "Blackboard",
+  "url": "http://status.blackboard.com/",
+  "provider": "Stashboard",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:42:44.269Z",
+    "color": "red"
+  }
+}

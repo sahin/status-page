@@ -1,0 +1,12 @@
+{
+  "name": "authy",
+  "readable_name": "Authy",
+  "url": "http://status.authy.com/",
+  "provider": "Pingdom",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:42:37.405Z",
+    "color": "red"
+  }
+}

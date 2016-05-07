@@ -1,0 +1,12 @@
+{
+  "name": "digitalocean",
+  "readable_name": "DigitalOcean",
+  "url": "https://status.digitalocean.com/",
+  "provider": "Inhouse",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:08.779Z",
+    "color": "red"
+  }
+}
