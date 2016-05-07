@@ -2,7 +2,7 @@
   "name": "wp-engine",
   "readable_name": "WP Engine",
   "url": "https://wpenginestatus.com/",
-  "provider": "Unknown",
+  "provider": "Inhouse",
   "status": {
     "indicator": "Major",
     "description": "",
