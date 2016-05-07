@@ -2,7 +2,7 @@
   "name": "swiftype",
   "readable_name": "Swiftype",
   "url": "http://status.swiftype.com/",
-  "provider": "Unknown",
+  "provider": "Status.io",
   "status": {
     "indicator": "Major",
     "description": "",
