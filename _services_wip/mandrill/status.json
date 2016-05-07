@@ -2,7 +2,7 @@
   "name": "mandrill",
   "readable_name": "Mandrill",
   "url": "http://status.mandrillapp.com/",
-  "provider": "Unknown",
+  "provider": "Inhouse",
   "status": {
     "indicator": "Major",
     "description": "",
