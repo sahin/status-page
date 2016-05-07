@@ -2,7 +2,7 @@
   "name": "digitalocean",
   "readable_name": "DigitalOcean",
   "url": "https://status.digitalocean.com/",
-  "provider": "Unknown",
+  "provider": "Inhouse",
   "status": {
     "indicator": "Major",
     "description": "",
