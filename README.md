@@ -476,7 +476,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Nexmo](https://img.shields.io/badge/Nexmo-Minor-yellow.svg)](https://status.nexmo.com)
 
-[![Next Caller](https://img.shields.io/badge/Next Caller-Operational-green.svg)](http://status.nextcaller.com)
+[![Next Caller](https://img.shields.io/badge/Next Caller-Unknown-black.svg)](http://status.nextcaller.com)
 
 [![Nitrous](https://img.shields.io/badge/Nitrous-Operational-green.svg)](http://status.nitrous.io)
 
