@@ -1,0 +1,12 @@
+{
+  "name": "sonatype",
+  "readable_name": "Sonatype",
+  "url": "http://status.sonatype.com",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:44:21.593Z",
+    "color": "red"
+  }
+}

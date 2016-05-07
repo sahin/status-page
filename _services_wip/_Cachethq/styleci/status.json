@@ -1,0 +1,12 @@
+{
+  "name": "styleci",
+  "readable_name": "StyleCI",
+  "url": "https://status.styleci.io",
+  "provider": "Cachethq",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:44:27.836Z",
+    "color": "red"
+  }
+}

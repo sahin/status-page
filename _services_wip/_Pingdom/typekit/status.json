@@ -1,0 +1,12 @@
+{
+  "name": "typekit",
+  "readable_name": "Typekit",
+  "url": "http://stats.pingdom.com/6rl4cs0h9h18",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:44:33.748Z",
+    "color": "red"
+  }
+}

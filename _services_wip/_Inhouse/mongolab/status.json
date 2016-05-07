@@ -1,0 +1,12 @@
+{
+  "name": "mongolab",
+  "readable_name": "mLab",
+  "url": "http://status.mlab.com",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:50.091Z",
+    "color": "red"
+  }
+}

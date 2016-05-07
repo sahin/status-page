@@ -1,0 +1,12 @@
+{
+  "name": "opsgenie",
+  "readable_name": "OpsGenie",
+  "url": "http://status.opsgenie.com",
+  "provider": "Unknown",
+  "status": {
+    "indicator": "Major",
+    "description": "",
+    "updated_at": "2016-04-28T16:43:57.000Z",
+    "color": "red"
+  }
+}
