@@ -2,7 +2,7 @@
   "name": "plaid",
   "readable_name": "Plaid",
   "url": "https://status.plaid.com",
-  "provider": "Unknown",
+  "provider": "Inhouse",
   "status": {
     "indicator": "Major",
     "description": "",
