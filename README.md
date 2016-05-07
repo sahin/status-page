@@ -618,7 +618,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![ShipHawk](https://img.shields.io/badge/ShipHawk-Operational-green.svg)](https://shiphawk.statuspage.io)
 
-[![Shippo](https://img.shields.io/badge/Shippo-Operational-green.svg)](http://status.goshippo.com)
+[![Shippo](https://img.shields.io/badge/Shippo-Non impact-black.svg)](http://status.goshippo.com)
 
 [![Shipwire](https://img.shields.io/badge/Shipwire-Operational-green.svg)](http://status.shipwire.com)
 
