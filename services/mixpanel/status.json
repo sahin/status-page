@@ -2,7 +2,7 @@
   "name": "mixpanel",
   "readable_name": "Mixpanel",
   "url": "https://status.mixpanel.com/",
-  "provider": "Unknown",
+  "provider": "StatusPage.io",
   "status": {
     "indicator": "Major",
     "description": "",
