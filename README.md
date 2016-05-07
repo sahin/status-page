@@ -24,7 +24,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Adzerk](https://img.shields.io/badge/Adzerk-Operational-green.svg)](http://status.adzerk.com)
 
-[![Airbrake](https://img.shields.io/badge/Airbrake-Operational-green.svg)](https://status.airbrake.io)
+[![Airbrake](https://img.shields.io/badge/Airbrake-Non impact-black.svg)](https://status.airbrake.io)
 
 [![Amplitude](https://img.shields.io/badge/Amplitude-Operational-green.svg)](http://status.amplitude.com)
 
