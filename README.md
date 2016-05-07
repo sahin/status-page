@@ -498,7 +498,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![OpenShift](https://img.shields.io/badge/OpenShift-Operational-green.svg)](http://status.openshift.com)
 
-[![OpenSRS](https://img.shields.io/badge/OpenSRS-Non impact-black.svg)](http://opensrsstatus.com)
+[![OpenSRS](https://img.shields.io/badge/OpenSRS-Operational-green.svg)](http://opensrsstatus.com)
 
 [![Opsmatic](https://img.shields.io/badge/Opsmatic-Operational-green.svg)](http://status.opsmatic.com)
 
