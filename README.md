@@ -172,7 +172,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![ClearSlide](https://img.shields.io/badge/ClearSlide-Operational-green.svg)](http://status.clearslide.com)
 
-[![Clef](https://img.shields.io/badge/Clef-Operational-green.svg)](https://status.getclef.com)
+[![Clef](https://img.shields.io/badge/Clef-Minor-yellow.svg)](https://status.getclef.com)
 
 [![Clever](https://img.shields.io/badge/Clever-Operational-green.svg)](https://status.clever.com)
 
