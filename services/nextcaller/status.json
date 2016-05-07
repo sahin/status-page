@@ -4,9 +4,9 @@
   "url": "http://status.nextcaller.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Operational",
-    "description": "All Systems Operational",
-    "updated_at": "2016-04-30T16:29:05.386Z",
-    "color": "green"
+    "indicator": "Unknown",
+    "description": "Unknown incident",
+    "updated_at": "2016-05-07T21:04:53.912Z",
+    "color": "black"
   }
 }
