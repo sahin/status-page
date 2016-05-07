@@ -220,7 +220,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Cronofy](https://img.shields.io/badge/Cronofy-Operational-green.svg)](http://status.cronofy.com)
 
-[![Customer.io](https://img.shields.io/badge/Customer.io-Operational-green.svg)](http://status.customer.io)
+[![Customer.io](https://img.shields.io/badge/Customer.io-Minor-yellow.svg)](http://status.customer.io)
 
 [![Datadog](https://img.shields.io/badge/Datadog-Operational-green.svg)](http://status.datadoghq.com)
 
