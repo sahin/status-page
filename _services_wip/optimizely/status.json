@@ -2,7 +2,7 @@
   "name": "optimizely",
   "readable_name": "Optimizely",
   "url": "http://status.optimizely.com",
-  "provider": "Unknown",
+  "provider": "Pingdom",
   "status": {
     "indicator": "Major",
     "description": "",
