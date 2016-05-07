@@ -4,9 +4,9 @@
   "url": "http://status.bigcartel.com/",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Operational",
-    "description": "All Systems Operational",
-    "updated_at": "2016-05-05T15:12:37.872Z",
-    "color": "green"
+    "indicator": "Minor",
+    "description": "Minor incident",
+    "updated_at": "2016-05-07T20:57:26.985Z",
+    "color": "yellow"
   }
 }
