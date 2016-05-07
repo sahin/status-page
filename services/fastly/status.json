@@ -4,9 +4,9 @@
   "url": "https://status.fastly.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Operational",
-    "description": "All Systems Operational",
-    "updated_at": "2016-04-30T16:27:46.465Z",
-    "color": "green"
+    "indicator": "Non impact",
+    "description": "Non impact incident",
+    "updated_at": "2016-05-07T21:02:02.274Z",
+    "color": "black"
   }
 }
