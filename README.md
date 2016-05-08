@@ -139,7 +139,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Hoiio](https://img.shields.io/badge/Hoiio-Operational-green.svg)](http://status.hoiio.com/)
 
 
-[![Hosted Graphite](https://img.shields.io/badge/Hosted Graphite-Minor-yellow.svg)](http://status.hostedgraphite.com)
+[![Hosted Graphite](https://img.shields.io/badge/Hosted Graphite-Operational-green.svg)](http://status.hostedgraphite.com)
 [![HubSpot](https://img.shields.io/badge/HubSpot-Operational-green.svg)](https://status.hubspot.com)
 [![I Want My Name](https://img.shields.io/badge/I Want My Name-Operational-green.svg)](http://status.iwantmyname.com/)
 [![IFTTT](https://img.shields.io/badge/IFTTT-Operational-green.svg)](http://status.ifttt.com)
