@@ -238,6 +238,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![DNSimple](https://img.shields.io/badge/DNSimple-Operational-green.svg)](http://dnsimplestatus.com)
 
+[![Docker](https://img.shields.io/badge/Docker-Unknown-black.svg)](https://status.docker.com)
+
 [![dotmailer](https://img.shields.io/badge/dotmailer-Operational-green.svg)](http://status.dotmailer.com)
 
 [![drchrono](https://img.shields.io/badge/drchrono-Operational-green.svg)](https://status.drchrono.com)
