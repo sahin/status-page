@@ -96,9 +96,9 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![CircleCI](https://img.shields.io/badge/CircleCI-Operational-green.svg)](http://status.circleci.com)
 [![CircuitHub](https://img.shields.io/badge/CircuitHub-Operational-green.svg)](http://status.circuithub.com/)
 [![Cisco Spark](https://img.shields.io/badge/Cisco Spark-Minor-yellow.svg)](https://status.ciscospark.com)
+
+
 [![Clearbit](https://img.shields.io/badge/Clearbit-Operational-green.svg)](http://status.clearbit.com)
-
-
 [![ClearSlide](https://img.shields.io/badge/ClearSlide-Operational-green.svg)](http://status.clearslide.com)
 [![Clef](https://img.shields.io/badge/Clef-Minor-yellow.svg)](https://status.getclef.com)
 [![Clever](https://img.shields.io/badge/Clever-Operational-green.svg)](https://status.clever.com)
@@ -135,9 +135,9 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![dotmailer](https://img.shields.io/badge/dotmailer-Operational-green.svg)](http://status.dotmailer.com)
 [![drchrono](https://img.shields.io/badge/drchrono-Operational-green.svg)](https://status.drchrono.com)
 [![DuoCircle](https://img.shields.io/badge/DuoCircle-Operational-green.svg)](http://status.duocircle.com)
-
-
 [![Duo](https://img.shields.io/badge/Duo-Operational-green.svg)](https://status.duo.com)
+
+
 [![Dwolla](https://img.shields.io/badge/Dwolla-Operational-green.svg)](http://status.dwolla.com)
 [![Dyn](https://img.shields.io/badge/Dyn-Minor-yellow.svg)](https://www.dynstatus.com)
 [![EasyPost](https://img.shields.io/badge/EasyPost-Non impact-black.svg)](http://www.easypoststatus.com)
@@ -153,7 +153,6 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Fieldbook](https://img.shields.io/badge/Fieldbook-Operational-green.svg)](http://status.fieldbook.com)
 [![Filestack](https://img.shields.io/badge/Filestack-Operational-green.svg)](http://status.filestack.com/)
 [![Fleetio](https://img.shields.io/badge/Fleetio-Operational-green.svg)](http://status.fleetio.com)
-[![Flowdock](https://img.shields.io/badge/Flowdock-Operational-green.svg)](http://status.flowdock.com)
 
 
 [![Flowdock](https://img.shields.io/badge/Flowdock-Operational-green.svg)](http://status.flowdock.com/)
@@ -173,6 +172,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Ghost Inspector](https://img.shields.io/badge/Ghost Inspector-Operational-green.svg)](https://ghostinspector.statuspage.io)
 [![Gild](https://img.shields.io/badge/Gild-Operational-green.svg)](http://status.gild.com)
 [![GitBook](https://img.shields.io/badge/GitBook-Operational-green.svg)](http://status.gitbook.com)
+
 
 [![Go Cardless](https://img.shields.io/badge/Go Cardless-Operational-green.svg)](http://www.gocardless-status.com/)
 [![GoToAssist](https://img.shields.io/badge/GoToAssist-Operational-green.svg)](http://status.gotoassist.com)
