@@ -4,9 +4,9 @@
   "url": "https://status.docker.com",
   "provider": "Powered by Status.io",
   "status": {
-    "description": "Unknown",
-    "indicator": "Unknown",
+    "description": "All Systems Operational",
+    "indicator": "Operational",
     "color": "green",
-    "updated_at": "2016-05-08T08:51:11.066Z"
+    "updated_at": "2016-05-08T08:57:32.677Z"
   }
 }
