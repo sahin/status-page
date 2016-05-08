@@ -2,7 +2,7 @@
   "name": "lets-encrypt",
   "readable_name": "Let's Encrypt",
   "url": "https://letsencrypt.status.io/",
-  "provider": "Unknown",
+  "provider": "Powered by Status.io",
   "status": {
     "indicator": "Major",
     "description": "",
