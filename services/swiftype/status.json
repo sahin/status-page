@@ -4,9 +4,9 @@
   "url": "http://status.swiftype.com",
   "provider": "Powered by Status.io",
   "status": {
-    "indicator": "Major",
-    "description": "",
-    "updated_at": "2016-04-28T16:44:28.994Z",
-    "color": "red"
+    "description": "All Systems Operational",
+    "indicator": "Operational",
+    "color": "green",
+    "updated_at": "2016-05-08T08:51:12.558Z"
   }
 }
