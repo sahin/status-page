@@ -4,9 +4,9 @@
   "url": "http://opensrsstatus.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-08T09:16:05.071Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-08T11:08:54.192Z",
+    "color": "green"
   }
 }
