@@ -14,13 +14,19 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 # NOTE: STATUSES ARE NOT LIVE !!!!!
 
-# Categorized ( Based on Stackshare.io)
+#### Categorized ( Based on Stackshare.io)
+
+  
+| **Analytics**|||
+| -------------         |:-------------:| -----:|
+|  **`Mobile Analytics`**
+| [![Amplitude](https://img.shields.io/badge/Amplitude-Operational-green.svg)](http://status.amplitude.com) | [![Localytics](https://img.shields.io/badge/Localytics-Operational-green.svg)](http://status.localytics.com)||
+
 
 | **Application and Data**|||
 | -------------         |:-------------:| -----:|
 |  **`Assets and Media`**
-| [![CloudFlare](https://img.shields.io/badge/CloudFlare-Non impact-black.svg)](https://www.cloudflarestatus.com) | [![Fastly](https://img.shields.io/badge/Fastly-Non impact-black.svg)](https://status.fastly.com) |  |
-||||
+| [![CloudFlare](https://img.shields.io/badge/CloudFlare-Non impact-black.svg)](https://www.cloudflarestatus.com) |  [![CacheFly](https://img.shields.io/badge/CacheFly-Operational-green.svg)](http://status.cachefly.com)|[![Fastly](https://img.shields.io/badge/Fastly-Non impact-black.svg)](https://status.fastly.com) |
 
 
 | **DevOps**|||
@@ -45,8 +51,6 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![AdRoll](https://img.shields.io/badge/AdRoll-Operational-green.svg)](http://status.adroll.com)
 
 [![Adzerk](https://img.shields.io/badge/Adzerk-Operational-green.svg)](http://status.adzerk.com)
-
-[![Amplitude](https://img.shields.io/badge/Amplitude-Operational-green.svg)](http://status.amplitude.com)
 
 [![AngelList](https://img.shields.io/badge/AngelList-Operational-green.svg)](http://status.angel.co)
 
@@ -145,8 +149,6 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Buildkite](https://img.shields.io/badge/Buildkite-Operational-green.svg)](http://buildkitestatus.com)
 
 [![Built.io](https://img.shields.io/badge/Built.io-Operational-green.svg)](http://status.built.io)
-
-[![CacheFly](https://img.shields.io/badge/CacheFly-Operational-green.svg)](http://status.cachefly.com)
 
 [![CallFire](https://img.shields.io/badge/CallFire-Operational-green.svg)](http://status.callfire.com)
 
@@ -444,7 +446,6 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Lob](https://img.shields.io/badge/Lob-Operational-green.svg)](http://status.lob.com)
 
-[![Localytics](https://img.shields.io/badge/Localytics-Operational-green.svg)](http://status.localytics.com)
 
 [![LocationKit](https://img.shields.io/badge/LocationKit-Operational-green.svg)](http://status.locationkit.io)
 
