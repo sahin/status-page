@@ -54,21 +54,12 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 |[![Autopilot](https://img.shields.io/badge/Autopilot-Operational-green.svg)](http://status.autopilothq.com) | [![Autotask](https://img.shields.io/badge/Autotask-Minor-yellow.svg)](http://www.autotaskstatus.net) | [![Avalara](https://img.shields.io/badge/Avalara-Operational-green.svg)](https://status.avalara.com) | [![AWeber](https://img.shields.io/badge/AWeber-Operational-green.svg)](http://status.aweber.com) | [![Baremetrics](https://img.shields.io/badge/Baremetrics-Operational-green.svg)](http://status.aweber.com) | [![Barricade](https://img.shields.io/badge/Barricade-Operational-green.svg)](https://barricade.statuspage.io)
 |[![Base CRM](https://img.shields.io/badge/Base CRM-Operational-green.svg)](http://status.getbase.com) | [![BetterCloud](https://img.shields.io/badge/BetterCloud-Operational-green.svg)](http://status.bettercloud.com) | [![BigCartel](https://img.shields.io/badge/Big Cartel-Operational-green.svg)](http://status.bigcartel.com/) | [![Bigcommerce](https://img.shields.io/badge/Bigcommerce-Operational-green.svg)](http://status.bigcommerce.com) | [![BigPanda](https://img.shields.io/badge/BigPanda-Operational-green.svg)](http://status.bigpanda.io) | [![Bigwig](https://img.shields.io/badge/Bigwig-Operational-green.svg)](http://status.bigwig.lshift.net)|
 |[![Bintray](https://img.shields.io/badge/Bintray-Operational-green.svg)](http://status.bintray.com) | [![Bitbucket](https://img.shields.io/badge/Bitbucket-Operational-green.svg)](http://status.bitbucket.org) | [![Bitfinex](https://img.shields.io/badge/Bitfinex-Operational-green.svg)](https://bitfinex.statuspage.io) | [![Bitium](https://img.shields.io/badge/Bitium-Operational-green.svg)](http://status.bitium.com) | [![Bitrise](https://img.shields.io/badge/Bitrise-Operational-green.svg)](http://status.bitrise.io) | [![BlazeMeter](https://img.shields.io/badge/BlazeMeter-Operational-green.svg)](http://status.blazemeter.com)
+|[![Block.io](https://img.shields.io/badge/Block.io-Operational-green.svg)](http://status.block.io)|[![BlockScore](https://img.shields.io/badge/BlockScore-Operational-green.svg)](http://status.blockscore.com)|[![Blue Box](https://img.shields.io/badge/Blue Box-Operational-green.svg)](https://blueboxstatus.com)|[![BlueJeans](https://img.shields.io/badge/BlueJeans-Operational-green.svg)](http://status.bluejeans.com)|[![Blueshift](https://img.shields.io/badge/Blueshift-Operational-green.svg)](http://status.getblueshift.com)|[![BluIP](https://img.shields.io/badge/BluIP-Operational-green.svg)](http://status.bluip.com)|
+|[![Bonsai](https://img.shields.io/badge/Bonsai-Operational-green.svg)](https://status.bonsai.io)|[![Boundary](https://img.shields.io/badge/Boundary-Operational-green.svg)](http://status.boundary.com/)|[![BowTie](https://img.shields.io/badge/BowTie-Operational-green.svg)](http://status.bowtie.io)|[![Box](https://img.shields.io/badge/Box-Operational-green.svg)](https://status.box.com)|[![Braintree](https://img.shields.io/badge/Braintree-Operational-green.svg)](https://status.braintreepayments.com)|[![Branch](https://img.shields.io/badge/Branch-Major-red.svg)](http://status.branch.io)|
+|||||||
 
 
 
-[![Block.io](https://img.shields.io/badge/Block.io-Operational-green.svg)](http://status.block.io)
-[![BlockScore](https://img.shields.io/badge/BlockScore-Operational-green.svg)](http://status.blockscore.com)
-[![Blue Box](https://img.shields.io/badge/Blue Box-Operational-green.svg)](https://blueboxstatus.com)
-[![BlueJeans](https://img.shields.io/badge/BlueJeans-Operational-green.svg)](http://status.bluejeans.com)
-[![Blueshift](https://img.shields.io/badge/Blueshift-Operational-green.svg)](http://status.getblueshift.com)
-[![BluIP](https://img.shields.io/badge/BluIP-Operational-green.svg)](http://status.bluip.com)
-[![Bonsai](https://img.shields.io/badge/Bonsai-Operational-green.svg)](https://status.bonsai.io)
-[![Boundary](https://img.shields.io/badge/Boundary-Operational-green.svg)](http://status.boundary.com/)
-[![BowTie](https://img.shields.io/badge/BowTie-Operational-green.svg)](http://status.bowtie.io)
-[![Box](https://img.shields.io/badge/Box-Operational-green.svg)](https://status.box.com)
-[![Braintree](https://img.shields.io/badge/Braintree-Operational-green.svg)](https://status.braintreepayments.com)
-[![Branch](https://img.shields.io/badge/Branch-Major-red.svg)](http://status.branch.io)
 [![Breadcrumb](https://img.shields.io/badge/Breadcrumb-Operational-green.svg)](http://status.breadcrumbpos.com/)
 [![Brightpearl](https://img.shields.io/badge/Brightpearl-Operational-green.svg)](http://status.brightpearl.com/)
 [![Buffer](https://img.shields.io/badge/Buffer-Operational-green.svg)](http://status.buffer.com)
@@ -76,8 +67,6 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Buildkite](https://img.shields.io/badge/Buildkite-Operational-green.svg)](http://buildkitestatus.com)
 [![Built.io](https://img.shields.io/badge/Built.io-Operational-green.svg)](http://status.built.io)
 [![CallFire](https://img.shields.io/badge/CallFire-Operational-green.svg)](http://status.callfire.com)
-
-
 [![Campaign Monitor](https://img.shields.io/badge/Campaign Monitor-Operational-green.svg)](https://status.campaignmonitor.com)
 [![Canva](https://img.shields.io/badge/Canva-Operational-green.svg)](http://status.canva.com)
 [![Canvas](https://img.shields.io/badge/Canvas-Operational-green.svg)](http://status.instructure.com)
