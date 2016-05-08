@@ -678,6 +678,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Surveypal](https://img.shields.io/badge/Surveypal-Operational-green.svg)](https://status.surveypal.com)
 
+[![Swiftype](https://img.shields.io/badge/Swiftype-Unknown-black.svg)](http://status.swiftype.com)
+
 [![Switch.co](https://img.shields.io/badge/Switch.co-Operational-green.svg)](http://status.dialpad.com)
 
 [![Dialpad](https://img.shields.io/badge/Dialpad-Operational-green.svg)](http://status.dialpad.com/)
