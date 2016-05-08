@@ -20,14 +20,16 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 | **Analytics**|||
 | -------------         |:-------------:| -----:|
 |  **`Mobile Analytics`**
-| [![Amplitude](https://img.shields.io/badge/Amplitude-Operational-green.svg)](http://status.amplitude.com) | [![Localytics](https://img.shields.io/badge/Localytics-Operational-green.svg)](http://status.localytics.com)||
+| [![Amplitude](https://img.shields.io/badge/Amplitude-Operational-green.svg)](http://status.amplitude.com) | [![Localytics](https://img.shields.io/badge/Localytics-Operational-green.svg)](http://status.localytics.com)|[![Kissmetrics](https://img.shields.io/badge/Kissmetrics-Operational-green.svg)](https://kmstatus.com)|
+|[![Taplytics](https://img.shields.io/badge/Taplytics-Operational-green.svg)](http://status.taplytics.com)|||
 
 
 | **Application and Data**|||
 | -------------         |:-------------:| -----:|
 |  **`Assets and Media`**
 | [![CloudFlare](https://img.shields.io/badge/CloudFlare-Non impact-black.svg)](https://www.cloudflarestatus.com) |  [![CacheFly](https://img.shields.io/badge/CacheFly-Operational-green.svg)](http://status.cachefly.com)|[![Fastly](https://img.shields.io/badge/Fastly-Non impact-black.svg)](https://status.fastly.com) |
-
+|[![Cloudinary](https://img.shields.io/badge/Cloudinary-Operational-green.svg)](http://status.cloudinary.com)
+|||
 
 | **DevOps**|||
 | -------------         |:-------------:| -----:|
@@ -37,6 +39,13 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 ||||
 |  **`Error Logging`**
 |[![Loggly](https://img.shields.io/badge/Loggly-Operational-green.svg)](http://status.loggly.com)|[![Papertrail](https://img.shields.io/badge/Papertrail-Operational-green.svg)](http://www.papertrailstatus.com)||
+| **`Monitoring`**
+|[![New Relic](https://img.shields.io/badge/New Relic-Operational-green.svg)](https://status.newrelic.com)|[![Runscope](https://img.shields.io/badge/Runscope-Operational-green.svg)](http://status.runscope.com)||
+| **`Build, Test, Deploy`**
+|[![Codeship](https://img.shields.io/badge/Codeship-Operational-green.svg)](http://codeshipstatus.com)|[![Code Climate](https://img.shields.io/badge/Code Climate-Operational-green.svg)](http://status.codeclimate.com)|[![Travis CI](https://img.shields.io/badge/Travis CI-Operational-green.svg)](https://www.traviscistatus.com)|
+|[![Sauce Labs](https://img.shields.io/badge/Sauce Labs-Operational-green.svg)](http://status.saucelabs.com)
+|[![Scout](https://img.shields.io/badge/Scout-Operational-green.svg)](https://status.scoutapp.com)
+||
 
 
 
@@ -204,7 +213,6 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![CloudAMQP](https://img.shields.io/badge/CloudAMQP-Operational-green.svg)](http://status.cloudamqp.com)
 
-[![Cloudinary](https://img.shields.io/badge/Cloudinary-Operational-green.svg)](http://status.cloudinary.com)
 
 [![CloudShare](https://img.shields.io/badge/CloudShare-Operational-green.svg)](http://status.cloudshare.com)
 
@@ -212,13 +220,9 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Cloudways](https://img.shields.io/badge/Cloudways-Operational-green.svg)](http://status.cloudways.com)
 
-[![Code Climate](https://img.shields.io/badge/Code Climate-Operational-green.svg)](http://status.codeclimate.com)
-
 [![Codecov](https://img.shields.io/badge/Codecov-Operational-green.svg)](http://status.codecov.io)
 
 [![Code School](https://img.shields.io/badge/Code School-Operational-green.svg)](http://status.codeschool.com)
-
-[![Codeship](https://img.shields.io/badge/Codeship-Operational-green.svg)](http://codeshipstatus.com)
 
 [![Coinbase](https://img.shields.io/badge/Coinbase-Operational-green.svg)](http://status.coinbase.com)
 
@@ -398,17 +402,12 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Jive Software](https://img.shields.io/badge/Jive Software-Operational-green.svg)](http://status.jivesoftware.com)
 
-[![Keen](https://img.shields.io/badge/Keen-Operational-green.svg)](http://status.keen.io)
-
-[![Keen IO](https://img.shields.io/badge/Keen IO-Operational-green.svg)](http://status.keen.io)
 
 [![Kenna Security](https://img.shields.io/badge/Kenna Security-Operational-green.svg)](http://status.kennasecurity.com)
 
 [![Kickbox](https://img.shields.io/badge/Kickbox-Operational-green.svg)](http://status.kickbox.io)
 
 [![Kickstarter](https://img.shields.io/badge/Kickstarter-Operational-green.svg)](http://status.kickstarter.com)
-
-[![Kissmetrics](https://img.shields.io/badge/Kissmetrics-Operational-green.svg)](https://kmstatus.com)
 
 [![Klarna](https://img.shields.io/badge/Klarna-Operational-green.svg)](http://status.klarna.com)
 
@@ -442,10 +441,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Loader.io](https://img.shields.io/badge/Loader.io-Operational-green.svg)](http://status.loader.io)
 
-[![Load Impact](https://img.shields.io/badge/Load Impact-Operational-green.svg)](http://status.loadimpact.com)
-
 [![Lob](https://img.shields.io/badge/Lob-Operational-green.svg)](http://status.lob.com)
-
 
 [![LocationKit](https://img.shields.io/badge/LocationKit-Operational-green.svg)](http://status.locationkit.io)
 
@@ -484,8 +480,6 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![MuleSoft](https://img.shields.io/badge/MuleSoft-Operational-green.svg)](http://status.mulesoft.com)
 
 [![Namely](https://img.shields.io/badge/Namely-Operational-green.svg)](https://status.namely.com)
-
-[![New Relic](https://img.shields.io/badge/New Relic-Operational-green.svg)](https://status.newrelic.com)
 
 [![Newton Software](https://img.shields.io/badge/Newton Software-Operational-green.svg)](http://status.newtonsoftware.com)
 
@@ -599,12 +593,6 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![RubyGems](https://img.shields.io/badge/RubyGems-Operational-green.svg)](https://status.rubygems.org)
 
-[![Runscope](https://img.shields.io/badge/Runscope-Operational-green.svg)](http://status.runscope.com)
-
-[![Sauce Labs](https://img.shields.io/badge/Sauce Labs-Operational-green.svg)](http://status.saucelabs.com)
-
-[![Scout](https://img.shields.io/badge/Scout-Operational-green.svg)](https://status.scoutapp.com)
-
 [![Scrapinghub](https://img.shields.io/badge/Scrapinghub-Operational-green.svg)](http://status.scrapinghub.com)
 
 [![Scrutinizer](https://img.shields.io/badge/Scrutinizer-Operational-green.svg)](http://status.scrutinizer-ci.com)
@@ -699,8 +687,6 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Tapglue](https://img.shields.io/badge/Tapglue-Operational-green.svg)](http://status.tapglue.com)
 
-[![Taplytics](https://img.shields.io/badge/Taplytics-Operational-green.svg)](http://status.taplytics.com)
-
 [![TaskRabbit](https://img.shields.io/badge/TaskRabbit-Operational-green.svg)](http://status.taskrabbit.com)
 
 [![Teespring](https://img.shields.io/badge/Teespring-Operational-green.svg)](http://status.teespring.com)
@@ -708,8 +694,6 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Threat Stack](https://img.shields.io/badge/Threat Stack-Operational-green.svg)](http://status.threatstack.com)
 
 [![Totango](https://img.shields.io/badge/Totango-Operational-green.svg)](http://status.totango.com)
-
-[![Travis CI](https://img.shields.io/badge/Travis CI-Operational-green.svg)](https://www.traviscistatus.com)
 
 [![tray.io](https://img.shields.io/badge/tray.io-Operational-green.svg)](http://status.tray.io)
 
