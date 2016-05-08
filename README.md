@@ -410,7 +410,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![LeadPages](https://img.shields.io/badge/LeadPages-Operational-green.svg)](http://status.leadpages.net)
 
-[![Let's Encrypt](https://img.shields.io/badge/Let's Encrypt-Unknown-black.svg)](https://letsencrypt.status.io)
+[![Let's Encrypt](https://img.shields.io/badge/Let's Encrypt-Operational-green.svg)](https://letsencrypt.status.io)
 
 [![Lever](https://img.shields.io/badge/Lever-Operational-green.svg)](https://status.lever.co)
 
