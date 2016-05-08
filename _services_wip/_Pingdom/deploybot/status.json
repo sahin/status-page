@@ -1,5 +1,5 @@
 {
-  "name": "dploy",
+  "name": "deploybot",
   "readable_name": "DeployBot",
   "url": "http://status.deploybot.com",
   "provider": "Pingdom",

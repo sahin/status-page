@@ -1,7 +1,7 @@
 {
   "name": "docker",
   "readable_name": "Docker",
-  "url": "https://status.docker.com/",
+  "url": "https://status.docker.com",
   "provider": "Status.io",
   "status": {
     "indicator": "Major",
