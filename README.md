@@ -352,7 +352,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![Honeybadger](https://img.shields.io/badge/Honeybadger-Operational-green.svg)](http://status.honeybadger.io)
 
-[![Hosted Graphite](https://img.shields.io/badge/Hosted Graphite-Operational-green.svg)](http://status.hostedgraphite.com)
+[![Hosted Graphite](https://img.shields.io/badge/Hosted Graphite-Minor-yellow.svg)](http://status.hostedgraphite.com)
 
 [![HubSpot](https://img.shields.io/badge/HubSpot-Operational-green.svg)](https://status.hubspot.com)
 
