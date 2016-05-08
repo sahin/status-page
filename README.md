@@ -55,6 +55,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 |[![Base CRM](https://img.shields.io/badge/Base CRM-Operational-green.svg)](http://status.getbase.com) | [![BetterCloud](https://img.shields.io/badge/BetterCloud-Operational-green.svg)](http://status.bettercloud.com) | [![BigCartel](https://img.shields.io/badge/Big Cartel-Operational-green.svg)](http://status.bigcartel.com/) | [![Bigcommerce](https://img.shields.io/badge/Bigcommerce-Operational-green.svg)](http://status.bigcommerce.com) | [![BigPanda](https://img.shields.io/badge/BigPanda-Operational-green.svg)](http://status.bigpanda.io) | [![Bigwig](https://img.shields.io/badge/Bigwig-Operational-green.svg)](http://status.bigwig.lshift.net)|
 |[![Bintray](https://img.shields.io/badge/Bintray-Operational-green.svg)](http://status.bintray.com) | [![Bitbucket](https://img.shields.io/badge/Bitbucket-Operational-green.svg)](http://status.bitbucket.org) | [![Bitfinex](https://img.shields.io/badge/Bitfinex-Operational-green.svg)](https://bitfinex.statuspage.io) | [![Bitium](https://img.shields.io/badge/Bitium-Operational-green.svg)](http://status.bitium.com) | [![Bitrise](https://img.shields.io/badge/Bitrise-Operational-green.svg)](http://status.bitrise.io) | [![BlazeMeter](https://img.shields.io/badge/BlazeMeter-Operational-green.svg)](http://status.blazemeter.com)
 
+
+
 [![Block.io](https://img.shields.io/badge/Block.io-Operational-green.svg)](http://status.block.io)
 [![BlockScore](https://img.shields.io/badge/BlockScore-Operational-green.svg)](http://status.blockscore.com)
 [![Blue Box](https://img.shields.io/badge/Blue Box-Operational-green.svg)](https://blueboxstatus.com)
@@ -74,6 +76,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Buildkite](https://img.shields.io/badge/Buildkite-Operational-green.svg)](http://buildkitestatus.com)
 [![Built.io](https://img.shields.io/badge/Built.io-Operational-green.svg)](http://status.built.io)
 [![CallFire](https://img.shields.io/badge/CallFire-Operational-green.svg)](http://status.callfire.com)
+
+
 [![Campaign Monitor](https://img.shields.io/badge/Campaign Monitor-Operational-green.svg)](https://status.campaignmonitor.com)
 [![Canva](https://img.shields.io/badge/Canva-Operational-green.svg)](http://status.canva.com)
 [![Canvas](https://img.shields.io/badge/Canvas-Operational-green.svg)](http://status.instructure.com)
@@ -93,6 +97,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![CircuitHub](https://img.shields.io/badge/CircuitHub-Operational-green.svg)](http://status.circuithub.com/)
 [![Cisco Spark](https://img.shields.io/badge/Cisco Spark-Minor-yellow.svg)](https://status.ciscospark.com)
 [![Clearbit](https://img.shields.io/badge/Clearbit-Operational-green.svg)](http://status.clearbit.com)
+
+
 [![ClearSlide](https://img.shields.io/badge/ClearSlide-Operational-green.svg)](http://status.clearslide.com)
 [![Clef](https://img.shields.io/badge/Clef-Minor-yellow.svg)](https://status.getclef.com)
 [![Clever](https://img.shields.io/badge/Clever-Operational-green.svg)](https://status.clever.com)
@@ -100,7 +106,6 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Close.io](https://img.shields.io/badge/Close.io-Operational-green.svg)](http://status.close.io)
 [![Cloud9](https://img.shields.io/badge/Cloud9-Operational-green.svg)](http://status.c9.io)
 [![CloudAMQP](https://img.shields.io/badge/CloudAMQP-Operational-green.svg)](http://status.cloudamqp.com)
-
 [![CloudShare](https://img.shields.io/badge/CloudShare-Operational-green.svg)](http://status.cloudshare.com)
 [![CloudSigma](https://img.shields.io/badge/CloudSigma-Non impact-black.svg)](http://status.cloudsigma.com)
 [![Cloudways](https://img.shields.io/badge/Cloudways-Operational-green.svg)](http://status.cloudways.com)
@@ -111,6 +116,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Contactually](https://img.shields.io/badge/Contactually-Operational-green.svg)](http://status.contactually.com)
 [![Contentful](https://img.shields.io/badge/Contentful-Operational-green.svg)](http://status.contentful.com)
 [![Context.IO](https://img.shields.io/badge/Context.IO-Operational-green.svg)](http://status.context.io)
+
+
 [![Counterparty](https://img.shields.io/badge/Counterparty-Operational-green.svg)](http://status.counterparty.io)
 [![Coveralls](https://img.shields.io/badge/Coveralls-Operational-green.svg)](http://status.coveralls.io)
 [![Crittercism](https://img.shields.io/badge/Crittercism-Operational-green.svg)](http://status.crittercism.com)
@@ -128,6 +135,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![dotmailer](https://img.shields.io/badge/dotmailer-Operational-green.svg)](http://status.dotmailer.com)
 [![drchrono](https://img.shields.io/badge/drchrono-Operational-green.svg)](https://status.drchrono.com)
 [![DuoCircle](https://img.shields.io/badge/DuoCircle-Operational-green.svg)](http://status.duocircle.com)
+
+
 [![Duo](https://img.shields.io/badge/Duo-Operational-green.svg)](https://status.duo.com)
 [![Dwolla](https://img.shields.io/badge/Dwolla-Operational-green.svg)](http://status.dwolla.com)
 [![Dyn](https://img.shields.io/badge/Dyn-Minor-yellow.svg)](https://www.dynstatus.com)
@@ -145,6 +154,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Filestack](https://img.shields.io/badge/Filestack-Operational-green.svg)](http://status.filestack.com/)
 [![Fleetio](https://img.shields.io/badge/Fleetio-Operational-green.svg)](http://status.fleetio.com)
 [![Flowdock](https://img.shields.io/badge/Flowdock-Operational-green.svg)](http://status.flowdock.com)
+
+
 [![Flowdock](https://img.shields.io/badge/Flowdock-Operational-green.svg)](http://status.flowdock.com/)
 [![Flying Sphinx](https://img.shields.io/badge/Flying Sphinx-Operational-green.svg)](http://status.flying-sphinx.com)
 [![Formstack](https://img.shields.io/badge/Formstack-Operational-green.svg)](http://status.formstack.com)
@@ -162,6 +173,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Ghost Inspector](https://img.shields.io/badge/Ghost Inspector-Operational-green.svg)](https://ghostinspector.statuspage.io)
 [![Gild](https://img.shields.io/badge/Gild-Operational-green.svg)](http://status.gild.com)
 [![GitBook](https://img.shields.io/badge/GitBook-Operational-green.svg)](http://status.gitbook.com)
+
 [![Go Cardless](https://img.shields.io/badge/Go Cardless-Operational-green.svg)](http://www.gocardless-status.com/)
 [![GoToAssist](https://img.shields.io/badge/GoToAssist-Operational-green.svg)](http://status.gotoassist.com)
 [![GoToMeeting](https://img.shields.io/badge/GoToMeeting-Operational-green.svg)](http://status.gotomeeting.com)
@@ -179,6 +191,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![HipChat](https://img.shields.io/badge/HipChat-Operational-green.svg)](https://status.hipchat.com)
 [![HireFire](https://img.shields.io/badge/HireFire-Operational-green.svg)](http://status.hirefire.io)
 [![Hoiio](https://img.shields.io/badge/Hoiio-Operational-green.svg)](http://status.hoiio.com/)
+
+
 [![Hosted Graphite](https://img.shields.io/badge/Hosted Graphite-Minor-yellow.svg)](http://status.hostedgraphite.com)
 [![HubSpot](https://img.shields.io/badge/HubSpot-Operational-green.svg)](https://status.hubspot.com)
 [![I Want My Name](https://img.shields.io/badge/I Want My Name-Operational-green.svg)](http://status.iwantmyname.com/)
@@ -195,6 +209,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Iterable](https://img.shields.io/badge/Iterable-Operational-green.svg)](http://status.iterable.com)
 [![iwantmyname](https://img.shields.io/badge/iwantmyname-Operational-green.svg)](http://status.iwantmyname.com)
 [![Jive Software](https://img.shields.io/badge/Jive Software-Operational-green.svg)](http://status.jivesoftware.com)
+
 
 [![Kenna Security](https://img.shields.io/badge/Kenna Security-Operational-green.svg)](http://status.kennasecurity.com)
 [![Kickbox](https://img.shields.io/badge/Kickbox-Operational-green.svg)](http://status.kickbox.io)
@@ -214,6 +229,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Litmus](https://img.shields.io/badge/Litmus-Major-red.svg)](https://status.litmus.com)
 [![LiveChat](https://img.shields.io/badge/LiveChat-Operational-green.svg)](https://status.livechatinc.com)
 [![Load Impact](https://img.shields.io/badge/Load Impact-Operational-green.svg)](http://status.loadimpact.com/)
+
 [![Loader.io](https://img.shields.io/badge/Loader.io-Operational-green.svg)](http://status.loader.io)
 [![Lob](https://img.shields.io/badge/Lob-Operational-green.svg)](http://status.lob.com)
 [![LocationKit](https://img.shields.io/badge/LocationKit-Operational-green.svg)](http://status.locationkit.io)
@@ -232,6 +248,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Mindflash](https://img.shields.io/badge/Mindflash-Operational-green.svg)](http://trust.mindflash.com)
 [![Mode Analytics](https://img.shields.io/badge/Mode Analytics-Operational-green.svg)](http://status.modeanalytics.com)
 [![Modulus](https://img.shields.io/badge/Modulus-Operational-green.svg)](http://status.modulus.io)
+
+
 [![Moz](https://img.shields.io/badge/Moz-Operational-green.svg)](http://health.moz.com)
 [![MuleSoft](https://img.shields.io/badge/MuleSoft-Operational-green.svg)](http://status.mulesoft.com)
 [![Namely](https://img.shields.io/badge/Namely-Operational-green.svg)](https://status.namely.com)
@@ -250,6 +268,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![OpenShift](https://img.shields.io/badge/OpenShift-Operational-green.svg)](http://status.openshift.com)
 [![OpenSRS](https://img.shields.io/badge/OpenSRS-Minor-yellow.svg)](http://opensrsstatus.com)
 [![Opsmatic](https://img.shields.io/badge/Opsmatic-Operational-green.svg)](http://status.opsmatic.com)
+
+
 [![OrgSync](https://img.shields.io/badge/OrgSync-Operational-green.svg)](http://status.orgsync.com)
 [![Outbound](https://img.shields.io/badge/Outbound-Operational-green.svg)](http://status.outbound.io)
 [![packagecloud.io](https://img.shields.io/badge/packagecloud.io-Operational-green.svg)](http://www.packagecloudstatus.io)
@@ -268,6 +288,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Pipedrive](https://img.shields.io/badge/Pipedrive-Operational-green.svg)](http://status.pipedrive.com)
 [![Pivotal Tracker](https://img.shields.io/badge/Pivotal Tracker-Operational-green.svg)](http://status.pivotaltracker.com/)
 [![Plex](https://img.shields.io/badge/Plex-Operational-green.svg)](http://status.plex.tv)
+
+
 [![Podio](https://img.shields.io/badge/Podio-Operational-green.svg)](http://status.podio.com)
 [![Post Planner](https://img.shields.io/badge/Post Planner-Operational-green.svg)](http://status.postplanner.com)
 [![Procore](https://img.shields.io/badge/Procore-Operational-green.svg)](http://status.procore.com)
@@ -286,6 +308,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![reddit](https://img.shields.io/badge/reddit-Operational-green.svg)](http://www.redditstatus.com)
 [![Redis Labs](https://img.shields.io/badge/Redis Labs-Operational-green.svg)](https://status.redislabs.com)
 [![Redis To Go](https://img.shields.io/badge/Redis To Go-Operational-green.svg)](http://status.redistogo.com)
+
+
 [![SalesforceIQ](https://img.shields.io/badge/SalesforceIQ-Operational-green.svg)](https://status.salesforceiq.com/)
 [![Resin.io](https://img.shields.io/badge/Resin.io-Operational-green.svg)](http://status.resin.io)
 [![RJMetrics](https://img.shields.io/badge/RJMetrics-Operational-green.svg)](http://status.rjmetrics.com)
@@ -304,6 +328,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![ShipHawk](https://img.shields.io/badge/ShipHawk-Operational-green.svg)](https://shiphawk.statuspage.io)
 [![Shippo](https://img.shields.io/badge/Shippo-Non impact-black.svg)](http://status.goshippo.com)
 [![Shipwire](https://img.shields.io/badge/Shipwire-Operational-green.svg)](http://status.shipwire.com)
+
+
 [![Shopify](https://img.shields.io/badge/Shopify-Operational-green.svg)](https://status.shopify.com)
 [![ShopKeep](https://img.shields.io/badge/ShopKeep-Operational-green.svg)](http://status.shopkeep.com)
 [![Sift Science](https://img.shields.io/badge/Sift Science-Operational-green.svg)](https://status.siftscience.com)
@@ -322,6 +348,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Sprout](https://img.shields.io/badge/Sprout-Operational-green.svg)](http://status.sproutsocial.com)
 [![Squarespace](https://img.shields.io/badge/Squarespace-Operational-green.svg)](https://status.squarespace.com)
 [![Staffjoy](https://img.shields.io/badge/Staffjoy-Operational-green.svg)](http://status.staffjoy.com)
+
+
 [![StatusPage.io](https://img.shields.io/badge/StatusPage.io-Operational-green.svg)](http://metastatuspage.com/)
 [![StopLight](https://img.shields.io/badge/StopLight-Operational-green.svg)](http://status.stoplight.io)
 [![Stormpath](https://img.shields.io/badge/Stormpath-Operational-green.svg)](http://status.stormpath.com)
@@ -340,6 +368,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Tapglue](https://img.shields.io/badge/Tapglue-Operational-green.svg)](http://status.tapglue.com)
 [![TaskRabbit](https://img.shields.io/badge/TaskRabbit-Operational-green.svg)](http://status.taskrabbit.com)
 [![Teespring](https://img.shields.io/badge/Teespring-Operational-green.svg)](http://status.teespring.com)
+
+
 [![Threat Stack](https://img.shields.io/badge/Threat Stack-Operational-green.svg)](http://status.threatstack.com)
 [![Totango](https://img.shields.io/badge/Totango-Operational-green.svg)](http://status.totango.com)
 [![tray.io](https://img.shields.io/badge/tray.io-Operational-green.svg)](http://status.tray.io)
@@ -358,6 +388,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Venmo](https://img.shields.io/badge/Venmo-Operational-green.svg)](http://status.venmo.com)
 [![VictorOps](https://img.shields.io/badge/VictorOps-Operational-green.svg)](https://status.victorops.com)
 [![Vimeo](https://img.shields.io/badge/Vimeo-Operational-green.svg)](http://www.vimeostatus.com)
+
+
 [![VividCortex](https://img.shields.io/badge/VividCortex-Operational-green.svg)](https://vividcortex.statuspage.io)
 [![Webflow](https://img.shields.io/badge/Webflow-Operational-green.svg)](http://status.webflow.com)
 [![WePay](https://img.shields.io/badge/WePay-Operational-green.svg)](https://status.wepay.com)
