@@ -56,23 +56,11 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 |[![Bintray](https://img.shields.io/badge/Bintray-Operational-green.svg)](http://status.bintray.com) | [![Bitbucket](https://img.shields.io/badge/Bitbucket-Operational-green.svg)](http://status.bitbucket.org) | [![Bitfinex](https://img.shields.io/badge/Bitfinex-Operational-green.svg)](https://bitfinex.statuspage.io) | [![Bitium](https://img.shields.io/badge/Bitium-Operational-green.svg)](http://status.bitium.com) | [![Bitrise](https://img.shields.io/badge/Bitrise-Operational-green.svg)](http://status.bitrise.io) | [![BlazeMeter](https://img.shields.io/badge/BlazeMeter-Operational-green.svg)](http://status.blazemeter.com)
 |[![Block.io](https://img.shields.io/badge/Block.io-Operational-green.svg)](http://status.block.io)|[![BlockScore](https://img.shields.io/badge/BlockScore-Operational-green.svg)](http://status.blockscore.com)|[![Blue Box](https://img.shields.io/badge/Blue Box-Operational-green.svg)](https://blueboxstatus.com)|[![BlueJeans](https://img.shields.io/badge/BlueJeans-Operational-green.svg)](http://status.bluejeans.com)|[![Blueshift](https://img.shields.io/badge/Blueshift-Operational-green.svg)](http://status.getblueshift.com)|[![BluIP](https://img.shields.io/badge/BluIP-Operational-green.svg)](http://status.bluip.com)|
 |[![Bonsai](https://img.shields.io/badge/Bonsai-Operational-green.svg)](https://status.bonsai.io)|[![Boundary](https://img.shields.io/badge/Boundary-Operational-green.svg)](http://status.boundary.com/)|[![BowTie](https://img.shields.io/badge/BowTie-Operational-green.svg)](http://status.bowtie.io)|[![Box](https://img.shields.io/badge/Box-Operational-green.svg)](https://status.box.com)|[![Braintree](https://img.shields.io/badge/Braintree-Operational-green.svg)](https://status.braintreepayments.com)|[![Branch](https://img.shields.io/badge/Branch-Major-red.svg)](http://status.branch.io)|
-|||||||
+|[![Breadcrumb](https://img.shields.io/badge/Breadcrumb-Operational-green.svg)](http://status.breadcrumbpos.com/) | [![Brightpearl](https://img.shields.io/badge/Brightpearl-Operational-green.svg)](http://status.brightpearl.com/) | [![Buffer](https://img.shields.io/badge/Buffer-Operational-green.svg)](http://status.buffer.com) | [![BugHerd](https://img.shields.io/badge/BugHerd-Operational-green.svg)](http://bugherdstatus.com) | [![Buildkite](https://img.shields.io/badge/Buildkite-Operational-green.svg)](http://buildkitestatus.com) | [![Built.io](https://img.shields.io/badge/Built.io-Operational-green.svg)](http://status.built.io)|
+|[![CallFire](https://img.shields.io/badge/CallFire-Operational-green.svg)](http://status.callfire.com) | [![Campaign Monitor](https://img.shields.io/badge/Campaign Monitor-Operational-green.svg)](https://status.campaignmonitor.com) | [![Canva](https://img.shields.io/badge/Canva-Operational-green.svg)](http://status.canva.com) | [![Canvas](https://img.shields.io/badge/Canvas-Operational-green.svg)](http://status.instructure.com) | [![Carina](https://img.shields.io/badge/Carina-Operational-green.svg)](https://status.getcarina.com) | [![Catalyze](https://img.shields.io/badge/Catalyze-Operational-green.svg)](http://status.catalyze.io) |
 
 
-
-[![Breadcrumb](https://img.shields.io/badge/Breadcrumb-Operational-green.svg)](http://status.breadcrumbpos.com/)
-[![Brightpearl](https://img.shields.io/badge/Brightpearl-Operational-green.svg)](http://status.brightpearl.com/)
-[![Buffer](https://img.shields.io/badge/Buffer-Operational-green.svg)](http://status.buffer.com)
-[![BugHerd](https://img.shields.io/badge/BugHerd-Operational-green.svg)](http://bugherdstatus.com)
-[![Buildkite](https://img.shields.io/badge/Buildkite-Operational-green.svg)](http://buildkitestatus.com)
-[![Built.io](https://img.shields.io/badge/Built.io-Operational-green.svg)](http://status.built.io)
-[![CallFire](https://img.shields.io/badge/CallFire-Operational-green.svg)](http://status.callfire.com)
-[![Campaign Monitor](https://img.shields.io/badge/Campaign Monitor-Operational-green.svg)](https://status.campaignmonitor.com)
-[![Canva](https://img.shields.io/badge/Canva-Operational-green.svg)](http://status.canva.com)
-[![Canvas](https://img.shields.io/badge/Canvas-Operational-green.svg)](http://status.instructure.com)
-[![Carina](https://img.shields.io/badge/Carina-Operational-green.svg)](https://status.getcarina.com)
-[![Catalyze](https://img.shields.io/badge/Catalyze-Operational-green.svg)](http://status.catalyze.io)
-[![Catchpoint](https://img.shields.io/badge/Catchpoint-Major-red.svg)](http://status.catchpoint.com)
+[![Catchpoint](https://img.shields.io/badge/Catchpoint-Major-red.svg)](http://status.catchpoint.com) |
 [![Chalkup](https://img.shields.io/badge/Chalkup-Operational-green.svg)](http://status.chalkup.co/)
 [![Chargify](https://img.shields.io/badge/Chargify-Operational-green.svg)](http://status.chargify.io/)
 [![Charify](https://img.shields.io/badge/Charify-Operational-green.svg)](http://status.chargify.io)
