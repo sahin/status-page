@@ -362,7 +362,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![imgix](https://img.shields.io/badge/imgix-Operational-green.svg)](http://status.imgix.com)
 
-[![Incapsula](https://img.shields.io/badge/Incapsula-Operational-green.svg)](https://status.incapsula.com)
+[![Incapsula](https://img.shields.io/badge/Incapsula-Non impact-black.svg)](https://status.incapsula.com)
 
 [![Insightly](https://img.shields.io/badge/Insightly-Operational-green.svg)](http://status.insightly.com)
 
