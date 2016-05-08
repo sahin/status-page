@@ -4,9 +4,9 @@
   "url": "https://letsencrypt.status.io",
   "provider": "Powered by Status.io",
   "status": {
-    "description": "Unknown",
-    "indicator": "Unknown",
+    "description": "All Systems Operational",
+    "indicator": "Operational",
     "color": "green",
-    "updated_at": "2016-05-08T08:53:13.436Z"
+    "updated_at": "2016-05-08T09:02:33.127Z"
   }
 }
