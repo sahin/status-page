@@ -14,12 +14,13 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 # NOTE: STATUSES ARE NOT LIVE !!!!!
 
+# Categorized ( Based on Stackshare.io)
+
 | **Application and Data**|||
 | -------------         |:-------------:| -----:|
 |  **`Assets and Media`**
 | [![CloudFlare](https://img.shields.io/badge/CloudFlare-Non impact-black.svg)](https://www.cloudflarestatus.com) | [![Fastly](https://img.shields.io/badge/Fastly-Non impact-black.svg)](https://status.fastly.com) |  |
-| **`Application Hosting`**                
-| NA         | NA      |    NA |
+||||
 
 
 | **DevOps**|||
@@ -27,9 +28,13 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 |  **`Exception Monitoring`**
 | [![Airbrake](https://img.shields.io/badge/Airbrake-Non impact-black.svg)](https://status.airbrake.io) | [![Bugsnag](https://img.shields.io/badge/Bugsnag-Operational-green.svg)](http://status.bugsnag.com) | [![Honeybadger](https://img.shields.io/badge/Honeybadger-Operational-green.svg)](http://status.honeybadger.io) |
 | [![Sentry](https://img.shields.io/badge/Sentry-Operational-green.svg)](http://status.getsentry.com) |[![Rollbar](https://img.shields.io/badge/Rollbar-Operational-green.svg)](http://status.rollbar.com)|||
+||||
+|  **`Error Logging`**
+|[![Loggly](https://img.shields.io/badge/Loggly-Operational-green.svg)](http://status.loggly.com)|[![Papertrail](https://img.shields.io/badge/Papertrail-Operational-green.svg)](http://www.papertrailstatus.com)||
+
+
 
 # Uncategorized
-
 
 [![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](https://status.acquia.com)
 
@@ -443,8 +448,6 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 
 [![LocationKit](https://img.shields.io/badge/LocationKit-Operational-green.svg)](http://status.locationkit.io)
 
-[![Loggly](https://img.shields.io/badge/Loggly-Operational-green.svg)](http://status.loggly.com)
-
 [![Logmatic.io](https://img.shields.io/badge/Logmatic.io-Operational-green.svg)](http://status.logmatic.io)
 
 [![Lookback](https://img.shields.io/badge/Lookback-Operational-green.svg)](http://status.lookback.io)
@@ -526,8 +529,6 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Pagoda Box](https://img.shields.io/badge/Pagoda Box-Operational-green.svg)](http://status.pagodabox.io)
 
 [![Pantheon](https://img.shields.io/badge/Pantheon-Operational-green.svg)](http://status.pantheon.io)
-
-[![Papertrail](https://img.shields.io/badge/Papertrail-Operational-green.svg)](http://www.papertrailstatus.com)
 
 [![Parse](https://img.shields.io/badge/Parse-Operational-green.svg)](https://status.parse.com)
 
