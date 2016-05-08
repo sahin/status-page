@@ -212,7 +212,7 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 [![Ookla](https://img.shields.io/badge/Ookla-Operational-green.svg)](http://status.ookla.com)
 [![Opbeat](https://img.shields.io/badge/Opbeat-Operational-green.svg)](http://status.opbeat.com)
 [![OpenShift](https://img.shields.io/badge/OpenShift-Operational-green.svg)](http://status.openshift.com)
-[![OpenSRS](https://img.shields.io/badge/OpenSRS-Minor-yellow.svg)](http://opensrsstatus.com)
+[![OpenSRS](https://img.shields.io/badge/OpenSRS-Operational-green.svg)](http://opensrsstatus.com)
 [![Opsmatic](https://img.shields.io/badge/Opsmatic-Operational-green.svg)](http://status.opsmatic.com)
 
 
