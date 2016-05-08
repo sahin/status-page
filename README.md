@@ -42,10 +42,8 @@ I will also commit the parser codes too. I can only dedicate a little time a day
 | **`Monitoring`**
 |[![New Relic](https://img.shields.io/badge/New Relic-Operational-green.svg)](https://status.newrelic.com)|[![Runscope](https://img.shields.io/badge/Runscope-Operational-green.svg)](http://status.runscope.com)||
 | **`Build, Test, Deploy`**
-|[![Codeship](https://img.shields.io/badge/Codeship-Operational-green.svg)](http://codeshipstatus.com)|[![Code Climate](https://img.shields.io/badge/Code Climate-Operational-green.svg)](http://status.codeclimate.com)|[![Travis CI](https://img.shields.io/badge/Travis CI-Operational-green.svg)](https://www.traviscistatus.com)|
-|[![Sauce Labs](https://img.shields.io/badge/Sauce Labs-Operational-green.svg)](http://status.saucelabs.com)
-|[![Scout](https://img.shields.io/badge/Scout-Operational-green.svg)](https://status.scoutapp.com)
-||
+|[![Codeship](https://img.shields.io/badge/Codeship-Operational-green.svg)](http://codeshipstatus.com) | [![Code Climate](https://img.shields.io/badge/Code Climate-Operational-green.svg)](http://status.codeclimate.com) | [![Travis CI](https://img.shields.io/badge/Travis CI-Operational-green.svg)](https://www.traviscistatus.com)|
+|[![Sauce Labs](https://img.shields.io/badge/Sauce Labs-Operational-green.svg)](http://status.saucelabs.com)|[![Scout](https://img.shields.io/badge/Scout-Operational-green.svg)](https://status.scoutapp.com)||
 
 
 
