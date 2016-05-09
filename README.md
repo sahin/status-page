@@ -20,19 +20,19 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 ## Categories ( Based on Stackshare.io)
 
 
-| **Analytics**|||
-| -------------         |:-------------:| -----:|
+| **Analytics**|||||
+| -------------         |:-------------:| -----:| -----:| -----:|
 |  **`Mobile Analytics`**
 | [![Amplitude](https://img.shields.io/badge/Amplitude-Operational-green.svg)](http://status.amplitude.com) | [![Localytics](https://img.shields.io/badge/Localytics-Operational-green.svg)](http://status.localytics.com)|[![Kissmetrics](https://img.shields.io/badge/Kissmetrics-Operational-green.svg)](https://kmstatus.com)|[![Taplytics](https://img.shields.io/badge/Taplytics-Operational-green.svg)](http://status.taplytics.com)|||
 
 
-| **Application and Data**|||
-| -------------         |:-------------:| -----:|
+| **Application and Data**|||||
+| -------------         |:-------------:| -----:| -----:| -----:|
 |  **`Assets and Media`**
 |[![CloudFlare](https://img.shields.io/badge/CloudFlare-Minor-yellow.svg)](https://www.cloudflarestatus.com) |[![Cloudinary](https://img.shields.io/badge/Cloudinary-Operational-green.svg)](http://status.cloudinary.com)|[![Fastly](https://img.shields.io/badge/Fastly-Operational-green.svg)](https://status.fastly.com)|||
 
-| **DevOps**|||
-| -------------         |:-------------:| -----:|
+| **DevOps**|||||
+| -------------         |:-------------:| -----:| -----:| -----:|
 |  **`Exception Monitoring`**
 |[![Airbrake](https://img.shields.io/badge/Airbrake-Non impact-black.svg)](https://status.airbrake.io) | [![Bugsnag](https://img.shields.io/badge/Bugsnag-Operational-green.svg)](http://status.bugsnag.com) | [![Honeybadger](https://img.shields.io/badge/Honeybadger-Operational-green.svg)](http://status.honeybadger.io)| [![Sentry](https://img.shields.io/badge/Sentry-Operational-green.svg)](http://status.getsentry.com)|[![Rollbar](https://img.shields.io/badge/Rollbar-Operational-green.svg)](http://status.rollbar.com)|||
 |||||
