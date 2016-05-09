@@ -1,11 +1,9 @@
-Our system supports
-
-StatusPage.io and Upcoming Status.io, so check the template file and simple create a folder with system.json.
+Our system supports StatusPage.io and Upcoming Status.io, so check the template file and simple create a folder with system.json.
 
 
 If your service has a custom in house status page,
 
-1) Create a folder and status.json
+1) Create a folder and status.json file from the template.json
 
 2) Create a file called Parse.js (example check Statusio.js)
 
