@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update 2016-05-09T07:06:09.012Z  PST
+Last Update 2016-05-09T07:17:57.973Z  PST
 
 Service status page of over 378 cloud services.
 
