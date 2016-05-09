@@ -19,16 +19,16 @@ export async function editReadmeForService(service) {
   };
 
   repo.contents('master', 'README.md', (err, contents) => {
-    const regex = new RegExp(`${service.readable_name}-(.*).svg`, 'g');
+    let regex = new RegExp(`${service.readable_name}-(.*).svg`, 'g');
     // console.log(regex);
 
-    const string = `${service.readable_name}-${service.status.indicator}-` +
+    let string = `${service.readable_name}-${service.status.indicator}-` +
     `${service.status.color}.svg`;
     // console.log(string);
 
     let content = new Buffer(contents.content, 'base64').toString('ascii');
 
-    const found = content.match(regex);
+    let found = content.match(regex);
     if (found === string) {
       // clog('no change: skip readme update')
     } else {
@@ -44,6 +44,17 @@ export async function editReadmeForService(service) {
       // clog(message);
       const file = 'README.md';
       // clog(file);
+
+      // Changing updated_at
+      string = `Last Update ${service.status.updated_at}  PST`;
+      regex = new RegExp('Last Update (.*) PST', 'g');
+      found = content.match(regex);
+      if (found === regex) {
+        throw new Error('Time cannot found');
+      } else {
+        c.log('Updating time');
+        content = content.replace(regex, string);
+      }
 
       repo.write('master', file, content, message, options, (error) => {
         if (!error) {
