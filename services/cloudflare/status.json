@@ -4,9 +4,9 @@
   "url": "https://www.cloudflarestatus.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Non impact",
-    "description": "Non impact incident",
-    "updated_at": "2016-05-08T09:07:03.431Z",
-    "color": "black"
+    "indicator": "Minor",
+    "description": "Minor incident",
+    "updated_at": "2016-05-09T07:19:23.244Z",
+    "color": "yellow"
   }
 }
