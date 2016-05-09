@@ -16,7 +16,8 @@ For now, it is supporting services which uses StatusPage.io and Status.io. (Cont
 For adding services please check _servicesWillBeAdded folder's readme.md
 
 
-#### Categorized ( Based on Stackshare.io)
+
+## Categories ( Based on Stackshare.io)
 
 
 | **Analytics**|||
