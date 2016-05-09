@@ -4,9 +4,9 @@
   "url": "https://status.incapsula.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Non impact",
-    "description": "Non impact incident",
-    "updated_at": "2016-05-08T09:14:59.054Z",
-    "color": "black"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-09T07:20:56.917Z",
+    "color": "green"
   }
 }
