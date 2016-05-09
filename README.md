@@ -2,15 +2,15 @@
 
 Service status page of over 350+ cloud services.
 
+## Why? 
+
+I thought it will be very interesting to use github like a repository for status of the services (I hope github will be ok for 300 commits every minute) and built a repo for all the popular services' statuses. 
+
+## How? 
 Super mininal. All statuses stored as json in github and workers are built with serverless structure in mind with Amazon Lambda and I am thinking to do 1 minute update pretty soon.
 
 For now, it is supporting services which uses StatusPage.io and Status.io. (Contribution needed for the rest)
 
-Why? 
-
-I thought it will be very interesting to use github like a repository for status of the services (I hope github will be ok for 300 commits every minute) and built a repo for all the popular services' statuses. 
-
-I will also commit the parser codes too. I can only dedicate a little time a day, so every contribution counts. 
 
 # NOTE: STATUSES ARE NOT LIVE !!!!!
 
