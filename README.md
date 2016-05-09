@@ -14,6 +14,8 @@ Super mininal. All statuses stored as json in github and parser code is in the s
 
 For now, it is supporting services which uses StatusPage.io and Status.io. (Contribution needed for the rest)
 
+## Adding Services
+Please check _servicesWillBeAdded folder's readme.md
 
 #### Categorized ( Based on Stackshare.io)
 
