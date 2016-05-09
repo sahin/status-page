@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update May 09, 2016 09:20:04  PST
+Last Update May 09, 2016 09:20:18  PST
 
 Service status page of over 378 cloud services.
 
@@ -148,7 +148,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![Intercom](https://img.shields.io/badge/Intercom-Operational-green.svg)](https://status.intercom.io)
 [![Intuit Developer](https://img.shields.io/badge/Intuit Developer-Major-red.svg)](http://developer-status.intuit.com/)
 [![InVision](https://img.shields.io/badge/InVision-Operational-green.svg)](http://status.invisionapp.com)
-[![Ionic](https://img.shields.io/badge/Ionic-Operational-green.svg)](http://status.ionic.io)
+[![Ionic](https://img.shields.io/badge/Ionic-Non impact-black.svg)](http://status.ionic.io)
 [![Iron.io](https://img.shields.io/badge/Iron.io-Operational-green.svg)](https://status.iron.io)
 [![Iterable](https://img.shields.io/badge/Iterable-Operational-green.svg)](http://status.iterable.com)
 [![iwantmyname](https://img.shields.io/badge/iwantmyname-Operational-green.svg)](http://status.iwantmyname.com)
