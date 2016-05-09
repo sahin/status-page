@@ -5,7 +5,7 @@ If your service has a custom in house status page,
 
 1) Create a folder and status.json file from the template.json
 
-2) Create a file called Parse.js (example check Statusio.js)
+2) Create a file called Parse.js (example check Statusio.js) for parsing I suggest cheerio, jsdom or scrape-it 
 
 It should have
 
