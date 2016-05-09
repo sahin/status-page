@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update 2016-05-09T07:19:23.244Z  PST
+Last Update 2016-05-09T07:20:56.917Z  PST
 
 Service status page of over 378 cloud services.
 
@@ -146,7 +146,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![I Want My Name](https://img.shields.io/badge/I Want My Name-Operational-green.svg)](http://status.iwantmyname.com/)
 [![IFTTT](https://img.shields.io/badge/IFTTT-Operational-green.svg)](http://status.ifttt.com)
 [![imgix](https://img.shields.io/badge/imgix-Operational-green.svg)](http://status.imgix.com)
-[![Incapsula](https://img.shields.io/badge/Incapsula-Non impact-black.svg)](https://status.incapsula.com)
+[![Incapsula](https://img.shields.io/badge/Incapsula-Operational-green.svg)](https://status.incapsula.com)
 [![Insightly](https://img.shields.io/badge/Insightly-Operational-green.svg)](http://status.insightly.com)
 [![Instaparser](https://img.shields.io/badge/Instaparser-Operational-green.svg)](http://status.instaparser.com)
 [![Intercom](https://img.shields.io/badge/Intercom-Operational-green.svg)](https://status.intercom.io)
