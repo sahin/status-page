@@ -4,7 +4,7 @@ Service status page of over 350+ cloud services.
 
 Super mininal. All statuses stored as json in github and workers are built with serverless structure in mind with Amazon Lambda and I am thinking to do 1 minute update pretty soon.
 
-Supported services which uses StatusPage.io for now and Upcoming Status.io.
+For now, it is supporting services which uses StatusPage.io and Status.io. (Contribution needed for the rest)
 
 Why? 
 
