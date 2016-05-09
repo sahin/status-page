@@ -4,9 +4,9 @@
   "url": "https://status.litmus.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Major",
-    "description": "Major incident",
-    "updated_at": "2016-05-08T09:15:26.522Z",
-    "color": "red"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-09T07:21:27.092Z",
+    "color": "green"
   }
 }
