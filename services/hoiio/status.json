@@ -4,9 +4,9 @@
   "url": "http://status.hoiio.com/",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Operational",
-    "description": "All Systems Operational",
-    "updated_at": "2016-05-05T06:57:19.845Z",
-    "color": "green"
+    "indicator": "Non impact",
+    "description": "Non impact incident",
+    "updated_at": "2016-05-09T16:20:02.989Z",
+    "color": "black"
   }
 }
