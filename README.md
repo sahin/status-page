@@ -1,6 +1,6 @@
 # Service status page  
 
-{ updated_at: '2016-05-08  11:08:54 PST' }
+Last Update  2016-05-08  11:08:54 PST
 
 Service status page of over 350+ cloud services.
 
