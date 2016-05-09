@@ -30,9 +30,10 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 | **Application and Data**|||
 | -------------         |:-------------:| -----:|
 |  **`Assets and Media`**
-| [![CloudFlare](https://img.shields.io/badge/CloudFlare-Minor-yellow.svg)](https://status.fastly.com) |
+|  **`Assets and Media`**
+|[![CloudFlare](https://img.shields.io/badge/CloudFlare-Minor-yellow.svg)](https://www.cloudflarestatus.com) |
 |[![Cloudinary](https://img.shields.io/badge/Cloudinary-Operational-green.svg)](http://status.cloudinary.com)
-|||
+|[![Fastly](https://img.shields.io/badge/Fastly-Operational-green.svg)](https://status.fastly.com)|||
 
 | **DevOps**|||
 | -------------         |:-------------:| -----:|
