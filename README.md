@@ -13,9 +13,8 @@ Super mininal. All statuses stored as json in github and parser code is in the s
 (Very soon: workers are built with serverless structure in mind with Amazon Lambda and I am thinking to do 1 minute update pretty soon)
 
 For now, it is supporting services which uses StatusPage.io and Status.io. (Contribution needed for the rest)
+For adding services please check _servicesWillBeAdded folder's readme.md
 
-## Adding Services
-Please check _servicesWillBeAdded folder's readme.md
 
 #### Categorized ( Based on Stackshare.io)
 
