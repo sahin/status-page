@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update 2016-05-09T07:21:27.092Z  PST
+Last Update 2016-05-09T07:24:19.806Z  PST
 
 Service status page of over 378 cloud services.
 
@@ -350,5 +350,5 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![Xplenty](https://img.shields.io/badge/Xplenty-Operational-green.svg)](http://status.xplenty.com)
 [![Yesware](https://img.shields.io/badge/Yesware-Operational-green.svg)](http://status.yesware.com)
 [![Yotpo](https://img.shields.io/badge/Yotpo-Operational-green.svg)](http://status.yotpo.com)
-[![Zoom](https://img.shields.io/badge/Zoom-Operational-green.svg)](http://status.zoom.us)
+[![Zoom](https://img.shields.io/badge/Zoom-Non impact-black.svg)](http://status.zoom.us)
 [![Zuora](https://img.shields.io/badge/Zuora-Operational-green.svg)](http://trust.zuora.com)
