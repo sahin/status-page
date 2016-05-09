@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update May 09, 2016 09:20:18  PST
+Last Update May 09, 2016 09:21:53  PST
 
 Service status page of over 378 cloud services.
 
@@ -246,7 +246,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![QuotaGuard](https://img.shields.io/badge/QuotaGuard-Operational-green.svg)](http://status.quotaguard.com)
 [![Rainforest QA](https://img.shields.io/badge/Rainforest QA-Operational-green.svg)](http://status.rainforestqa.com)
 [![Rapid7](https://img.shields.io/badge/Rapid7-Operational-green.svg)](https://status.rapid7.com/)
-[![Raven](https://img.shields.io/badge/Raven-Operational-green.svg)](http://status.raventools.com)
+[![Raven](https://img.shields.io/badge/Raven-Minor-yellow.svg)](http://status.raventools.com)
 [![ReadMe](https://img.shields.io/badge/ReadMe-Operational-green.svg)](http://status.readme.io)
 [![Recurly](https://img.shields.io/badge/Recurly-Operational-green.svg)](https://status.recurly.com)
 [![reddit](https://img.shields.io/badge/reddit-Operational-green.svg)](http://www.redditstatus.com)
