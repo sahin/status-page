@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update 2016-05-09T07:17:57.973Z  PST
+Last Update 2016-05-09T07:19:23.244Z  PST
 
 Service status page of over 378 cloud services.
 
@@ -30,7 +30,7 @@ Please check _servicesWillBeAdded folder's readme.md
 | **Application and Data**|||
 | -------------         |:-------------:| -----:|
 |  **`Assets and Media`**
-| [![CloudFlare](https://img.shields.io/badge/CloudFlare-Non impact-black.svg)](https://www.cloudflarestatus.com) |  [![CacheFly](https://img.shields.io/badge/CacheFly-Operational-green.svg)](http://status.cachefly.com)|[![Fastly](https://img.shields.io/badge/Fastly-Non impact-black.svg)](https://status.fastly.com) |
+| [![CloudFlare](https://img.shields.io/badge/CloudFlare-Minor-yellow.svg)](https://status.fastly.com) |
 |[![Cloudinary](https://img.shields.io/badge/Cloudinary-Operational-green.svg)](http://status.cloudinary.com)
 |||
 
