@@ -4,9 +4,9 @@
   "url": "http://status.ionic.io",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Operational",
-    "description": "All Systems Operational",
-    "updated_at": "2016-04-30T16:28:27.185Z",
-    "color": "green"
+    "indicator": "Non impact",
+    "description": "Non impact incident",
+    "updated_at": "2016-05-09T16:20:17.721Z",
+    "color": "black"
   }
 }
