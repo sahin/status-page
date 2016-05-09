@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update May 09, 2016 09:17:03  PST
+Last Update May 09, 2016 09:18:25  PST
 
 Service status page of over 378 cloud services.
 
@@ -29,7 +29,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 | **Application and Data**|||||
 | -------------         |:-------------:| -----:| -----:| -----:|
 |  **`Assets and Media`**
-|[![CloudFlare](https://img.shields.io/badge/CloudFlare-Minor-yellow.svg)](https://www.cloudflarestatus.com) |[![Cloudinary](https://img.shields.io/badge/Cloudinary-Operational-green.svg)](http://status.cloudinary.com)|[![Fastly](https://img.shields.io/badge/Fastly-Operational-green.svg)](https://status.fastly.com)|||
+|[![CloudFlare](https://img.shields.io/badge/CloudFlare-Operational-green.svg)](https://status.fastly.com)|||
 
 | **DevOps**|||||
 | -------------         |:-------------:| -----:| -----:| -----:|
