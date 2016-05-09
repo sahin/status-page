@@ -1,6 +1,7 @@
 const Github = require('github-api');
 const merge = require('merge');
 const colors = require('colors');
+const strftime = require('strftime');
 
 const config = require('../../config.js');
 const c = require('./Common/Console.js');
@@ -46,7 +47,7 @@ export async function editReadmeForService(service) {
       // clog(file);
 
       // Changing updated_at
-      string = `Last Update ${service.status.updated_at}  PST`;
+      string = `Last Update ${strftime('%B %d, %Y %H:%M:%S')}  PST`;
       regex = new RegExp('Last Update (.*) PST', 'g');
       found = content.match(regex);
       if (found === regex) {
