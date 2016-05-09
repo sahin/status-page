@@ -4,9 +4,9 @@
   "url": "https://status.acquia.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Operationalx",
+    "indicator": "Operational",
     "description": "All Systems Operational",
-    "updated_at": "2016-05-09T07:06:09.012Z",
+    "updated_at": "2016-05-09T07:48:17.223Z",
     "color": "green"
   }
 }
