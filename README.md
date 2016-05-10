@@ -1,6 +1,6 @@
 # Service status page  ( beta - not fully stable)
 
-Last Update May 09, 2016 18:30:26  PST
+Last Update May 09, 2016 18:30:29  PST
 
 Service status page of over 378 cloud services.
 
@@ -60,7 +60,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 |[![Chatlio](https://img.shields.io/badge/Chatlio-Operational-green.svg)](http://status.chatlio.com) | [![Checkr](https://img.shields.io/badge/Checkr-Operational-green.svg)](https://status.ciscospark.com) |
 |[![Clearbit](https://img.shields.io/badge/Clearbit-Operational-green.svg)](http://status.clearbit.com) | [![ClearSlide](https://img.shields.io/badge/ClearSlide-Operational-green.svg)](http://status.close.io) |
 |[![Cloud9](https://img.shields.io/badge/Cloud9-Operational-green.svg)](http://status.c9.io) | [![CloudAMQP](https://img.shields.io/badge/CloudAMQP-Operational-green.svg)](http://status.cloudamqp.com) | [![CloudShare](https://img.shields.io/badge/CloudShare-Operational-green.svg)](http://status.codecov.io) |
-|[![Code School](https://img.shields.io/badge/Code School-Operational-green.svg)](http://status.codeschool.com) | [![Coinbase](https://img.shields.io/badge/Coinbase-Operational-green.svg)](http://status.context.io) |
+|[![Code School](https://img.shields.io/badge/Code School-Operational-green.svg)](http://status.codeschool.com) | [![Coinbase](https://img.shields.io/badge/Coinbase-Operational-green.svg)](http://status.coinbase.com) | [![Compose](https://img.shields.io/badge/Compose-Operational-green.svg)](http://status.context.io) |
 
 [![Counterparty](https://img.shields.io/badge/Counterparty-Operational-green.svg)](http://status.counterparty.io)
 [![Coveralls](https://img.shields.io/badge/Coveralls-Operational-green.svg)](http://status.coveralls.io)
