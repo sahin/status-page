@@ -1,6 +1,6 @@
 # Service status page  ( beta - not fully stable)
 
-Last Update May 09, 2016 23:21:43  PST
+Last Update May 09, 2016 23:21:46  PST
 
 Service status page of over 378 cloud services.
 
@@ -229,7 +229,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![Phreesia](https://img.shields.io/badge/Phreesia-Operational-green.svg)](http://status.phreesia.net)
 [![Ping Identity](https://img.shields.io/badge/Ping Identity-Operational-green.svg)](https://status.pingidentity.com)
 [![Pin Payments](https://img.shields.io/badge/Pin Payments-Operational-green.svg)](https://pin.statuspage.io)
-[![Pipedrive](https://img.shields.io/badge/Pipedrive-Operational-green.svg)](http://status.pipedrive.com)
+[![Pipedrive](https://img.shields.io/badge/Pipedrive-Major-red.svg)](http://status.pipedrive.com)
 [![Pivotal Tracker](https://img.shields.io/badge/Pivotal Tracker-Operational-green.svg)](http://status.pivotaltracker.com/)
 [![Plex](https://img.shields.io/badge/Plex-Operational-green.svg)](http://status.plex.tv)
 
