@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update May 09, 2016 18:02:00  PST
+Last Update May 09, 2016 18:03:25  PST
 
 Service status page of over 378 cloud services.
 
@@ -134,7 +134,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![Hightail](https://img.shields.io/badge/Hightail-Operational-green.svg)](http://status.hightail.com)
 [![HipChat](https://img.shields.io/badge/HipChat-Operational-green.svg)](https://status.hipchat.com)
 [![HireFire](https://img.shields.io/badge/HireFire-Operational-green.svg)](http://status.hirefire.io)
-[![Hoiio](https://img.shields.io/badge/Hoiio-Non impact-black.svg)](http://status.hoiio.com/)
+[![Hoiio](https://img.shields.io/badge/Hoiio-Operational-green.svg)](http://status.hoiio.com/)
 
 
 [![Hosted Graphite](https://img.shields.io/badge/Hosted Graphite-Operational-green.svg)](http://status.hostedgraphite.com)
