@@ -1,6 +1,6 @@
 # Service status page  ( beta - not fully stable)
 
-Last Update May 09, 2016 23:21:28  PST
+Last Update May 09, 2016 23:21:31  PST
 
 Service status page of over 378 cloud services.
 
@@ -223,7 +223,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![Pantheon](https://img.shields.io/badge/Pantheon-Operational-green.svg)](http://status.pantheon.io)
 [![Parse](https://img.shields.io/badge/Parse-Operational-green.svg)](https://status.parse.com)
 [![Particle](https://img.shields.io/badge/Particle-Operational-green.svg)](http://status.particle.io)
-[![Periscope Data](https://img.shields.io/badge/Periscope Data-Major-red.svg)](https://status.periscopedata.com)
+[![Periscope Data](https://img.shields.io/badge/Periscope Data-Operational-green.svg)](https://status.periscopedata.com)
 [![Phaxio](https://img.shields.io/badge/Phaxio-Operational-green.svg)](http://status.phaxio.com)
 [![PhraseApp](https://img.shields.io/badge/PhraseApp-Operational-green.svg)](http://status.phraseapp.com)
 [![Phreesia](https://img.shields.io/badge/Phreesia-Operational-green.svg)](http://status.phreesia.net)
