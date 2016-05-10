@@ -1,6 +1,6 @@
 # Service status page  ( beta - not fully stable)
 
-Last Update May 09, 2016 23:20:10  PST
+Last Update May 09, 2016 23:20:12  PST
 
 Service status page of over 378 cloud services.
 
@@ -39,7 +39,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 |  **`Error Logging`**
 |[![Loggly](https://img.shields.io/badge/Loggly-Operational-green.svg)](http://www.papertrailstatus.com)||
 | **`Monitoring`**
-|[![New Relic](https://img.shields.io/badge/New Relic-Operational-green.svg)](https://status.newrelic.com)| [![Runscope](https://img.shields.io/badge/Runscope-Operational-green.svg)](http://status.runscope.com)||
+|[![New Relic](https://img.shields.io/badge/New Relic-Operational-green.svg)](http://status.runscope.com)||
 | **`Build, Test, Deploy`**
 |[![Codeship](https://img.shields.io/badge/Codeship-Operational-green.svg)](https://www.traviscistatus.com)|
 |[![Sauce Labs](https://img.shields.io/badge/Sauce Labs-Operational-green.svg)](https://status.scoutapp.com)||
