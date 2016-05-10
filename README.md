@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update May 09, 2016 18:05:25  PST
+Last Update May 09, 2016 18:05:34  PST
 
 Service status page of over 378 cloud services.
 
@@ -194,7 +194,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![Modulus](https://img.shields.io/badge/Modulus-Operational-green.svg)](http://status.modulus.io)
 
 
-[![Moz](https://img.shields.io/badge/Moz-Operational-green.svg)](http://health.moz.com)
+[![Moz](https://img.shields.io/badge/Moz-Minor-yellow.svg)](http://health.moz.com)
 [![MuleSoft](https://img.shields.io/badge/MuleSoft-Operational-green.svg)](http://status.mulesoft.com)
 [![Namely](https://img.shields.io/badge/Namely-Operational-green.svg)](https://status.namely.com)
 [![Newton Software](https://img.shields.io/badge/Newton Software-Operational-green.svg)](http://status.newtonsoftware.com)
