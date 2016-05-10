@@ -1,6 +1,6 @@
 # Service status page  ( beta - not fully stable)
 
-Last Update May 09, 2016 18:45:44  PST
+Last Update May 09, 2016 18:45:47  PST
 
 Service status page of over 378 cloud services.
 
@@ -342,7 +342,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![Workable](https://img.shields.io/badge/Workable-Operational-green.svg)](http://status.workable.com)
 [![Wunderlist](https://img.shields.io/badge/Wunderlist-Operational-green.svg)](https://status.wunderlist.com)
 [![Xamarin](https://img.shields.io/badge/Xamarin-Operational-green.svg)](http://status.xamarin.com)
-[![Xero](https://img.shields.io/badge/Xero-Operational-green.svg)](https://status.developer.xero.com)
+[![Xero](https://img.shields.io/badge/Xero-Minor-yellow.svg)](https://status.developer.xero.com)
 [![Xplenty](https://img.shields.io/badge/Xplenty-Operational-green.svg)](http://status.xplenty.com)
 [![Yesware](https://img.shields.io/badge/Yesware-Operational-green.svg)](http://status.yesware.com)
 [![Yotpo](https://img.shields.io/badge/Yotpo-Operational-green.svg)](http://status.yotpo.com)
