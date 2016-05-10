@@ -4,9 +4,9 @@
   "url": "http://status.mediatemple.net",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-10T01:05:16.938Z",
-    "color": "yellow"
+    "indicator": "Major",
+    "description": "Major incident",
+    "updated_at": "2016-05-10T01:38:24.044Z",
+    "color": "red"
   }
 }
