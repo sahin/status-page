@@ -4,9 +4,9 @@
   "url": "http://status.iwantmyname.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Operational",
-    "description": "All Systems Operational",
-    "updated_at": "2016-04-30T16:28:29.256Z",
-    "color": "green"
+    "indicator": "Major",
+    "description": "Major incident",
+    "updated_at": "2016-05-10T01:03:59.160Z",
+    "color": "red"
   }
 }
