@@ -4,9 +4,9 @@
   "url": "https://status.authorize.net/",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-10T06:09:29.835Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-10T14:12:31.749Z",
+    "color": "green"
   }
 }
