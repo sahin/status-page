@@ -4,9 +4,9 @@
   "url": "https://status.developer.xero.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Operational",
-    "description": "All Systems Operational",
-    "updated_at": "2016-04-30T16:15:15.676Z",
-    "color": "green"
+    "indicator": "Minor",
+    "description": "Minor incident",
+    "updated_at": "2016-05-10T01:45:45.030Z",
+    "color": "yellow"
   }
 }
