@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update May 09, 2016 18:05:21  PST
+Last Update May 09, 2016 18:05:25  PST
 
 Service status page of over 378 cloud services.
 
@@ -188,7 +188,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![Media Temple](https://img.shields.io/badge/Media Temple-Minor-yellow.svg)](http://status.mediatemple.net)
 [![Medium](https://img.shields.io/badge/Medium-Operational-green.svg)](https://medium.statuspage.io)
 [![Meldium](https://img.shields.io/badge/Meldium-Operational-green.svg)](http://status.meldium.com)
-[![Meteor](https://img.shields.io/badge/Meteor-Operational-green.svg)](http://status.meteor.com)
+[![Meteor](https://img.shields.io/badge/Meteor-Non impact-black.svg)](http://status.meteor.com)
 [![Mindflash](https://img.shields.io/badge/Mindflash-Operational-green.svg)](http://trust.mindflash.com)
 [![Mode Analytics](https://img.shields.io/badge/Mode Analytics-Operational-green.svg)](http://status.modeanalytics.com)
 [![Modulus](https://img.shields.io/badge/Modulus-Operational-green.svg)](http://status.modulus.io)
