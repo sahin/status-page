@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 10, 2016 11:20:41  PST
+Last Update May 10, 2016 11:20:45  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -149,7 +149,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Ionic](https://img.shields.io/badge/Ionic-Operational-green.svg)](http://status.ionic.io)
 [![Iron.io](https://img.shields.io/badge/Iron.io-Operational-green.svg)](https://status.iron.io)
 [![Iterable](https://img.shields.io/badge/Iterable-Operational-green.svg)](http://status.iterable.com)
-[![iwantmyname](https://img.shields.io/badge/iwantmyname-Major-red.svg)](http://status.iwantmyname.com)
+[![iwantmyname](https://img.shields.io/badge/iwantmyname-Operational-green.svg)](http://status.iwantmyname.com)
 [![Jive Software](https://img.shields.io/badge/Jive Software-Operational-green.svg)](http://status.jivesoftware.com)
 
 
