@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update May 09, 2016 18:07:19  PST
+Last Update May 09, 2016 18:07:21  PST
 
 Service status page of over 378 cloud services.
 
@@ -257,7 +257,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![SalesforceIQ](https://img.shields.io/badge/SalesforceIQ-Operational-green.svg)](https://status.salesforceiq.com/)
 [![Resin.io](https://img.shields.io/badge/Resin.io-Operational-green.svg)](http://status.resin.io)
 [![RJMetrics](https://img.shields.io/badge/RJMetrics-Operational-green.svg)](http://status.rjmetrics.com)
-[![Robin](https://img.shields.io/badge/Robin-Minor-yellow.svg)](http://status.robinpowered.com)
+[![Robin](https://img.shields.io/badge/Robin-Operational-green.svg)](http://status.robinpowered.com)
 [![RubyGems](https://img.shields.io/badge/RubyGems-Operational-green.svg)](https://status.rubygems.org)
 [![Scrapinghub](https://img.shields.io/badge/Scrapinghub-Operational-green.svg)](http://status.scrapinghub.com)
 [![Scrutinizer](https://img.shields.io/badge/Scrutinizer-Operational-green.svg)](http://status.scrutinizer-ci.com)
