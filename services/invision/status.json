@@ -4,9 +4,9 @@
   "url": "http://status.invisionapp.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-10T14:45:18.665Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-10T18:20:40.236Z",
+    "color": "green"
   }
 }
