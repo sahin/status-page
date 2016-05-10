@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 10, 2016 11:16:47  PST
+Last Update May 10, 2016 11:19:19  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -88,7 +88,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Embedly](https://img.shields.io/badge/Embedly-Operational-green.svg)](http://status.embed.ly)
 [![Engine Yard](https://img.shields.io/badge/Engine Yard-Non impact-black.svg)](http://status.engineyard.com)
 [![Envato](https://img.shields.io/badge/Envato-Operational-green.svg)](http://status.envato.com)
-[![Envoy](https://img.shields.io/badge/Envoy-Minor-yellow.svg)](http://status.envoy.com)
+[![Envoy](https://img.shields.io/badge/Envoy-Operational-green.svg)](http://status.envoy.com)
 [![EventBoard](https://img.shields.io/badge/EventBoard-Operational-green.svg)](http://status.eventboard.io)
 [![Evident.io](https://img.shields.io/badge/Evident.io-Operational-green.svg)](http://status.evident.io)
 [![Fabric](https://img.shields.io/badge/Fabric-Operational-green.svg)](http://status.fabric.io)
