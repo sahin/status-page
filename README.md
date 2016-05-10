@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 09, 2016 23:55:55  PST
+Last Update May 10, 2016 07:02:51  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -33,7 +33,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 | **DevOps**|||||
 | -------------         |:-------------:| -----:| -----:| -----:|
 |  **`Exception Monitoring`**
-|[![Airbrake](https://img.shields.io/badge/Airbrake-Non impact-black.svg)](https://status.airbrake.io) | [![Bugsnag](https://img.shields.io/badge/Bugsnag-Operational-green.svg)](http://status.rollbar.com)|||
+|[![Airbrake](https://img.shields.io/badge/Airbrake-Operational-green.svg)](http://status.rollbar.com)|||
 |||||
 |  **`Error Logging`**
 |[![Loggly](https://img.shields.io/badge/Loggly-Operational-green.svg)](http://www.papertrailstatus.com)||
