@@ -1,6 +1,6 @@
 # Service status page  ( beta - not fully stable)
 
-Last Update May 09, 2016 18:29:17  PST
+Last Update May 09, 2016 18:29:22  PST
 
 Service status page of over 378 cloud services.
 
@@ -57,7 +57,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 |[![Breadcrumb](https://img.shields.io/badge/Breadcrumb-Operational-green.svg)](http://status.built.io)|
 |[![CallFire](https://img.shields.io/badge/CallFire-Operational-green.svg)](http://status.catalyze.io) |
 |[![Catchpoint](https://img.shields.io/badge/Catchpoint-Major-red.svg)](http://status.chartboost.com) |
-|[![Chatlio](https://img.shields.io/badge/Chatlio-Operational-green.svg)](https://status.ciscospark.com) |
+|[![Chatlio](https://img.shields.io/badge/Chatlio-Operational-green.svg)](http://status.chatlio.com) | [![Checkr](https://img.shields.io/badge/Checkr-Operational-green.svg)](https://status.ciscospark.com) |
 |[![Clearbit](https://img.shields.io/badge/Clearbit-Operational-green.svg)](http://status.clearbit.com) | [![ClearSlide](https://img.shields.io/badge/ClearSlide-Operational-green.svg)](http://status.clearslide.com) | [![Clef](https://img.shields.io/badge/Clef-Minor-yellow.svg)](https://status.getclef.com) | [![Clever](https://img.shields.io/badge/Clever-Operational-green.svg)](https://status.clever.com) | [![Clojars](https://img.shields.io/badge/Clojars-Operational-green.svg)](http://status.clojars.org) | [![Close.io](https://img.shields.io/badge/Close.io-Operational-green.svg)](http://status.close.io) |
 |[![Cloud9](https://img.shields.io/badge/Cloud9-Operational-green.svg)](http://status.c9.io) | [![CloudAMQP](https://img.shields.io/badge/CloudAMQP-Operational-green.svg)](http://status.cloudamqp.com) | [![CloudShare](https://img.shields.io/badge/CloudShare-Operational-green.svg)](http://status.cloudshare.com) | [![CloudSigma](https://img.shields.io/badge/CloudSigma-Non impact-black.svg)](http://status.cloudsigma.com) | [![Cloudways](https://img.shields.io/badge/Cloudways-Operational-green.svg)](http://status.cloudways.com) | [![Codecov](https://img.shields.io/badge/Codecov-Operational-green.svg)](http://status.codecov.io) |
 |[![Code School](https://img.shields.io/badge/Code School-Operational-green.svg)](http://status.codeschool.com) | [![Coinbase](https://img.shields.io/badge/Coinbase-Operational-green.svg)](http://status.coinbase.com) | [![Compose](https://img.shields.io/badge/Compose-Operational-green.svg)](https://status.compose.io) | [![Contactually](https://img.shields.io/badge/Contactually-Operational-green.svg)](http://status.contactually.com) | [![Contentful](https://img.shields.io/badge/Contentful-Operational-green.svg)](http://status.contentful.com) | [![Context.IO](https://img.shields.io/badge/Context.IO-Operational-green.svg)](http://status.context.io) |
