@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update May 09, 2016 18:07:21  PST
+Last Update May 09, 2016 18:07:48  PST
 
 Service status page of over 378 cloud services.
 
@@ -270,7 +270,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![ServInt](https://img.shields.io/badge/ServInt-Operational-green.svg)](https://servint.statuspage.io)
 [![ShareFile](https://img.shields.io/badge/ShareFile-Operational-green.svg)](http://status.sharefile.com)
 [![ShipHawk](https://img.shields.io/badge/ShipHawk-Operational-green.svg)](https://shiphawk.statuspage.io)
-[![Shippo](https://img.shields.io/badge/Shippo-Non impact-black.svg)](http://status.goshippo.com)
+[![Shippo](https://img.shields.io/badge/Shippo-Operational-green.svg)](http://status.goshippo.com)
 [![Shipwire](https://img.shields.io/badge/Shipwire-Operational-green.svg)](http://status.shipwire.com)
 
 
