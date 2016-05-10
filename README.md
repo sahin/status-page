@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 10, 2016 07:43:55  PST
+Last Update May 10, 2016 07:45:04  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -135,7 +135,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Hoiio](https://img.shields.io/badge/Hoiio-Operational-green.svg)](http://status.hoiio.com/)
 
 
-[![Hosted Graphite](https://img.shields.io/badge/Hosted Graphite-Non impact-black.svg)](http://status.hostedgraphite.com)
+[![Hosted Graphite](https://img.shields.io/badge/Hosted Graphite-Operational-green.svg)](http://status.hostedgraphite.com)
 [![HubSpot](https://img.shields.io/badge/HubSpot-Operational-green.svg)](https://status.hubspot.com)
 [![I Want My Name](https://img.shields.io/badge/I Want My Name-Major-red.svg)](http://status.iwantmyname.com/)
 [![IFTTT](https://img.shields.io/badge/IFTTT-Operational-green.svg)](http://status.ifttt.com)
