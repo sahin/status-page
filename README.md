@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 10, 2016 11:23:00  PST
+Last Update May 10, 2016 11:25:10  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -316,7 +316,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Totango](https://img.shields.io/badge/Totango-Operational-green.svg)](http://status.totango.com)
 [![tray.io](https://img.shields.io/badge/tray.io-Operational-green.svg)](http://status.tray.io)
 [![Treehouse](https://img.shields.io/badge/Treehouse-Operational-green.svg)](http://status.teamtreehouse.com)
-[![Tropo](https://img.shields.io/badge/Tropo-Minor-yellow.svg)](http://status.tropo.com)
+[![Tropo](https://img.shields.io/badge/Tropo-Operational-green.svg)](http://status.tropo.com)
 [![Twilio](https://img.shields.io/badge/Twilio-Operational-green.svg)](http://status.twilio.com)
 [![TwoTap](https://img.shields.io/badge/TwoTap-Operational-green.svg)](http://status.twotap.com)
 [![Typeform](https://img.shields.io/badge/Typeform-Operational-green.svg)](http://status.typeform.com)
