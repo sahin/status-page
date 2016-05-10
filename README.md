@@ -1,30 +1,29 @@
-# Service status page  ( beta - not fully stable)
+# Service status page  (beta - not stable)
 
 Last Update May 09, 2016 23:20:10  PST
 
-Service status page of over 378 cloud services.
+Statuses for over 378 cloud services, based on their status pages.
 
 ## Why?
 
-I thought it will be very interesting to use github like a repository for status of the services and built a repo for all the popular services' statuses.
+I thought it would be interesting to create a repository for the statuses of popular cloud services using their status pages.
 
 ## How?
-Super mininal. All statuses stored as json in github and parser code is in the src.
-(Very soon: workers are built with serverless structure in mind with Amazon Lambda and I am thinking to do 1 minute update pretty soon)
 
-For now, it is supporting services which uses StatusPage.io and Status.io. (Contribution needed for the rest)
-For adding services please check _servicesWillBeAdded folder's readme.md
+The status page for each cloud service is scraped and saved as JSON in this repo.
 
+_Coming soon: workers running on a serverless architecture using Amazon Lambda, with updates every minute._
 
+For now, only services using StatusPage.io and Status.io are supported (contributions welcome).
 
-## Categories ( Based on Stackshare.io)
+To add a service, please refer to _servicesWillBeAdded folder's readme.md
 
+## Categories (Based on [StackShare](http://stackshare.io/categories))
 
 | **Analytics**|||||
 | -------------         |:-------------:| -----:| -----:| -----:|
 |  **`Mobile Analytics`**
 |[![Amplitude](https://img.shields.io/badge/Amplitude-Operational-green.svg)](http://status.taplytics.com)|||
-
 
 | **Application and Data**|||||
 | -------------         |:-------------:| -----:| -----:| -----:|
@@ -43,7 +42,6 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 | **`Build, Test, Deploy`**
 |[![Codeship](https://img.shields.io/badge/Codeship-Operational-green.svg)](https://www.traviscistatus.com)|
 |[![Sauce Labs](https://img.shields.io/badge/Sauce Labs-Operational-green.svg)](https://status.scoutapp.com)||
-
 
 | **Uncategorized**||||||
 |---|---|---|---|---|---|---|
