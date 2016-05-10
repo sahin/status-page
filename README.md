@@ -1,6 +1,6 @@
 # Service status page  ( beta - not fully stable)
 
-Last Update May 09, 2016 18:38:03  PST
+Last Update May 09, 2016 18:38:07  PST
 
 Service status page of over 378 cloud services.
 
@@ -37,7 +37,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 |[![Airbrake](https://img.shields.io/badge/Airbrake-Non impact-black.svg)](https://status.airbrake.io) | [![Bugsnag](https://img.shields.io/badge/Bugsnag-Operational-green.svg)](http://status.rollbar.com)|||
 |||||
 |  **`Error Logging`**
-|[![Loggly](https://img.shields.io/badge/Loggly-Operational-green.svg)](http://status.loggly.com)|[![Papertrail](https://img.shields.io/badge/Papertrail-Operational-green.svg)](http://www.papertrailstatus.com)||
+|[![Loggly](https://img.shields.io/badge/Loggly-Operational-green.svg)](http://www.papertrailstatus.com)||
 | **`Monitoring`**
 |[![New Relic](https://img.shields.io/badge/New Relic-Operational-green.svg)](https://status.newrelic.com)| [![Runscope](https://img.shields.io/badge/Runscope-Operational-green.svg)](http://status.runscope.com)||
 | **`Build, Test, Deploy`**
