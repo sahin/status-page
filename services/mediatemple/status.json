@@ -4,9 +4,9 @@
   "url": "http://status.mediatemple.net",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Operational",
-    "description": "All Systems Operational",
-    "updated_at": "2016-04-30T16:28:55.872Z",
-    "color": "green"
+    "indicator": "Minor",
+    "description": "Minor incident",
+    "updated_at": "2016-05-10T01:05:16.938Z",
+    "color": "yellow"
   }
 }
