@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update May 09, 2016 18:03:25  PST
+Last Update May 09, 2016 18:03:35  PST
 
 Service status page of over 378 cloud services.
 
@@ -139,7 +139,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 
 [![Hosted Graphite](https://img.shields.io/badge/Hosted Graphite-Operational-green.svg)](http://status.hostedgraphite.com)
 [![HubSpot](https://img.shields.io/badge/HubSpot-Operational-green.svg)](https://status.hubspot.com)
-[![I Want My Name](https://img.shields.io/badge/I Want My Name-Operational-green.svg)](http://status.iwantmyname.com/)
+[![I Want My Name](https://img.shields.io/badge/I Want My Name-Major-red.svg)](http://status.iwantmyname.com/)
 [![IFTTT](https://img.shields.io/badge/IFTTT-Operational-green.svg)](http://status.ifttt.com)
 [![imgix](https://img.shields.io/badge/imgix-Operational-green.svg)](http://status.imgix.com)
 [![Incapsula](https://img.shields.io/badge/Incapsula-Operational-green.svg)](https://status.incapsula.com)
