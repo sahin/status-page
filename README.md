@@ -1,4 +1,4 @@
-# Service status page  
+# Service status page  ( beta - not fully stable)
 
 Last Update May 09, 2016 18:09:06  PST
 
