@@ -1,6 +1,6 @@
 # Service status page  ( beta - not fully stable)
 
-Last Update May 09, 2016 18:30:16  PST
+Last Update May 09, 2016 18:30:19  PST
 
 Service status page of over 378 cloud services.
 
@@ -41,7 +41,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 | **`Monitoring`**
 |[![New Relic](https://img.shields.io/badge/New Relic-Operational-green.svg)](https://status.newrelic.com)| [![Runscope](https://img.shields.io/badge/Runscope-Operational-green.svg)](http://status.runscope.com)||
 | **`Build, Test, Deploy`**
-|[![Codeship](https://img.shields.io/badge/Codeship-Operational-green.svg)](http://codeshipstatus.com) | [![Code Climate](https://img.shields.io/badge/Code Climate-Operational-green.svg)](https://www.traviscistatus.com)|
+|[![Codeship](https://img.shields.io/badge/Codeship-Operational-green.svg)](http://codeshipstatus.com) | [![Code Climate](https://img.shields.io/badge/Code Climate-Operational-green.svg)](http://status.codeclimate.com) | [![Travis CI](https://img.shields.io/badge/Travis CI-Operational-green.svg)](https://www.traviscistatus.com)|
 |[![Sauce Labs](https://img.shields.io/badge/Sauce Labs-Operational-green.svg)](http://status.saucelabs.com)|[![Scout](https://img.shields.io/badge/Scout-Operational-green.svg)](https://status.scoutapp.com)||
 
 
@@ -59,7 +59,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 |[![Catchpoint](https://img.shields.io/badge/Catchpoint-Major-red.svg)](http://status.chartboost.com) |
 |[![Chatlio](https://img.shields.io/badge/Chatlio-Operational-green.svg)](http://status.chatlio.com) | [![Checkr](https://img.shields.io/badge/Checkr-Operational-green.svg)](https://status.ciscospark.com) |
 |[![Clearbit](https://img.shields.io/badge/Clearbit-Operational-green.svg)](http://status.clearbit.com) | [![ClearSlide](https://img.shields.io/badge/ClearSlide-Operational-green.svg)](http://status.close.io) |
-|[![Cloud9](https://img.shields.io/badge/Cloud9-Operational-green.svg)](http://status.codecov.io) |
+|[![Cloud9](https://img.shields.io/badge/Cloud9-Operational-green.svg)](http://status.c9.io) | [![CloudAMQP](https://img.shields.io/badge/CloudAMQP-Operational-green.svg)](http://status.cloudamqp.com) | [![CloudShare](https://img.shields.io/badge/CloudShare-Operational-green.svg)](http://status.codecov.io) |
 |[![Code School](https://img.shields.io/badge/Code School-Operational-green.svg)](http://status.codeschool.com) | [![Coinbase](https://img.shields.io/badge/Coinbase-Operational-green.svg)](http://status.coinbase.com) | [![Compose](https://img.shields.io/badge/Compose-Operational-green.svg)](https://status.compose.io) | [![Contactually](https://img.shields.io/badge/Contactually-Operational-green.svg)](http://status.contactually.com) | [![Contentful](https://img.shields.io/badge/Contentful-Operational-green.svg)](http://status.contentful.com) | [![Context.IO](https://img.shields.io/badge/Context.IO-Operational-green.svg)](http://status.context.io) |
 
 [![Counterparty](https://img.shields.io/badge/Counterparty-Operational-green.svg)](http://status.counterparty.io)
