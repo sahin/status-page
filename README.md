@@ -1,6 +1,6 @@
 # Service status page  ( beta - not fully stable)
 
-Last Update May 09, 2016 18:24:36  PST
+Last Update May 09, 2016 18:25:37  PST
 
 Service status page of over 378 cloud services.
 
@@ -47,7 +47,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 
 | **Uncategorized**||||||
 |---|---|---|---|---|---|---|
-|[![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](http://status.angel.co) | [![anynines](https://img.shields.io/badge/anynines-Operational-green.svg)](http://status.anynines.com) | [![Apigee](https://img.shields.io/badge/Apigee-Operational-green.svg)](https://status.apigee.com)  | [![Appboy](https://img.shields.io/badge/Appboy-Minor-yellow.svg)](http://status.aptible.com) |
+|[![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](http://status.aptible.com) |
 |[![Articulate](https://img.shields.io/badge/Articulate-Operational-green.svg)](https://www.articulatestatus.com) | [![Assembla](https://img.shields.io/badge/Assembla-Operational-green.svg)](http://status.assembla.com) | [![Assently](https://img.shields.io/badge/Assently-Operational-green.svg)](https://assently.statuspage.io) | [![Atlassian](https://img.shields.io/badge/Atlassian-Operational-green.svg)](http://status.atlassian.com) | [![Auth0](https://img.shields.io/badge/Auth0-Operational-green.svg)](https://status.auth0.com/) | [![Authorize.Net](https://img.shields.io/badge/Authorize.Net-Operational-green.svg)](https://status.authorize.net)|
 |[![Autopilot](https://img.shields.io/badge/Autopilot-Operational-green.svg)](http://status.autopilothq.com) | [![Autotask](https://img.shields.io/badge/Autotask-Minor-yellow.svg)](http://www.autotaskstatus.net) | [![Avalara](https://img.shields.io/badge/Avalara-Operational-green.svg)](https://status.avalara.com) | [![AWeber](https://img.shields.io/badge/AWeber-Operational-green.svg)](http://status.aweber.com) | [![Baremetrics](https://img.shields.io/badge/Baremetrics-Operational-green.svg)](http://status.aweber.com) | [![Barricade](https://img.shields.io/badge/Barricade-Operational-green.svg)](https://barricade.statuspage.io)
 |[![Base CRM](https://img.shields.io/badge/Base CRM-Operational-green.svg)](http://status.getbase.com) | [![BetterCloud](https://img.shields.io/badge/BetterCloud-Operational-green.svg)](http://status.bettercloud.com) | [![BigCartel](https://img.shields.io/badge/Big Cartel-Major-red.svg)](http://status.bigwig.lshift.net)|
