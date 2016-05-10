@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update May 09, 2016 18:00:34  PST
+Last Update May 09, 2016 18:01:26  PST
 
 Service status page of over 378 cloud services.
 
@@ -66,7 +66,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![Coveralls](https://img.shields.io/badge/Coveralls-Operational-green.svg)](http://status.coveralls.io)
 [![Crittercism](https://img.shields.io/badge/Crittercism-Operational-green.svg)](http://status.crittercism.com)
 [![Cronofy](https://img.shields.io/badge/Cronofy-Operational-green.svg)](http://status.cronofy.com)
-[![Customer.io](https://img.shields.io/badge/Customer.io-Minor-yellow.svg)](http://status.customer.io)
+[![Customer.io](https://img.shields.io/badge/Customer.io-Operational-green.svg)](http://status.customer.io)
 [![Datadog](https://img.shields.io/badge/Datadog-Operational-green.svg)](http://status.datadoghq.com)
 [![DataSift](https://img.shields.io/badge/DataSift-Minor-yellow.svg)](https://status.datasift.com)
 [![Desk.com](https://img.shields.io/badge/Desk.com-Minor-yellow.svg)](https://status.desk.com)
