@@ -1,6 +1,6 @@
 # Service status page  ( beta - not fully stable)
 
-Last Update May 09, 2016 23:20:55  PST
+Last Update May 09, 2016 23:20:57  PST
 
 Service status page of over 378 cloud services.
 
@@ -210,7 +210,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![Ookla](https://img.shields.io/badge/Ookla-Operational-green.svg)](http://status.ookla.com)
 [![Opbeat](https://img.shields.io/badge/Opbeat-Operational-green.svg)](http://status.opbeat.com)
 [![OpenShift](https://img.shields.io/badge/OpenShift-Operational-green.svg)](http://status.openshift.com)
-[![OpenSRS](https://img.shields.io/badge/OpenSRS-Non impact-black.svg)](http://opensrsstatus.com)
+[![OpenSRS](https://img.shields.io/badge/OpenSRS-Operational-green.svg)](http://opensrsstatus.com)
 [![Opsmatic](https://img.shields.io/badge/Opsmatic-Operational-green.svg)](http://status.opsmatic.com)
 
 
