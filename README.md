@@ -1,6 +1,6 @@
 # Service status page  ( beta - not fully stable)
 
-Last Update May 09, 2016 18:25:57  PST
+Last Update May 09, 2016 18:25:58  PST
 
 Service status page of over 378 cloud services.
 
@@ -23,7 +23,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 | **Analytics**|||||
 | -------------         |:-------------:| -----:| -----:| -----:|
 |  **`Mobile Analytics`**
-|[![Amplitude](https://img.shields.io/badge/Amplitude-Operational-green.svg)](http://status.amplitude.com) | [![Localytics](https://img.shields.io/badge/Localytics-Operational-green.svg)](http://status.localytics.com)|[![Kissmetrics](https://img.shields.io/badge/Kissmetrics-Operational-green.svg)](https://kmstatus.com)|[![Taplytics](https://img.shields.io/badge/Taplytics-Operational-green.svg)](http://status.taplytics.com)|||
+|[![Amplitude](https://img.shields.io/badge/Amplitude-Operational-green.svg)](http://status.taplytics.com)|||
 
 
 | **Application and Data**|||||
@@ -34,7 +34,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 | **DevOps**|||||
 | -------------         |:-------------:| -----:| -----:| -----:|
 |  **`Exception Monitoring`**
-|[![Airbrake](https://img.shields.io/badge/Airbrake-Non impact-black.svg)](http://status.rollbar.com)|||
+|[![Airbrake](https://img.shields.io/badge/Airbrake-Non impact-black.svg)](https://status.airbrake.io) | [![Bugsnag](https://img.shields.io/badge/Bugsnag-Operational-green.svg)](http://status.bugsnag.com) | [![Honeybadger](https://img.shields.io/badge/Honeybadger-Operational-green.svg)](http://status.honeybadger.io)| [![Sentry](https://img.shields.io/badge/Sentry-Operational-green.svg)](http://status.getsentry.com)|[![Rollbar](https://img.shields.io/badge/Rollbar-Operational-green.svg)](http://status.rollbar.com)|||
 |||||
 |  **`Error Logging`**
 |[![Loggly](https://img.shields.io/badge/Loggly-Operational-green.svg)](http://status.loggly.com)|[![Papertrail](https://img.shields.io/badge/Papertrail-Operational-green.svg)](http://www.papertrailstatus.com)||
