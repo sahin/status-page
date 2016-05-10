@@ -1,6 +1,6 @@
 # Service status page  ( beta - not fully stable)
 
-Last Update May 09, 2016 18:09:06  PST
+Last Update May 09, 2016 18:22:25  PST
 
 Service status page of over 378 cloud services.
 
@@ -319,7 +319,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![tray.io](https://img.shields.io/badge/tray.io-Operational-green.svg)](http://status.tray.io)
 [![Treehouse](https://img.shields.io/badge/Treehouse-Operational-green.svg)](http://status.teamtreehouse.com)
 [![Tropo](https://img.shields.io/badge/Tropo-Minor-yellow.svg)](http://status.tropo.com)
-[![Twilio](https://img.shields.io/badge/Twilio-Major-red.svg)](http://status.twilio.com)
+[![Twilio](https://img.shields.io/badge/Twilio-Operational-green.svg)](http://status.twilio.com)
 [![TwoTap](https://img.shields.io/badge/TwoTap-Operational-green.svg)](http://status.twotap.com)
 [![Typeform](https://img.shields.io/badge/Typeform-Operational-green.svg)](http://status.typeform.com)
 [![UberConference](https://img.shields.io/badge/UberConference-Operational-green.svg)](http://status.uberconference.com/)
