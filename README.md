@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 10, 2016 07:12:32  PST
+Last Update May 10, 2016 07:12:34  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -47,7 +47,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 |---|---|---|---|---|---|---|
 |[![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](http://status.aptible.com) |
 |[![Articulate](https://img.shields.io/badge/Articulate-Operational-green.svg)](https://status.authorize.net)|
-|[![Autopilot](https://img.shields.io/badge/Autopilot-Operational-green.svg)](http://status.autopilothq.com) | [![Autotask](https://img.shields.io/badge/Autotask-Operational-green.svg)](https://barricade.statuspage.io)
+|[![Autopilot](https://img.shields.io/badge/Autopilot-Non impact-black.svg)](https://barricade.statuspage.io)
 |[![Base CRM](https://img.shields.io/badge/Base CRM-Operational-green.svg)](http://status.bigwig.lshift.net)|
 |[![Bintray](https://img.shields.io/badge/Bintray-Operational-green.svg)](http://status.blazemeter.com)
 |[![Block.io](https://img.shields.io/badge/Block.io-Operational-green.svg)](http://status.bluip.com)|
