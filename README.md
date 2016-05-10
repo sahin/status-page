@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update May 09, 2016 18:04:00  PST
+Last Update May 09, 2016 18:05:21  PST
 
 Service status page of over 378 cloud services.
 
@@ -185,7 +185,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 [![Mapbox](https://img.shields.io/badge/Mapbox-Operational-green.svg)](http://status.mapbox.com)
 [![Mavenlink](https://img.shields.io/badge/Mavenlink-Operational-green.svg)](https://mavenlink.statuspage.io)
 [![MaxCDN](https://img.shields.io/badge/MaxCDN-Operational-green.svg)](http://status.maxcdn.com)
-[![Media Temple](https://img.shields.io/badge/Media Temple-Operational-green.svg)](http://status.mediatemple.net)
+[![Media Temple](https://img.shields.io/badge/Media Temple-Minor-yellow.svg)](http://status.mediatemple.net)
 [![Medium](https://img.shields.io/badge/Medium-Operational-green.svg)](https://medium.statuspage.io)
 [![Meldium](https://img.shields.io/badge/Meldium-Operational-green.svg)](http://status.meldium.com)
 [![Meteor](https://img.shields.io/badge/Meteor-Operational-green.svg)](http://status.meteor.com)
