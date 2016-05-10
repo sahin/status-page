@@ -1,6 +1,6 @@
 # Service status page  ( beta - not fully stable)
 
-Last Update May 09, 2016 18:26:55  PST
+Last Update May 09, 2016 18:27:00  PST
 
 Service status page of over 378 cloud services.
 
@@ -50,7 +50,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 |[![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](http://status.angel.co) | [![anynines](https://img.shields.io/badge/anynines-Operational-green.svg)](http://status.aptible.com) |
 |[![Articulate](https://img.shields.io/badge/Articulate-Operational-green.svg)](https://www.articulatestatus.com) | [![Assembla](https://img.shields.io/badge/Assembla-Operational-green.svg)](https://status.authorize.net)|
 |[![Autopilot](https://img.shields.io/badge/Autopilot-Operational-green.svg)](http://status.autopilothq.com) | [![Autotask](https://img.shields.io/badge/Autotask-Operational-green.svg)](https://barricade.statuspage.io)
-|[![Base CRM](https://img.shields.io/badge/Base CRM-Operational-green.svg)](http://status.getbase.com) | [![BetterCloud](https://img.shields.io/badge/BetterCloud-Operational-green.svg)](http://status.bettercloud.com) | [![BigCartel](https://img.shields.io/badge/Big Cartel-Major-red.svg)](http://status.bigwig.lshift.net)|
+|[![Base CRM](https://img.shields.io/badge/Base CRM-Operational-green.svg)](http://status.bigwig.lshift.net)|
 |[![Bintray](https://img.shields.io/badge/Bintray-Operational-green.svg)](http://status.bintray.com) | [![Bitbucket](https://img.shields.io/badge/Bitbucket-Operational-green.svg)](http://status.bitbucket.org) | [![Bitfinex](https://img.shields.io/badge/Bitfinex-Operational-green.svg)](https://bitfinex.statuspage.io) | [![Bitium](https://img.shields.io/badge/Bitium-Operational-green.svg)](http://status.bitium.com) | [![Bitrise](https://img.shields.io/badge/Bitrise-Operational-green.svg)](http://status.bitrise.io) | [![BlazeMeter](https://img.shields.io/badge/BlazeMeter-Operational-green.svg)](http://status.blazemeter.com)
 |[![Block.io](https://img.shields.io/badge/Block.io-Operational-green.svg)](http://status.block.io)|[![BlockScore](https://img.shields.io/badge/BlockScore-Major-red.svg)](http://status.bluip.com)|
 |[![Bonsai](https://img.shields.io/badge/Bonsai-Operational-green.svg)](https://status.bonsai.io)|[![Boundary](https://img.shields.io/badge/Boundary-Operational-green.svg)](http://status.boundary.com/)|[![BowTie](https://img.shields.io/badge/BowTie-Operational-green.svg)](http://status.bowtie.io)|[![Box](https://img.shields.io/badge/Box-Operational-green.svg)](https://status.box.com)|[![Braintree](https://img.shields.io/badge/Braintree-Operational-green.svg)](https://status.braintreepayments.com)|[![Branch](https://img.shields.io/badge/Branch-Major-red.svg)](http://status.branch.io)|
