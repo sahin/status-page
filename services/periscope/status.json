@@ -4,9 +4,9 @@
   "url": "https://status.periscopedata.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Operational",
-    "description": "All Systems Operational",
-    "updated_at": "2016-04-30T16:29:22.575Z",
-    "color": "green"
+    "indicator": "Major",
+    "description": "Major incident",
+    "updated_at": "2016-05-10T01:40:13.640Z",
+    "color": "red"
   }
 }
