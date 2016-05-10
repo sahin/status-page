@@ -4,9 +4,9 @@
   "url": "http://health.moz.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Operational",
-    "description": "All Systems Operational",
-    "updated_at": "2016-05-07T21:04:42.621Z",
-    "color": "green"
+    "indicator": "Minor",
+    "description": "Minor incident",
+    "updated_at": "2016-05-10T01:05:32.947Z",
+    "color": "yellow"
   }
 }
