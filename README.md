@@ -1,6 +1,6 @@
 # Service status page  
 
-Last Update May 09, 2016 17:58:10  PST
+Last Update May 09, 2016 17:58:24  PST
 
 Service status page of over 378 cloud services.
 
@@ -47,7 +47,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 
 | **Uncategorized**||||||
 |---|---|---|---|---|---|---|
-|[![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](http://status.angel.co) | [![anynines](https://img.shields.io/badge/anynines-Operational-green.svg)](http://status.anynines.com) | [![Apigee](https://img.shields.io/badge/Apigee-Operational-green.svg)](https://status.apigee.com)  | [![Appboy](https://img.shields.io/badge/Appboy-Operational-green.svg)](http://status.appboy.com) | [![AppGyver](https://img.shields.io/badge/AppGyver-Operational-green.svg)](http://status.appgyver.com) | [![AppNeta](https://img.shields.io/badge/AppNeta-Operational-green.svg)](http://status.appneta.com/) | [![Aptible](https://img.shields.io/badge/Aptible-Operational-green.svg)](http://status.aptible.com) |
+|[![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](http://status.angel.co) | [![anynines](https://img.shields.io/badge/anynines-Operational-green.svg)](http://status.anynines.com) | [![Apigee](https://img.shields.io/badge/Apigee-Operational-green.svg)](https://status.apigee.com)  | [![Appboy](https://img.shields.io/badge/Appboy-Minor-yellow.svg)](http://status.aptible.com) |
 |[![Articulate](https://img.shields.io/badge/Articulate-Operational-green.svg)](https://www.articulatestatus.com) | [![Assembla](https://img.shields.io/badge/Assembla-Operational-green.svg)](http://status.assembla.com) | [![Assently](https://img.shields.io/badge/Assently-Operational-green.svg)](https://assently.statuspage.io) | [![Atlassian](https://img.shields.io/badge/Atlassian-Operational-green.svg)](http://status.atlassian.com) | [![Auth0](https://img.shields.io/badge/Auth0-Operational-green.svg)](https://status.auth0.com/) | [![Authorize.Net](https://img.shields.io/badge/Authorize.Net-Operational-green.svg)](https://status.authorize.net)|
 |[![Autopilot](https://img.shields.io/badge/Autopilot-Operational-green.svg)](http://status.autopilothq.com) | [![Autotask](https://img.shields.io/badge/Autotask-Minor-yellow.svg)](http://www.autotaskstatus.net) | [![Avalara](https://img.shields.io/badge/Avalara-Operational-green.svg)](https://status.avalara.com) | [![AWeber](https://img.shields.io/badge/AWeber-Operational-green.svg)](http://status.aweber.com) | [![Baremetrics](https://img.shields.io/badge/Baremetrics-Operational-green.svg)](http://status.aweber.com) | [![Barricade](https://img.shields.io/badge/Barricade-Operational-green.svg)](https://barricade.statuspage.io)
 |[![Base CRM](https://img.shields.io/badge/Base CRM-Operational-green.svg)](http://status.getbase.com) | [![BetterCloud](https://img.shields.io/badge/BetterCloud-Operational-green.svg)](http://status.bettercloud.com) | [![BigCartel](https://img.shields.io/badge/Big Cartel-Operational-green.svg)](http://status.bigcartel.com/) | [![Bigcommerce](https://img.shields.io/badge/Bigcommerce-Operational-green.svg)](http://status.bigcommerce.com) | [![BigPanda](https://img.shields.io/badge/BigPanda-Operational-green.svg)](http://status.bigpanda.io) | [![Bigwig](https://img.shields.io/badge/Bigwig-Operational-green.svg)](http://status.bigwig.lshift.net)|
