@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 10, 2016 11:20:45  PST
+Last Update May 10, 2016 11:21:02  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -158,7 +158,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Kickstarter](https://img.shields.io/badge/Kickstarter-Operational-green.svg)](http://status.kickstarter.com)
 [![Klarna](https://img.shields.io/badge/Klarna-Operational-green.svg)](http://status.klarna.com)
 [![Kontakt.io](https://img.shields.io/badge/Kontakt.io-Operational-green.svg)](http://status.kontakt.io)
-[![Kraken.io](https://img.shields.io/badge/Kraken.io-Minor-yellow.svg)](https://status.kraken.io)
+[![Kraken.io](https://img.shields.io/badge/Kraken.io-Operational-green.svg)](https://status.kraken.io)
 [![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-Operational-green.svg)](http://status.launchdarkly.com)
 [![Layer](https://img.shields.io/badge/Layer-Operational-green.svg)](http://status.layer.com)
 [![LeadGenius](https://img.shields.io/badge/LeadGenius-Operational-green.svg)](http://status.leadgenius.com)
