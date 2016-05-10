@@ -5,8 +5,8 @@
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Major",
-    "description": "",
-    "updated_at": "2016-04-30T16:28:25.620Z",
+    "description": "Major incident",
+    "updated_at": "2016-05-10T01:36:23.734Z",
     "color": "red"
   }
 }
