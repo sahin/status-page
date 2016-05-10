@@ -1,6 +1,6 @@
 # Service status page  ( beta - not fully stable)
 
-Last Update May 09, 2016 18:28:20  PST
+Last Update May 09, 2016 18:28:25  PST
 
 Service status page of over 378 cloud services.
 
@@ -34,7 +34,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 | **DevOps**|||||
 | -------------         |:-------------:| -----:| -----:| -----:|
 |  **`Exception Monitoring`**
-|[![Airbrake](https://img.shields.io/badge/Airbrake-Non impact-black.svg)](https://status.airbrake.io) | [![Bugsnag](https://img.shields.io/badge/Bugsnag-Operational-green.svg)](http://status.bugsnag.com) | [![Honeybadger](https://img.shields.io/badge/Honeybadger-Operational-green.svg)](http://status.honeybadger.io)| [![Sentry](https://img.shields.io/badge/Sentry-Operational-green.svg)](http://status.getsentry.com)|[![Rollbar](https://img.shields.io/badge/Rollbar-Operational-green.svg)](http://status.rollbar.com)|||
+|[![Airbrake](https://img.shields.io/badge/Airbrake-Non impact-black.svg)](https://status.airbrake.io) | [![Bugsnag](https://img.shields.io/badge/Bugsnag-Operational-green.svg)](http://status.rollbar.com)|||
 |||||
 |  **`Error Logging`**
 |[![Loggly](https://img.shields.io/badge/Loggly-Operational-green.svg)](http://status.loggly.com)|[![Papertrail](https://img.shields.io/badge/Papertrail-Operational-green.svg)](http://www.papertrailstatus.com)||
@@ -54,7 +54,7 @@ For adding services please check _servicesWillBeAdded folder's readme.md
 |[![Bintray](https://img.shields.io/badge/Bintray-Operational-green.svg)](http://status.blazemeter.com)
 |[![Block.io](https://img.shields.io/badge/Block.io-Operational-green.svg)](http://status.bluip.com)|
 |[![Bonsai](https://img.shields.io/badge/Bonsai-Operational-green.svg)](http://status.branch.io)|
-|[![Breadcrumb](https://img.shields.io/badge/Breadcrumb-Operational-green.svg)](http://status.breadcrumbpos.com/) | [![Brightpearl](https://img.shields.io/badge/Brightpearl-Operational-green.svg)](http://status.built.io)|
+|[![Breadcrumb](https://img.shields.io/badge/Breadcrumb-Operational-green.svg)](http://status.built.io)|
 |[![CallFire](https://img.shields.io/badge/CallFire-Operational-green.svg)](http://status.callfire.com) | [![Campaign Monitor](https://img.shields.io/badge/Campaign Monitor-Operational-green.svg)](https://status.campaignmonitor.com) | [![Canva](https://img.shields.io/badge/Canva-Operational-green.svg)](http://status.canva.com) | [![Canvas](https://img.shields.io/badge/Canvas-Operational-green.svg)](http://status.instructure.com) | [![Carina](https://img.shields.io/badge/Carina-Operational-green.svg)](https://status.getcarina.com) | [![Catalyze](https://img.shields.io/badge/Catalyze-Operational-green.svg)](http://status.catalyze.io) |
 |[![Catchpoint](https://img.shields.io/badge/Catchpoint-Major-red.svg)](http://status.catchpoint.com) | [![Chalkup](https://img.shields.io/badge/Chalkup-Operational-green.svg)](http://status.chalkup.co/) | [![Chargify](https://img.shields.io/badge/Chargify-Operational-green.svg)](http://status.chargify.io/) | [![Charify](https://img.shields.io/badge/Charify-Operational-green.svg)](http://status.chargify.io) | [![Chartbeat](https://img.shields.io/badge/Chartbeat-Operational-green.svg)](http://status.chartbeat.com) | [![Chartboost](https://img.shields.io/badge/Chartboost-Operational-green.svg)](http://status.chartboost.com) |
 |[![Chatlio](https://img.shields.io/badge/Chatlio-Operational-green.svg)](http://status.chatlio.com) | [![Checkr](https://img.shields.io/badge/Checkr-Operational-green.svg)](http://checkrstatus.com) | [![Chute](https://img.shields.io/badge/Chute-Operational-green.svg)](http://status.getchute.com) | [![CircleCI](https://img.shields.io/badge/CircleCI-Operational-green.svg)](http://status.circleci.com) | [![CircuitHub](https://img.shields.io/badge/CircuitHub-Operational-green.svg)](http://status.circuithub.com/) | [![Cisco Spark](https://img.shields.io/badge/Cisco Spark-Operational-green.svg)](https://status.ciscospark.com) |
