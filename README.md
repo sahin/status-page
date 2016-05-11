@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 11, 2016 07:21:28  PST
+Last Update May 11, 2016 07:22:05  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -198,7 +198,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Newton Software](https://img.shields.io/badge/Newton Software-Operational-green.svg)](http://status.newtonsoftware.com)
 [![Nexmo](https://img.shields.io/badge/Nexmo-Minor-yellow.svg)](https://status.nexmo.com)
 [![Next Caller](https://img.shields.io/badge/Next Caller-Unknown-black.svg)](http://status.nextcaller.com)
-[![Nitrous](https://img.shields.io/badge/Nitrous-Minor-yellow.svg)](http://status.nitrous.io)
+[![Nitrous](https://img.shields.io/badge/Nitrous-Operational-green.svg)](http://status.nitrous.io)
 [![npm](https://img.shields.io/badge/npm-Operational-green.svg)](http://status.npmjs.org)
 [![NS1](https://img.shields.io/badge/NS1-Operational-green.svg)](http://www.nsonestatus.net)
 [![Nylas](https://img.shields.io/badge/Nylas-Operational-green.svg)](http://status.nylas.com)
