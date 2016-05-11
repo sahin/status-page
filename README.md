@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 11, 2016 07:16:25  PST
+Last Update May 11, 2016 07:18:02  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -28,7 +28,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 | **Application and Data**|||||
 | -------------         |:-------------:| -----:| -----:| -----:|
 |  **`Assets and Media`**
-|[![CloudFlare](https://img.shields.io/badge/CloudFlare-Minor-yellow.svg)](https://status.fastly.com)|||
+|[![CloudFlare](https://img.shields.io/badge/CloudFlare-Operational-green.svg)](https://status.fastly.com)|||
 
 | **DevOps**|||||
 | -------------         |:-------------:| -----:| -----:| -----:|
