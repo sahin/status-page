@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 11, 2016 07:22:10  PST
+Last Update May 11, 2016 07:22:13  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -203,7 +203,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![NS1](https://img.shields.io/badge/NS1-Operational-green.svg)](http://www.nsonestatus.net)
 [![Nylas](https://img.shields.io/badge/Nylas-Minor-yellow.svg)](http://status.nylas.com)
 [![Olark](https://img.shields.io/badge/Olark-Operational-green.svg)](http://status.olark.com)
-[![OnApp](https://img.shields.io/badge/OnApp-Operational-green.svg)](http://status.onapp.com)
+[![OnApp](https://img.shields.io/badge/OnApp-Minor-yellow.svg)](http://status.onapp.com)
 [![One.com](https://img.shields.io/badge/One.com-Operational-green.svg)](http://status.one.com)
 [![Ookla](https://img.shields.io/badge/Ookla-Operational-green.svg)](http://status.ookla.com)
 [![Opbeat](https://img.shields.io/badge/Opbeat-Operational-green.svg)](http://status.opbeat.com)
