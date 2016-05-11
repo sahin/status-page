@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 11, 2016 07:21:14  PST
+Last Update May 11, 2016 07:21:28  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -176,7 +176,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Lob](https://img.shields.io/badge/Lob-Operational-green.svg)](http://status.lob.com)
 [![LocationKit](https://img.shields.io/badge/LocationKit-Operational-green.svg)](http://status.locationkit.io)
 [![Logmatic.io](https://img.shields.io/badge/Logmatic.io-Operational-green.svg)](http://status.logmatic.io)
-[![Lookback](https://img.shields.io/badge/Lookback-Minor-yellow.svg)](http://status.lookback.io)
+[![Lookback](https://img.shields.io/badge/Lookback-Operational-green.svg)](http://status.lookback.io)
 [![Mailgun](https://img.shields.io/badge/Mailgun-Operational-green.svg)](http://status.mailgun.com)
 [![Mailjet](https://img.shields.io/badge/Mailjet-Operational-green.svg)](http://status.mailjet.com)
 [![Mango](https://img.shields.io/badge/Mango-Operational-green.svg)](https://status.getmango.com/)
