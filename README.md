@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 12, 2016 00:40:32  PST
+Last Update May 12, 2016 00:40:38  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -57,7 +57,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 |[![Catchpoint](https://img.shields.io/badge/Catchpoint-Major-red.svg)](http://status.chartboost.com) |
 |[![Chatlio](https://img.shields.io/badge/Chatlio-Operational-green.svg)](https://status.ciscospark.com) |
 |[![Clearbit](https://img.shields.io/badge/Clearbit-Operational-green.svg)](http://status.close.io) |
-|[![Cloud9](https://img.shields.io/badge/Cloud9-Operational-green.svg)](http://status.codecov.io) |
+|[![Cloud9](https://img.shields.io/badge/Cloud9-Minor-yellow.svg)](http://status.codecov.io) |
 |[![Code School](https://img.shields.io/badge/Code School-Operational-green.svg)](http://status.context.io) |
 
 [![Counterparty](https://img.shields.io/badge/Counterparty-Operational-green.svg)](http://status.counterparty.io)
