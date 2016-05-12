@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 12, 2016 00:39:15  PST
+Last Update May 12, 2016 00:39:18  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -23,7 +23,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 | **Analytics**|||||
 | -------------         |:-------------:| -----:| -----:| -----:|
 |  **`Mobile Analytics`**
-|[![Amplitude](https://img.shields.io/badge/Amplitude-Operational-green.svg)](http://status.taplytics.com)|||
+|[![Amplitude](https://img.shields.io/badge/Amplitude-Minor-yellow.svg)](http://status.taplytics.com)|||
 
 | **Application and Data**|||||
 | -------------         |:-------------:| -----:| -----:| -----:|
