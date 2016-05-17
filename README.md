@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 16, 2016 21:19:46  PST
+Last Update May 16, 2016 21:20:05  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -82,7 +82,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 
 [![Dwolla](https://img.shields.io/badge/Dwolla-Non impact-black.svg)](http://status.dwolla.com)
 [![Dyn](https://img.shields.io/badge/Dyn-Minor-yellow.svg)](https://www.dynstatus.com)
-[![EasyPost](https://img.shields.io/badge/EasyPost-Non impact-black.svg)](http://www.easypoststatus.com)
+[![EasyPost](https://img.shields.io/badge/EasyPost-Operational-green.svg)](http://www.easypoststatus.com)
 [![Ecwid](https://img.shields.io/badge/Ecwid-Operational-green.svg)](http://status.ecwid.com)
 [![Electric Imp](https://img.shields.io/badge/Electric Imp-Operational-green.svg)](http://status.electricimp.com)
 [![Embedly](https://img.shields.io/badge/Embedly-Operational-green.svg)](http://status.embed.ly)
