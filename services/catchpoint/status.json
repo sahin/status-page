@@ -4,9 +4,9 @@
   "url": "http://status.catchpoint.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Major",
-    "description": "Major incident",
-    "updated_at": "2016-05-10T06:11:47.839Z",
-    "color": "red"
+    "indicator": "Non impact",
+    "description": "Non impact incident",
+    "updated_at": "2016-05-17T03:16:05.511Z",
+    "color": "black"
   }
 }
