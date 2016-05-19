@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 19, 2016 00:09:18  PST
+Last Update May 19, 2016 00:11:16  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -306,7 +306,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Dialpad](https://img.shields.io/badge/Dialpad-Operational-green.svg)](http://status.dialpad.com/)
 [![Swrve](https://img.shields.io/badge/Swrve-Operational-green.svg)](http://status.swrve.com)
 [![Syncano](https://img.shields.io/badge/Syncano-Operational-green.svg)](http://status.syncano.com)
-[![Talkdesk](https://img.shields.io/badge/Talkdesk-Operational-green.svg)](http://status.talkdesk.com)
+[![Talkdesk](https://img.shields.io/badge/Talkdesk-Minor-yellow.svg)](http://status.talkdesk.com)
 [![Tapglue](https://img.shields.io/badge/Tapglue-Operational-green.svg)](http://status.tapglue.com)
 [![TaskRabbit](https://img.shields.io/badge/TaskRabbit-Operational-green.svg)](http://status.taskrabbit.com)
 [![Teespring](https://img.shields.io/badge/Teespring-Operational-green.svg)](http://status.teespring.com)
