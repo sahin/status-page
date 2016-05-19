@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 18, 2016 21:21:24  PST
+Last Update May 18, 2016 21:22:51  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -119,7 +119,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Go Cardless](https://img.shields.io/badge/Go Cardless-Operational-green.svg)](http://www.gocardless-status.com/)
 [![GoToAssist](https://img.shields.io/badge/GoToAssist-Operational-green.svg)](http://status.gotoassist.com)
 [![GoToMeeting](https://img.shields.io/badge/GoToMeeting-Operational-green.svg)](http://status.gotomeeting.com)
-[![Greenhouse](https://img.shields.io/badge/Greenhouse-Minor-yellow.svg)](http://status.greenhouse.io)
+[![Greenhouse](https://img.shields.io/badge/Greenhouse-Operational-green.svg)](http://status.greenhouse.io)
 [![Haiku Learning](https://img.shields.io/badge/Haiku Learning-Operational-green.svg)](http://status.haikulearning.com)
 [![Hakiri](https://img.shields.io/badge/Hakiri-Operational-green.svg)](http://status.hakiri.io)
 [![Handwriting.io](https://img.shields.io/badge/Handwriting.io-Operational-green.svg)](http://status.handwriting.io)
