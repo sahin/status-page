@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 18, 2016 21:29:47  PST
+Last Update May 18, 2016 21:30:04  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -225,7 +225,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Phaxio](https://img.shields.io/badge/Phaxio-Operational-green.svg)](http://status.phaxio.com)
 [![PhraseApp](https://img.shields.io/badge/PhraseApp-Operational-green.svg)](http://status.phraseapp.com)
 [![Phreesia](https://img.shields.io/badge/Phreesia-Operational-green.svg)](http://status.phreesia.net)
-[![Ping Identity](https://img.shields.io/badge/Ping Identity-Operational-green.svg)](https://status.pingidentity.com)
+[![Ping Identity](https://img.shields.io/badge/Ping Identity-Minor-yellow.svg)](https://status.pingidentity.com)
 [![Pin Payments](https://img.shields.io/badge/Pin Payments-Operational-green.svg)](https://pin.statuspage.io)
 [![Pipedrive](https://img.shields.io/badge/Pipedrive-Operational-green.svg)](http://status.pipedrive.com)
 [![Pivotal Tracker](https://img.shields.io/badge/Pivotal Tracker-Operational-green.svg)](http://status.pivotaltracker.com/)
