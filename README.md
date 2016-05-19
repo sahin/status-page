@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 18, 2016 21:25:08  PST
+Last Update May 18, 2016 21:25:17  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -155,7 +155,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 
 [![Kenna Security](https://img.shields.io/badge/Kenna Security-Operational-green.svg)](http://status.kennasecurity.com)
 [![Kickbox](https://img.shields.io/badge/Kickbox-Operational-green.svg)](http://status.kickbox.io)
-[![Kickstarter](https://img.shields.io/badge/Kickstarter-Operational-green.svg)](http://status.kickstarter.com)
+[![Kickstarter](https://img.shields.io/badge/Kickstarter-Non impact-black.svg)](http://status.kickstarter.com)
 [![Klarna](https://img.shields.io/badge/Klarna-Operational-green.svg)](http://status.klarna.com)
 [![Kontakt.io](https://img.shields.io/badge/Kontakt.io-Operational-green.svg)](http://status.kontakt.io)
 [![Kraken.io](https://img.shields.io/badge/Kraken.io-Operational-green.svg)](https://status.kraken.io)
