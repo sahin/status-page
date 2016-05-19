@@ -4,9 +4,9 @@
   "url": "http://status.keen.io",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-11T14:20:44.849Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-19T03:25:07.039Z",
+    "color": "green"
   }
 }
