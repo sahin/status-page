@@ -4,9 +4,9 @@
   "url": "http://status.onapp.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Non impact",
-    "description": "Non impact incident",
-    "updated_at": "2016-05-19T03:28:54.018Z",
-    "color": "black"
+    "indicator": "Major",
+    "description": "Major incident",
+    "updated_at": "2016-05-19T06:08:57.906Z",
+    "color": "red"
   }
 }
