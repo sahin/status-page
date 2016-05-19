@@ -4,9 +4,9 @@
   "url": "http://status.pantheon.io",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Non impact",
-    "description": "Non impact incident",
-    "updated_at": "2016-05-19T03:29:45.078Z",
-    "color": "black"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-19T06:09:16.898Z",
+    "color": "green"
   }
 }
