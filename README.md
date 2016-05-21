@@ -40,8 +40,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 | **`Monitoring`**
 |[![New Relic](https://img.shields.io/badge/New Relic-Operational-green.svg)](https://status.newrelic.com) [![Runscope](https://img.shields.io/badge/Runscope-Operational-green.svg)](http://status.runscope.com)|
 | **`Build, Test, Deploy`**
-|[![Codeship](https://img.shields.io/badge/Codeship-Operational-green.svg)](https://www.traviscistatus.com)|
-|[![Sauce Labs](https://img.shields.io/badge/Sauce Labs-Operational-green.svg)](https://status.scoutapp.com)||
+|[![Codeship](https://img.shields.io/badge/Codeship-Operational-green.svg)](https://www.traviscistatus.com) [![Sauce Labs](https://img.shields.io/badge/Sauce Labs-Operational-green.svg)](https://status.scoutapp.com)|
 
 | **Uncategorized**|
 |---|---|---|---|---|---|---|
