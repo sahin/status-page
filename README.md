@@ -20,30 +20,30 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 
 ## Categories (Based on [StackShare](http://stackshare.io/categories))
 
-| **Analytics**|||||
-| -------------         |:-------------:| -----:| -----:| -----:|
+| **Analytics**|
+| -------------         |
 |  **`Mobile Analytics`**
 |[![Amplitude](https://img.shields.io/badge/Amplitude-Operational-green.svg)](http://status.taplytics.com)|||
 
-| **Application and Data**|||||
-| -------------         |:-------------:| -----:| -----:| -----:|
+| **Application and Data**|
+| -------------         |
 |  **`Assets and Media`**
 |[![CloudFlare](https://img.shields.io/badge/CloudFlare-Minor-yellow.svg)](https://status.fastly.com)|||
 
-| **DevOps**|||||
-| -------------         |:-------------:| -----:| -----:| -----:|
+| **DevOps**|
+| -------------         |
 |  **`Exception Monitoring`**
 |[![Airbrake](https://img.shields.io/badge/Airbrake-Operational-green.svg)](http://status.rollbar.com)|||
-|||||
+|
 |  **`Error Logging`**
 |[![Loggly](https://img.shields.io/badge/Loggly-Operational-green.svg)](http://www.papertrailstatus.com)||
 | **`Monitoring`**
-|[![New Relic](https://img.shields.io/badge/New Relic-Operational-green.svg)](https://status.newrelic.com)| [![Runscope](https://img.shields.io/badge/Runscope-Operational-green.svg)](http://status.runscope.com)||
+|[![New Relic](https://img.shields.io/badge/New Relic-Operational-green.svg)](https://status.newrelic.com) [![Runscope](https://img.shields.io/badge/Runscope-Operational-green.svg)](http://status.runscope.com)|
 | **`Build, Test, Deploy`**
 |[![Codeship](https://img.shields.io/badge/Codeship-Operational-green.svg)](https://www.traviscistatus.com)|
 |[![Sauce Labs](https://img.shields.io/badge/Sauce Labs-Operational-green.svg)](https://status.scoutapp.com)||
 
-| **Uncategorized**||||||
+| **Uncategorized**|
 |---|---|---|---|---|---|---|
 |[![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](http://status.aptible.com) |
 |[![Articulate](https://img.shields.io/badge/Articulate-Operational-green.svg)](https://status.authorize.net)|
