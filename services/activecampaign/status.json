@@ -2,6 +2,7 @@
   "name": "activecampaign",
   "readable_name": "ActiveCampaign",
   "url": "http://status.activecampaign.com",
+  "twitter": "ActiveCampaign",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
