@@ -4,9 +4,9 @@
   "url": "http://status.maxcdn.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Operational",
-    "description": "All Systems Operational",
-    "updated_at": "2016-05-10T06:19:37.163Z",
-    "color": "green"
+    "indicator": "Non impact",
+    "description": "Non impact incident",
+    "updated_at": "2016-05-25T04:36:00.359Z",
+    "color": "black"
   }
 }
