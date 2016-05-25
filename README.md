@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 24, 2016 21:37:57  PST
+Last Update May 24, 2016 21:38:16  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -299,7 +299,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Sumo Logic](https://img.shields.io/badge/Sumo Logic-Operational-green.svg)](http://status.sumologic.com)
 [![Superfeedr](https://img.shields.io/badge/Superfeedr-Operational-green.svg)](http://status.superfeedr.com)
 [![SurveyGizmo](https://img.shields.io/badge/SurveyGizmo-Operational-green.svg)](https://surveygizmo.statuspage.io)
-[![Surveypal](https://img.shields.io/badge/Surveypal-Operational-green.svg)](https://status.surveypal.com)
+[![Surveypal](https://img.shields.io/badge/Surveypal-Non impact-black.svg)](https://status.surveypal.com)
 [![Swiftype](https://img.shields.io/badge/Swiftype-Operational-green.svg)](http://status.swiftype.com)
 [![Switch.co](https://img.shields.io/badge/Switch.co-Operational-green.svg)](http://status.dialpad.com)
 [![Dialpad](https://img.shields.io/badge/Dialpad-Operational-green.svg)](http://status.dialpad.com/)
