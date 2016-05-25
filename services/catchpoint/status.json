@@ -4,9 +4,9 @@
   "url": "http://status.catchpoint.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Non impact",
-    "description": "Non impact incident",
-    "updated_at": "2016-05-17T03:16:05.511Z",
-    "color": "black"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-25T04:01:51.026Z",
+    "color": "green"
   }
 }
