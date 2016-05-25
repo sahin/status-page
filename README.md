@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 08:55:58  PST
+Last Update May 25, 2016 08:56:31  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -204,7 +204,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Nylas](https://img.shields.io/badge/Nylas-Minor-yellow.svg)](http://status.nylas.com)
 [![Olark](https://img.shields.io/badge/Olark-Operational-green.svg)](http://status.olark.com)
 [![OnApp](https://img.shields.io/badge/OnApp-Operational-green.svg)](http://status.onapp.com)
-[![One.com](https://img.shields.io/badge/One.com-Operational-green.svg)](http://status.one.com)
+[![One.com](https://img.shields.io/badge/One.com-Minor-yellow.svg)](http://status.one.com)
 [![Ookla](https://img.shields.io/badge/Ookla-Operational-green.svg)](http://status.ookla.com)
 [![Opbeat](https://img.shields.io/badge/Opbeat-Operational-green.svg)](http://status.opbeat.com)
 [![OpenShift](https://img.shields.io/badge/OpenShift-Operational-green.svg)](http://status.openshift.com)
