@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 10:07:16  PST
+Last Update May 25, 2016 10:08:58  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -136,7 +136,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 
 
 [![Hosted Graphite](https://img.shields.io/badge/Hosted Graphite-Operational-green.svg)](http://status.hostedgraphite.com)
-[![HubSpot](https://img.shields.io/badge/HubSpot-Minor-yellow.svg)](https://status.hubspot.com)
+[![HubSpot](https://img.shields.io/badge/HubSpot-Operational-green.svg)](https://status.hubspot.com)
 [![I Want My Name](https://img.shields.io/badge/I Want My Name-Operational-green.svg)](http://status.iwantmyname.com/)
 [![IFTTT](https://img.shields.io/badge/IFTTT-Operational-green.svg)](http://status.ifttt.com)
 [![imgix](https://img.shields.io/badge/imgix-Operational-green.svg)](http://status.imgix.com)
