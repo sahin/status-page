@@ -4,9 +4,9 @@
   "url": "https://status.hubspot.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-25T15:55:14.512Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-25T17:08:57.628Z",
+    "color": "green"
   }
 }
