@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 24, 2016 21:02:18  PST
+Last Update May 24, 2016 21:03:15  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -97,7 +97,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 
 
 [![Flowdock](https://img.shields.io/badge/Flowdock-Operational-green.svg)](http://status.flowdock.com/)
-[![Flying Sphinx](https://img.shields.io/badge/Flying Sphinx-Non impact-black.svg)](http://status.flying-sphinx.com)
+[![Flying Sphinx](https://img.shields.io/badge/Flying Sphinx-Operational-green.svg)](http://status.flying-sphinx.com)
 [![Formstack](https://img.shields.io/badge/Formstack-Operational-green.svg)](http://status.formstack.com)
 [![fortrabbit](https://img.shields.io/badge/fortrabbit-Operational-green.svg)](http://status.fortrabbit.com)
 [![Found](https://img.shields.io/badge/Found-Operational-green.svg)](http://status.found.no)
