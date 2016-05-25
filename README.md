@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 08:57:10  PST
+Last Update May 25, 2016 08:57:25  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -255,7 +255,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![SalesforceIQ](https://img.shields.io/badge/SalesforceIQ-Operational-green.svg)](https://status.salesforceiq.com/)
 [![Resin.io](https://img.shields.io/badge/Resin.io-Operational-green.svg)](http://status.resin.io)
 [![RJMetrics](https://img.shields.io/badge/RJMetrics-Operational-green.svg)](http://status.rjmetrics.com)
-[![Robin](https://img.shields.io/badge/Robin-Operational-green.svg)](http://status.robinpowered.com)
+[![Robin](https://img.shields.io/badge/Robin-Minor-yellow.svg)](http://status.robinpowered.com)
 [![RubyGems](https://img.shields.io/badge/RubyGems-Operational-green.svg)](https://status.rubygems.org)
 [![Scrapinghub](https://img.shields.io/badge/Scrapinghub-Operational-green.svg)](http://status.scrapinghub.com)
 [![Scrutinizer](https://img.shields.io/badge/Scrutinizer-Operational-green.svg)](http://status.scrutinizer-ci.com)
