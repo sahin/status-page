@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 24, 2016 21:35:21  PST
+Last Update May 24, 2016 21:35:38  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -167,7 +167,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Librato](https://img.shields.io/badge/Librato-Operational-green.svg)](https://status.librato.com)
 [![Lightspeed](https://img.shields.io/badge/Lightspeed-Operational-green.svg)](http://status.lightspeedretail.com)
 [![Linode](https://img.shields.io/badge/Linode-Operational-green.svg)](http://status.linode.com)
-[![Litmus](https://img.shields.io/badge/Litmus-Major-red.svg)](https://status.litmus.com)
+[![Litmus](https://img.shields.io/badge/Litmus-Operational-green.svg)](https://status.litmus.com)
 [![LiveChat](https://img.shields.io/badge/LiveChat-Operational-green.svg)](https://status.livechatinc.com)
 [![Load Impact](https://img.shields.io/badge/Load Impact-Operational-green.svg)](http://status.loadimpact.com/)
 
