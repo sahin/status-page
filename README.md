@@ -1,4 +1,5 @@
 # Service status page  (beta - not stable)
+[![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
 Last Update May 24, 2016 21:38:23  PST
 
