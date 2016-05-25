@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 08:58:27  PST
+Last Update May 25, 2016 08:58:29  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -308,7 +308,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Syncano](https://img.shields.io/badge/Syncano-Minor-yellow.svg)](http://status.syncano.com)
 [![Talkdesk](https://img.shields.io/badge/Talkdesk-Operational-green.svg)](http://status.talkdesk.com)
 [![Tapglue](https://img.shields.io/badge/Tapglue-Operational-green.svg)](http://status.tapglue.com)
-[![TaskRabbit](https://img.shields.io/badge/TaskRabbit-Operational-green.svg)](http://status.taskrabbit.com)
+[![TaskRabbit](https://img.shields.io/badge/TaskRabbit-Minor-yellow.svg)](http://status.taskrabbit.com)
 [![Teespring](https://img.shields.io/badge/Teespring-Operational-green.svg)](http://status.teespring.com)
 
 
