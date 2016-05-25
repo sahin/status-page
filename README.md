@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 08:53:38  PST
+Last Update May 25, 2016 08:53:41  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -41,7 +41,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 | **`Monitoring`**
 |[![New Relic](https://img.shields.io/badge/New Relic-Operational-green.svg)](https://status.newrelic.com) [![Runscope](https://img.shields.io/badge/Runscope-Operational-green.svg)](http://status.runscope.com)|
 | **`Build, Test, Deploy`**
-|[![Codeship](https://img.shields.io/badge/Codeship-Operational-green.svg)](https://www.traviscistatus.com) [![Sauce Labs](https://img.shields.io/badge/Sauce Labs-Operational-green.svg)](https://status.scoutapp.com)|
+|[![Codeship](https://img.shields.io/badge/Codeship-Minor-yellow.svg)](https://status.scoutapp.com)|
 
 | **Uncategorized**|
 |---|---|---|---|---|---|---|
