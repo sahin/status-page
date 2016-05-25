@@ -1,6 +1,6 @@
 # Service status page  (beta - not stable)
 
-Last Update May 24, 2016 21:37:52  PST
+Last Update May 24, 2016 21:37:57  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -280,7 +280,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Sinch](https://img.shields.io/badge/Sinch-Minor-yellow.svg)](http://status.sinch.com)
 [![Siteleaf](https://img.shields.io/badge/Siteleaf-Operational-green.svg)](http://status.siteleaf.com)
 [![Skylight](https://img.shields.io/badge/Skylight-Operational-green.svg)](http://status.skylight.io)
-[![Smartsheet.com](https://img.shields.io/badge/Smartsheet.com-Operational-green.svg)](http://status.smartsheet.com)
+[![Smartsheet.com](https://img.shields.io/badge/Smartsheet.com-Minor-yellow.svg)](http://status.smartsheet.com)
 [![SMTP2GO](https://img.shields.io/badge/SMTP2GO-Operational-green.svg)](http://smtp2gostatus.com)
 [![Solano CI](https://img.shields.io/badge/Solano CI-Operational-green.svg)](http://status.tddium.com/)
 [![Spark](https://img.shields.io/badge/Spark-Operational-green.svg)](http://status.spark.io/)
