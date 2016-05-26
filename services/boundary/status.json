@@ -4,9 +4,9 @@
   "url": "http://status.boundary.com/",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-25T15:52:36.970Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-26T00:10:10.400Z",
+    "color": "green"
   }
 }
