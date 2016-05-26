@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 17:16:17  PST
+Last Update May 25, 2016 17:16:22  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -313,7 +313,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 
 
 [![Threat Stack](https://img.shields.io/badge/Threat Stack-Operational-green.svg)](http://status.threatstack.com)
-[![Totango](https://img.shields.io/badge/Totango-Operational-green.svg)](http://status.totango.com)
+[![Totango](https://img.shields.io/badge/Totango-Major-red.svg)](http://status.totango.com)
 [![tray.io](https://img.shields.io/badge/tray.io-Operational-green.svg)](http://status.tray.io)
 [![Treehouse](https://img.shields.io/badge/Treehouse-Operational-green.svg)](http://status.teamtreehouse.com)
 [![Tropo](https://img.shields.io/badge/Tropo-Operational-green.svg)](http://status.tropo.com)
