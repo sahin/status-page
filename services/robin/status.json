@@ -4,9 +4,9 @@
   "url": "http://status.robinpowered.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-25T15:57:22.208Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-26T00:15:10.789Z",
+    "color": "green"
   }
 }
