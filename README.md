@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 17:14:32  PST
+Last Update May 25, 2016 17:14:42  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -228,7 +228,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Ping Identity](https://img.shields.io/badge/Ping Identity-Operational-green.svg)](https://status.pingidentity.com)
 [![Pin Payments](https://img.shields.io/badge/Pin Payments-Operational-green.svg)](https://pin.statuspage.io)
 [![Pipedrive](https://img.shields.io/badge/Pipedrive-Operational-green.svg)](http://status.pipedrive.com)
-[![Pivotal Tracker](https://img.shields.io/badge/Pivotal Tracker-Minor-yellow.svg)](http://status.pivotaltracker.com/)
+[![Pivotal Tracker](https://img.shields.io/badge/Pivotal Tracker-Operational-green.svg)](http://status.pivotaltracker.com/)
 [![Plex](https://img.shields.io/badge/Plex-Operational-green.svg)](http://status.plex.tv)
 
 
