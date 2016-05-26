@@ -4,9 +4,9 @@
   "url": "http://codeshipstatus.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-25T15:53:40.098Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-26T00:11:11.606Z",
+    "color": "green"
   }
 }
