@@ -4,9 +4,9 @@
   "url": "http://buildkitestatus.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-25T15:52:48.430Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-26T00:10:21.472Z",
+    "color": "green"
   }
 }
