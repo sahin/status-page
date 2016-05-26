@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 17:14:42  PST
+Last Update May 25, 2016 17:14:54  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -240,7 +240,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![PubNub](https://img.shields.io/badge/PubNub-Operational-green.svg)](http://status.pubnub.com)
 [![Pusher](https://img.shields.io/badge/Pusher-Operational-green.svg)](https://status.pusher.com)
 [![Quandl](https://img.shields.io/badge/Quandl-Operational-green.svg)](http://status.quandl.com)
-[![Quay](https://img.shields.io/badge/Quay-Minor-yellow.svg)](http://status.quay.io)
+[![Quay](https://img.shields.io/badge/Quay-Operational-green.svg)](http://status.quay.io)
 [![QuotaGuard](https://img.shields.io/badge/QuotaGuard-Operational-green.svg)](http://status.quotaguard.com)
 [![Rainforest QA](https://img.shields.io/badge/Rainforest QA-Minor-yellow.svg)](http://status.rainforestqa.com)
 [![Rapid7](https://img.shields.io/badge/Rapid7-Operational-green.svg)](https://status.rapid7.com/)
