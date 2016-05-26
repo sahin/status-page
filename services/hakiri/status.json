@@ -4,9 +4,9 @@
   "url": "http://status.hakiri.io",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-25T15:54:57.001Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-26T00:12:34.163Z",
+    "color": "green"
   }
 }
