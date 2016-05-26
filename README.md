@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 17:12:40  PST
+Last Update May 25, 2016 17:13:27  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -165,7 +165,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![LeadPages](https://img.shields.io/badge/LeadPages-Operational-green.svg)](http://status.leadpages.net)
 [![Let's Encrypt](https://img.shields.io/badge/Let's Encrypt-Operational-green.svg)](https://letsencrypt.status.io)
 [![Lever](https://img.shields.io/badge/Lever-Operational-green.svg)](https://status.lever.co)
-[![Librato](https://img.shields.io/badge/Librato-Minor-yellow.svg)](https://status.librato.com)
+[![Librato](https://img.shields.io/badge/Librato-Operational-green.svg)](https://status.librato.com)
 [![Lightspeed](https://img.shields.io/badge/Lightspeed-Operational-green.svg)](http://status.lightspeedretail.com)
 [![Linode](https://img.shields.io/badge/Linode-Operational-green.svg)](http://status.linode.com)
 [![Litmus](https://img.shields.io/badge/Litmus-Operational-green.svg)](https://status.litmus.com)
