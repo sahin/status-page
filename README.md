@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 17:15:44  PST
+Last Update May 25, 2016 17:15:51  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -284,7 +284,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Smartsheet.com](https://img.shields.io/badge/Smartsheet.com-Minor-yellow.svg)](http://status.smartsheet.com)
 [![SMTP2GO](https://img.shields.io/badge/SMTP2GO-Operational-green.svg)](http://smtp2gostatus.com)
 [![Solano CI](https://img.shields.io/badge/Solano CI-Operational-green.svg)](http://status.tddium.com/)
-[![Spark](https://img.shields.io/badge/Spark-Minor-yellow.svg)](http://status.spark.io/)
+[![Spark](https://img.shields.io/badge/Spark-Operational-green.svg)](http://status.spark.io/)
 [![Sparkcentral](https://img.shields.io/badge/Sparkcentral-Operational-green.svg)](http://status.sparkcentral.com)
 [![Spreedly](https://img.shields.io/badge/Spreedly-Operational-green.svg)](http://status.spreedly.com)
 [![Sprout](https://img.shields.io/badge/Sprout-Operational-green.svg)](http://status.sproutsocial.com)
