@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 17:11:22  PST
+Last Update May 25, 2016 17:11:43  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -80,7 +80,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Duo](https://img.shields.io/badge/Duo-Operational-green.svg)](https://status.duo.com)
 
 
-[![Dwolla](https://img.shields.io/badge/Dwolla-Minor-yellow.svg)](http://status.dwolla.com)
+[![Dwolla](https://img.shields.io/badge/Dwolla-Operational-green.svg)](http://status.dwolla.com)
 [![Dyn](https://img.shields.io/badge/Dyn-Minor-yellow.svg)](https://www.dynstatus.com)
 [![EasyPost](https://img.shields.io/badge/EasyPost-Operational-green.svg)](http://www.easypoststatus.com)
 [![Ecwid](https://img.shields.io/badge/Ecwid-Operational-green.svg)](http://status.ecwid.com)
