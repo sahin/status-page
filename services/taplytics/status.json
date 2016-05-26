@@ -4,9 +4,9 @@
   "url": "http://status.taplytics.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-25T15:58:26.739Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-26T00:16:14.119Z",
+    "color": "green"
   }
 }
