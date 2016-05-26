@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 17:11:21  PST
+Last Update May 25, 2016 17:11:22  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -61,7 +61,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 |[![Code School](https://img.shields.io/badge/Code School-Operational-green.svg)](http://status.context.io) |
 
 [![Counterparty](https://img.shields.io/badge/Counterparty-Operational-green.svg)](http://status.counterparty.io)
-[![Coveralls](https://img.shields.io/badge/Coveralls-Minor-yellow.svg)](http://status.coveralls.io)
+[![Coveralls](https://img.shields.io/badge/Coveralls-Operational-green.svg)](http://status.coveralls.io)
 [![Crittercism](https://img.shields.io/badge/Crittercism-Operational-green.svg)](http://status.crittercism.com)
 [![Cronofy](https://img.shields.io/badge/Cronofy-Operational-green.svg)](http://status.cronofy.com)
 [![Customer.io](https://img.shields.io/badge/Customer.io-Operational-green.svg)](http://status.customer.io)
