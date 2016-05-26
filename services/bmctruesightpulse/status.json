@@ -4,9 +4,9 @@
   "url": "http://status.truesight.bmc.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-25T15:52:32.573Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-26T00:10:07.741Z",
+    "color": "green"
   }
 }
