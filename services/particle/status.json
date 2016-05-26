@@ -4,9 +4,9 @@
   "url": "http://status.particle.io",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-25T15:56:47.306Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-26T00:14:30.981Z",
+    "color": "green"
   }
 }
