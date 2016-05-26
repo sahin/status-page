@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 17:15:25  PST
+Last Update May 25, 2016 17:15:44  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -279,7 +279,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Signifyd](https://img.shields.io/badge/Signifyd-Operational-green.svg)](http://status.signifyd.com)
 [![Simplereach](https://img.shields.io/badge/Simplereach-Operational-green.svg)](http://status.simplereach.com)
 [![Sinch](https://img.shields.io/badge/Sinch-Minor-yellow.svg)](http://status.sinch.com)
-[![Siteleaf](https://img.shields.io/badge/Siteleaf-Minor-yellow.svg)](http://status.siteleaf.com)
+[![Siteleaf](https://img.shields.io/badge/Siteleaf-Operational-green.svg)](http://status.siteleaf.com)
 [![Skylight](https://img.shields.io/badge/Skylight-Operational-green.svg)](http://status.skylight.io)
 [![Smartsheet.com](https://img.shields.io/badge/Smartsheet.com-Minor-yellow.svg)](http://status.smartsheet.com)
 [![SMTP2GO](https://img.shields.io/badge/SMTP2GO-Operational-green.svg)](http://smtp2gostatus.com)
