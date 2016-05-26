@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 17:12:33  PST
+Last Update May 25, 2016 17:12:36  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -122,7 +122,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Greenhouse](https://img.shields.io/badge/Greenhouse-Operational-green.svg)](http://status.greenhouse.io)
 [![Haiku Learning](https://img.shields.io/badge/Haiku Learning-Operational-green.svg)](http://status.haikulearning.com)
 [![Hakiri](https://img.shields.io/badge/Hakiri-Minor-yellow.svg)](http://status.hakiri.io)
-[![Handwriting.io](https://img.shields.io/badge/Handwriting.io-Minor-yellow.svg)](http://status.handwriting.io)
+[![Handwriting.io](https://img.shields.io/badge/Handwriting.io-Operational-green.svg)](http://status.handwriting.io)
 [![Harvest](https://img.shields.io/badge/Harvest-Operational-green.svg)](http://www.harveststatus.com)
 [![HashiCorp](https://img.shields.io/badge/HashiCorp-Minor-yellow.svg)](http://status.hashicorp.com)
 [![Heap](https://img.shields.io/badge/Heap-Operational-green.svg)](http://status.heapanalytics.com)
