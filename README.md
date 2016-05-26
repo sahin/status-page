@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 17:13:56  PST
+Last Update May 25, 2016 17:14:28  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -218,7 +218,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Packet](https://img.shields.io/badge/Packet-Operational-green.svg)](http://status.packet.net)
 [![PagerDuty](https://img.shields.io/badge/PagerDuty-Operational-green.svg)](https://status.pagerduty.com)
 [![Pagoda Box](https://img.shields.io/badge/Pagoda Box-Operational-green.svg)](http://status.pagodabox.io)
-[![Pantheon](https://img.shields.io/badge/Pantheon-Operational-green.svg)](http://status.pantheon.io)
+[![Pantheon](https://img.shields.io/badge/Pantheon-Minor-yellow.svg)](http://status.pantheon.io)
 [![Parse](https://img.shields.io/badge/Parse-Operational-green.svg)](https://status.parse.com)
 [![Particle](https://img.shields.io/badge/Particle-Minor-yellow.svg)](http://status.particle.io)
 [![Periscope Data](https://img.shields.io/badge/Periscope Data-Major-red.svg)](https://status.periscopedata.com)
