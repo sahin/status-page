@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 17:13:27  PST
+Last Update May 25, 2016 17:13:44  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -177,7 +177,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![LocationKit](https://img.shields.io/badge/LocationKit-Operational-green.svg)](http://status.locationkit.io)
 [![Logmatic.io](https://img.shields.io/badge/Logmatic.io-Operational-green.svg)](http://status.logmatic.io)
 [![Lookback](https://img.shields.io/badge/Lookback-Operational-green.svg)](http://status.lookback.io)
-[![Mailgun](https://img.shields.io/badge/Mailgun-Operational-green.svg)](http://status.mailgun.com)
+[![Mailgun](https://img.shields.io/badge/Mailgun-Non impact-black.svg)](http://status.mailgun.com)
 [![Mailjet](https://img.shields.io/badge/Mailjet-Operational-green.svg)](http://status.mailjet.com)
 [![Mango](https://img.shields.io/badge/Mango-Operational-green.svg)](https://status.getmango.com/)
 [![Mapbox](https://img.shields.io/badge/Mapbox-Operational-green.svg)](http://status.mapbox.com)
