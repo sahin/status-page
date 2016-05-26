@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 25, 2016 17:13:44  PST
+Last Update May 25, 2016 17:13:56  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -187,7 +187,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Medium](https://img.shields.io/badge/Medium-Operational-green.svg)](https://medium.statuspage.io)
 [![Meldium](https://img.shields.io/badge/Meldium-Operational-green.svg)](http://status.meldium.com)
 [![Meteor](https://img.shields.io/badge/Meteor-Non impact-black.svg)](http://status.meteor.com)
-[![Mindflash](https://img.shields.io/badge/Mindflash-Operational-green.svg)](http://trust.mindflash.com)
+[![Mindflash](https://img.shields.io/badge/Mindflash-Non impact-black.svg)](http://trust.mindflash.com)
 [![Mode Analytics](https://img.shields.io/badge/Mode Analytics-Operational-green.svg)](http://status.modeanalytics.com)
 [![Modulus](https://img.shields.io/badge/Modulus-Operational-green.svg)](http://status.modulus.io)
 
