@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 27, 2016 08:35:19  PST
+Last Update May 27, 2016 08:35:35  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -213,7 +213,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 
 
 [![OrgSync](https://img.shields.io/badge/OrgSync-Operational-green.svg)](http://status.orgsync.com)
-[![Outbound](https://img.shields.io/badge/Outbound-Operational-green.svg)](http://status.outbound.io)
+[![Outbound](https://img.shields.io/badge/Outbound-Minor-yellow.svg)](http://status.outbound.io)
 [![packagecloud.io](https://img.shields.io/badge/packagecloud.io-Operational-green.svg)](http://www.packagecloudstatus.io)
 [![Packet](https://img.shields.io/badge/Packet-Operational-green.svg)](http://status.packet.net)
 [![PagerDuty](https://img.shields.io/badge/PagerDuty-Operational-green.svg)](https://status.pagerduty.com)
