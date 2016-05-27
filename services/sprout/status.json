@@ -4,9 +4,9 @@
   "url": "http://status.sproutsocial.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Unknown",
-    "description": "Unknown incident",
-    "updated_at": "2016-05-27T15:36:40.726Z",
-    "color": "black"
+    "indicator": "Minor",
+    "description": "Minor incident",
+    "updated_at": "2016-05-27T15:51:15.386Z",
+    "color": "yellow"
   }
 }
