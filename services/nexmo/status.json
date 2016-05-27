@@ -4,9 +4,9 @@
   "url": "https://status.nexmo.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-25T04:36:23.314Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-05-27T15:35:18.598Z",
+    "color": "green"
   }
 }
