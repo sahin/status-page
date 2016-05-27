@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 27, 2016 08:33:09  PST
+Last Update May 27, 2016 08:33:37  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -91,7 +91,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Envoy](https://img.shields.io/badge/Envoy-Operational-green.svg)](http://status.envoy.com)
 [![EventBoard](https://img.shields.io/badge/EventBoard-Operational-green.svg)](http://status.eventboard.io)
 [![Evident.io](https://img.shields.io/badge/Evident.io-Operational-green.svg)](http://status.evident.io)
-[![Fabric](https://img.shields.io/badge/Fabric-Operational-green.svg)](http://status.fabric.io)
+[![Fabric](https://img.shields.io/badge/Fabric-Minor-yellow.svg)](http://status.fabric.io)
 [![Fieldbook](https://img.shields.io/badge/Fieldbook-Operational-green.svg)](http://status.fieldbook.com)
 [![Filestack](https://img.shields.io/badge/Filestack-Operational-green.svg)](http://status.filestack.com/)
 [![Fleetio](https://img.shields.io/badge/Fleetio-Operational-green.svg)](http://status.fleetio.com)
