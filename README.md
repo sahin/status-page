@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 27, 2016 08:37:23  PST
+Last Update May 27, 2016 08:46:36  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -47,7 +47,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 |---|---|---|---|---|---|---|
 |[![Acquia](https://img.shields.io/badge/Acquia-Operational-green.svg)](http://status.aptible.com) |
 |[![Articulate](https://img.shields.io/badge/Articulate-Operational-green.svg)](https://status.authorize.net)|
-|[![Autopilot](https://img.shields.io/badge/Autopilot-Operational-green.svg)](https://barricade.statuspage.io)
+|[![Autopilot](https://img.shields.io/badge/Autopilot-Non impact-black.svg)](https://barricade.statuspage.io)
 |[![Base CRM](https://img.shields.io/badge/Base CRM-Operational-green.svg)](http://status.bigwig.lshift.net)|
 |[![Bintray](https://img.shields.io/badge/Bintray-Operational-green.svg)](http://status.blazemeter.com)
 |[![Block.io](https://img.shields.io/badge/Block.io-Operational-green.svg)](http://status.bluip.com)|
