@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 27, 2016 08:37:05  PST
+Last Update May 27, 2016 08:37:19  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -325,7 +325,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Unbounce](https://img.shields.io/badge/Unbounce-Operational-green.svg)](http://status.unbounce.com)
 [![UpCloud](https://img.shields.io/badge/UpCloud-Operational-green.svg)](http://status.upcloud.com)
 [![Urban Airship](https://img.shields.io/badge/Urban Airship-Operational-green.svg)](http://status.urbanairship.com)
-[![UserVoice](https://img.shields.io/badge/UserVoice-Operational-green.svg)](https://status.uservoice.com)
+[![UserVoice](https://img.shields.io/badge/UserVoice-Non impact-black.svg)](https://status.uservoice.com)
 [![Vend](https://img.shields.io/badge/Vend-Operational-green.svg)](http://status.vendhq.com)
 [![Venmo](https://img.shields.io/badge/Venmo-Operational-green.svg)](http://status.venmo.com)
 [![VictorOps](https://img.shields.io/badge/VictorOps-Operational-green.svg)](https://status.victorops.com)
