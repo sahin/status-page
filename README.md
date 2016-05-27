@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 27, 2016 08:37:19  PST
+Last Update May 27, 2016 08:37:23  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -329,7 +329,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Vend](https://img.shields.io/badge/Vend-Operational-green.svg)](http://status.vendhq.com)
 [![Venmo](https://img.shields.io/badge/Venmo-Operational-green.svg)](http://status.venmo.com)
 [![VictorOps](https://img.shields.io/badge/VictorOps-Operational-green.svg)](https://status.victorops.com)
-[![Vimeo](https://img.shields.io/badge/Vimeo-Major-red.svg)](http://www.vimeostatus.com)
+[![Vimeo](https://img.shields.io/badge/Vimeo-Minor-yellow.svg)](http://www.vimeostatus.com)
 
 
 [![VividCortex](https://img.shields.io/badge/VividCortex-Operational-green.svg)](https://vividcortex.statuspage.io)
