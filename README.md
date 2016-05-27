@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 27, 2016 08:35:01  PST
+Last Update May 27, 2016 08:35:06  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -182,7 +182,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Mango](https://img.shields.io/badge/Mango-Operational-green.svg)](https://status.getmango.com/)
 [![Mapbox](https://img.shields.io/badge/Mapbox-Operational-green.svg)](http://status.mapbox.com)
 [![Mavenlink](https://img.shields.io/badge/Mavenlink-Operational-green.svg)](https://mavenlink.statuspage.io)
-[![MaxCDN](https://img.shields.io/badge/MaxCDN-Non impact-black.svg)](http://status.maxcdn.com)
+[![MaxCDN](https://img.shields.io/badge/MaxCDN-Operational-green.svg)](http://status.maxcdn.com)
 [![Media Temple](https://img.shields.io/badge/Media Temple-Operational-green.svg)](http://status.mediatemple.net)
 [![Medium](https://img.shields.io/badge/Medium-Operational-green.svg)](https://medium.statuspage.io)
 [![Meldium](https://img.shields.io/badge/Meldium-Operational-green.svg)](http://status.meldium.com)
