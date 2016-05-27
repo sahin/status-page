@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 27, 2016 08:34:13  PST
+Last Update May 27, 2016 08:34:24  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -144,7 +144,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Insightly](https://img.shields.io/badge/Insightly-Operational-green.svg)](http://status.insightly.com)
 [![Instaparser](https://img.shields.io/badge/Instaparser-Operational-green.svg)](http://status.instaparser.com)
 [![Intercom](https://img.shields.io/badge/Intercom-Operational-green.svg)](https://status.intercom.io)
-[![Intuit Developer](https://img.shields.io/badge/Intuit Developer-Minor-yellow.svg)](http://developer-status.intuit.com/)
+[![Intuit Developer](https://img.shields.io/badge/Intuit Developer-Major-red.svg)](http://developer-status.intuit.com/)
 [![InVision](https://img.shields.io/badge/InVision-Operational-green.svg)](http://status.invisionapp.com)
 [![Ionic](https://img.shields.io/badge/Ionic-Operational-green.svg)](http://status.ionic.io)
 [![Iron.io](https://img.shields.io/badge/Iron.io-Operational-green.svg)](https://status.iron.io)
