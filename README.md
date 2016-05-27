@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 27, 2016 08:31:51  PST
+Last Update May 27, 2016 08:33:09  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -66,7 +66,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Cronofy](https://img.shields.io/badge/Cronofy-Operational-green.svg)](http://status.cronofy.com)
 [![Customer.io](https://img.shields.io/badge/Customer.io-Operational-green.svg)](http://status.customer.io)
 [![Datadog](https://img.shields.io/badge/Datadog-Operational-green.svg)](http://status.datadoghq.com)
-[![DataSift](https://img.shields.io/badge/DataSift-Minor-yellow.svg)](https://status.datasift.com)
+[![DataSift](https://img.shields.io/badge/DataSift-Major-red.svg)](https://status.datasift.com)
 [![Desk.com](https://img.shields.io/badge/Desk.com-Operational-green.svg)](https://status.desk.com)
 [![DeskPRO](https://img.shields.io/badge/DeskPRO-Operational-green.svg)](http://status.deskpro.com)
 [![Discord](https://img.shields.io/badge/Discord-Operational-green.svg)](http://status.discordapp.com)
