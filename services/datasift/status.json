@@ -4,9 +4,9 @@
   "url": "https://status.datasift.com",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-10T06:13:56.032Z",
-    "color": "yellow"
+    "indicator": "Major",
+    "description": "Major incident",
+    "updated_at": "2016-05-27T15:33:08.686Z",
+    "color": "red"
   }
 }
