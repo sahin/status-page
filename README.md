@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 27, 2016 08:35:41  PST
+Last Update May 27, 2016 08:36:20  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -261,7 +261,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Scrutinizer](https://img.shields.io/badge/Scrutinizer-Operational-green.svg)](http://status.scrutinizer-ci.com)
 [![Segment](https://img.shields.io/badge/Segment-Operational-green.svg)](http://status.segment.com)
 [![sendwithus](https://img.shields.io/badge/sendwithus-Operational-green.svg)](http://status.sendwithus.com/)
-[![SendGrid](https://img.shields.io/badge/SendGrid-Non impact-black.svg)](http://status.sendgrid.com)
+[![SendGrid](https://img.shields.io/badge/SendGrid-Operational-green.svg)](http://status.sendgrid.com)
 [![SendHub](https://img.shields.io/badge/SendHub-Operational-green.svg)](http://status.sendhub.com)
 [![Sendwithus](https://img.shields.io/badge/Sendwithus-Operational-green.svg)](http://status.sendwithus.com)
 [![Server Density](https://img.shields.io/badge/Server Density-Operational-green.svg)](http://status.serverdensity.com)
