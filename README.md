@@ -1,7 +1,7 @@
 # Service status page  (beta - not stable)
 [![Code Climate](https://codeclimate.com/github/sahin/status-page/badges/gpa.svg)](https://codeclimate.com/github/sahin/status-page)
 
-Last Update May 27, 2016 08:36:20  PST
+Last Update May 27, 2016 08:36:42  PST
 
 Statuses for over 378 cloud services, based on their status pages.
 
@@ -287,7 +287,7 @@ To add a service, please refer to _servicesWillBeAdded folder's readme.md
 [![Spark](https://img.shields.io/badge/Spark-Operational-green.svg)](http://status.spark.io/)
 [![Sparkcentral](https://img.shields.io/badge/Sparkcentral-Operational-green.svg)](http://status.sparkcentral.com)
 [![Spreedly](https://img.shields.io/badge/Spreedly-Operational-green.svg)](http://status.spreedly.com)
-[![Sprout](https://img.shields.io/badge/Sprout-Operational-green.svg)](http://status.sproutsocial.com)
+[![Sprout](https://img.shields.io/badge/Sprout-Unknown-black.svg)](http://status.sproutsocial.com)
 [![Squarespace](https://img.shields.io/badge/Squarespace-Operational-green.svg)](https://status.squarespace.com)
 [![Staffjoy](https://img.shields.io/badge/Staffjoy-Operational-green.svg)](http://status.staffjoy.com)
 
