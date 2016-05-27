@@ -4,9 +4,9 @@
   "url": "http://developer-status.intuit.com/",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-19T03:24:39.040Z",
-    "color": "yellow"
+    "indicator": "Major",
+    "description": "Major incident",
+    "updated_at": "2016-05-27T15:34:23.169Z",
+    "color": "red"
   }
 }
