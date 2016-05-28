@@ -2,6 +2,7 @@
   "name": "appgyver",
   "readable_name": "AppGyver",
   "url": "http://status.appgyver.com",
+  "twitter": "appgyver",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "aweber",
   "readable_name": "AWeber",
   "url": "http://status.aweber.com",
+  "twitter": "aweber",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",

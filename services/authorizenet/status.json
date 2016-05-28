@@ -2,6 +2,7 @@
   "name": "authorizenet",
   "readable_name": "Authorize.Net",
   "url": "https://status.authorize.net/",
+  "twitter": "authorizenet",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

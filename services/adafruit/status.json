@@ -2,6 +2,7 @@
   "name": "adafruit",
   "readable_name": "Adafruit",
   "url": "https://status.adafruit.com",
+  "twitter": "adafruit",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

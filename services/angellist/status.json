@@ -2,6 +2,7 @@
   "name": "angellist",
   "readable_name": "AngelList",
   "url": "http://status.angel.co",
+  "twitter": "angellist",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

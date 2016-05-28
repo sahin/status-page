@@ -2,6 +2,7 @@
   "name": "barricade",
   "readable_name": "Barricade",
   "url": "https://barricade.statuspage.io",
+  "twitter": "barricadeio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

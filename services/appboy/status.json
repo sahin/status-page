@@ -2,6 +2,7 @@
   "name": "appboy",
   "readable_name": "Appboy",
   "url": "http://status.appboy.com",
+  "twitter": "appboy",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

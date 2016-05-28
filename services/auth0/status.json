@@ -2,6 +2,7 @@
   "name": "auth0",
   "readable_name": "Auth0",
   "url": "https://status.auth0.com/",
+  "twitter": "auth0",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "atlassian",
   "readable_name": "Atlassian",
   "url": "http://status.atlassian.com",
+  "twitter": "atlassian",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

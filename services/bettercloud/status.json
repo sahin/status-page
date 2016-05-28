@@ -2,6 +2,7 @@
   "name": "bettercloud",
   "readable_name": "BetterCloud",
   "url": "http://status.bettercloud.com",
+  "twitter": "bettercloud",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

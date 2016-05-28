@@ -2,6 +2,7 @@
   "name": "big-cartel",
   "readable_name": "Big Cartel",
   "url": "http://status.bigcartel.com/",
+  "twitter": "bigcartel",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
