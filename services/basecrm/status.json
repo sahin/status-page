@@ -2,6 +2,7 @@
   "name": "basecrm",
   "readable_name": "Base CRM",
   "url": "http://status.getbase.com",
+  "twitter": "getbase",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "assently",
   "readable_name": "Assently",
   "url": "https://assently.statuspage.io",
+  "twitter": "assently",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

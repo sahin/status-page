@@ -2,6 +2,7 @@
   "name": "autotask",
   "readable_name": "Autotask",
   "url": "http://www.autotaskstatus.net",
+  "twitter": "autotask",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

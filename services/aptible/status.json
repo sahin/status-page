@@ -2,6 +2,7 @@
   "name": "aptible",
   "readable_name": "Aptible",
   "url": "http://status.aptible.com",
+  "twitter": "aptible",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

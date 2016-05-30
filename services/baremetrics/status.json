@@ -2,6 +2,7 @@
   "name": "baremetrics",
   "readable_name": "Baremetrics",
   "url": "http://status.aweber.com",
+  "twitter": "baremetrics",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",

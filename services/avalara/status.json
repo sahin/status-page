@@ -2,6 +2,7 @@
   "name": "avalara",
   "readable_name": "Avalara",
   "url": "https://status.avalara.com",
+  "twitter": "avalara",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

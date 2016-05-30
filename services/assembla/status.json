@@ -2,6 +2,7 @@
   "name": "assembla",
   "readable_name": "Assembla",
   "url": "http://status.assembla.com",
+  "twitter": "assembla",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

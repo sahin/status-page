@@ -2,6 +2,7 @@
   "name": "anynines",
   "readable_name": "anynines",
   "url": "http://status.anynines.com",
+  "twitter": "a9s_enterprise",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

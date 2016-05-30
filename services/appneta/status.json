@@ -2,6 +2,7 @@
   "name": "appneta",
   "readable_name": "AppNeta",
   "url": "http://status.appneta.com/",
+  "twitter": "appneta",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

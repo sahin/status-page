@@ -2,6 +2,7 @@
   "name": "airbrake",
   "readable_name": "Airbrake",
   "url": "https://status.airbrake.io",
+  "twitter": "airbrake",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

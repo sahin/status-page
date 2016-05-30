@@ -2,6 +2,7 @@
   "name": "apigee",
   "readable_name": "Apigee",
   "url": "https://status.apigee.com",
+  "twitter": "apigee",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

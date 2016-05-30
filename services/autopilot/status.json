@@ -2,6 +2,7 @@
   "name": "autopilot",
   "readable_name": "Autopilot",
   "url": "http://status.autopilothq.com",
+  "twitter": "autopilotus",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Non impact",

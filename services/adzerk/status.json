@@ -2,6 +2,7 @@
   "name": "adzerk",
   "readable_name": "Adzerk",
   "url": "http://status.adzerk.com",
+  "twitter": "adzerk",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

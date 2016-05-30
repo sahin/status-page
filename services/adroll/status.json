@@ -2,6 +2,7 @@
   "name": "adroll",
   "readable_name": "AdRoll",
   "url": "http://status.adroll.com",
+  "twitter": "adroll",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

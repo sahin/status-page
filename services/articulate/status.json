@@ -2,6 +2,7 @@
   "name": "articulate",
   "readable_name": "Articulate",
   "url": "https://www.articulatestatus.com",
+  "twitter": "articulate",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
