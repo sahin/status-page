@@ -2,6 +2,7 @@
   "name": "blockio",
   "readable_name": "Block.io",
   "url": "http://status.block.io",
+  "twitter": "blockio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

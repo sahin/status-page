@@ -2,6 +2,7 @@
   "name": "bugsnag",
   "readable_name": "Bugsnag",
   "url": "http://status.bugsnag.com",
+  "bugsnag": "bugsnag",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

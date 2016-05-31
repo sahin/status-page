@@ -2,6 +2,7 @@
   "name": "bitium",
   "readable_name": "Bitium",
   "url": "http://status.bitium.com",
+  "twitter": "bitium",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

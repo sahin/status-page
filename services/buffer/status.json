@@ -2,6 +2,7 @@
   "name": "buffer",
   "readable_name": "Buffer",
   "url": "http://status.buffer.com",
+  "twitter": "buffer",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

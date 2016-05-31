@@ -2,6 +2,7 @@
   "name": "blazemeter",
   "readable_name": "BlazeMeter",
   "url": "http://status.blazemeter.com",
+  "twitter": "blazemeter",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

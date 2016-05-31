@@ -2,6 +2,7 @@
   "name": "bigpanda",
   "readable_name": "BigPanda",
   "url": "http://status.bigpanda.io",
+  "twitter": "bigpanda",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "bowtie",
   "readable_name": "BowTie",
   "url": "http://status.bowtie.io",
+  "twitter": "bowtie_io",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

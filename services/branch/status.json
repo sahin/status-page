@@ -2,6 +2,7 @@
   "name": "branch",
   "readable_name": "Branch",
   "url": "http://status.branch.io",
+  "twitter": "branchmetrics",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "blueshift",
   "readable_name": "Blueshift",
   "url": "http://status.getblueshift.com",
+  "twitter": "blueshiftlabs",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "breadcrumb",
   "readable_name": "Breadcrumb",
   "url": "http://status.breadcrumbpos.com/",
+  "twitter": "askbreadcrumb",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

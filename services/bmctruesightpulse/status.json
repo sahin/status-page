@@ -2,6 +2,7 @@
   "name": "bmctruesightpulse",
   "readable_name": "BMC TrueSight Pulse (formerly Boundary)",
   "url": "http://status.truesight.bmc.com",
+  "twitter": "truesightpulse",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
