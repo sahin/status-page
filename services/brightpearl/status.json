@@ -2,6 +2,7 @@
   "name": "brightpearl",
   "readable_name": "Brightpearl",
   "url": "http://status.brightpearl.com/",
+  "twitter": "BrightpearlHQ",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

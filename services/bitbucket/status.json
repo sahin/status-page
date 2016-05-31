@@ -2,6 +2,7 @@
   "name": "bitbucket",
   "readable_name": "Bitbucket",
   "url": "http://status.bitbucket.org",
+  "twitter": "bitbucket",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

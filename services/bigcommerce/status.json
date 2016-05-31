@@ -2,6 +2,7 @@
   "name": "bigcommerce",
   "readable_name": "Bigcommerce",
   "url": "http://status.bigcommerce.com",
+  "twitter": "Bigcommerce",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

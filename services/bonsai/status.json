@@ -2,6 +2,7 @@
   "name": "bonsai",
   "readable_name": "Bonsai",
   "url": "https://status.bonsai.io",
+  "twitter": "bonsaisearch",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

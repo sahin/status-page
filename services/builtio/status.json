@@ -2,6 +2,7 @@
   "name": "builtio",
   "readable_name": "Built.io",
   "url": "http://status.built.io",
+  "twitter": "builtio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "bintray",
   "readable_name": "Bintray",
   "url": "http://status.bintray.com",
+  "twitter": "bintray",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

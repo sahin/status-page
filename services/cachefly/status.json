@@ -2,6 +2,7 @@
   "name": "cachefly",
   "readable_name": "CacheFly",
   "url": "http://status.cachefly.com",
+  "twitter": "cachefly",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

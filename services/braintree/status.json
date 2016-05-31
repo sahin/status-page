@@ -2,6 +2,7 @@
   "name": "braintree",
   "readable_name": "Braintree",
   "url": "https://status.braintreepayments.com",
+  "twitter": "braintree",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

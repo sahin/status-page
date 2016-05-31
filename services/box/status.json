@@ -2,6 +2,7 @@
   "name": "box",
   "readable_name": "Box",
   "url": "https://status.box.com",
+  "twitter": "BoxHQ",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

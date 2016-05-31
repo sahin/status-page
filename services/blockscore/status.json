@@ -2,6 +2,7 @@
   "name": "blockscore",
   "readable_name": "BlockScore",
   "url": "http://status.blockscore.com",
+  "twitter": "getblockscore",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

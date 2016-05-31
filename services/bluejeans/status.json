@@ -2,6 +2,7 @@
   "name": "bluejeans",
   "readable_name": "BlueJeans",
   "url": "http://status.bluejeans.com",
+  "twitter": "bluejeansnet",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "bugherd",
   "readable_name": "BugHerd",
   "url": "http://bugherdstatus.com",
+  "twitter": "bugherd",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

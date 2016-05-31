@@ -2,6 +2,7 @@
   "name": "bluebox",
   "readable_name": "Blue Box",
   "url": "https://blueboxstatus.com",
+  "twitter": "bluebox",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

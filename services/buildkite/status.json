@@ -2,6 +2,7 @@
   "name": "buildkite",
   "readable_name": "Buildkite",
   "url": "http://buildkitestatus.com",
+  "twitter": "buildkite",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

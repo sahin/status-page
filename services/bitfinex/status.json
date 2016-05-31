@@ -2,6 +2,7 @@
   "name": "bitfinex",
   "readable_name": "Bitfinex",
   "url": "https://bitfinex.statuspage.io",
+  "twitter": "bitfinex",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
