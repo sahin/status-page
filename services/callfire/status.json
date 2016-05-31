@@ -2,6 +2,7 @@
   "name": "callfire",
   "readable_name": "CallFire",
   "url": "http://status.callfire.com",
+  "twitter": "callfire",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

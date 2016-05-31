@@ -2,6 +2,7 @@
   "name": "canvas",
   "readable_name": "Canvas",
   "url": "http://status.instructure.com",
+  "twitter": "instructure",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "cloudflare",
   "readable_name": "CloudFlare",
   "url": "https://www.cloudflarestatus.com",
+  "twitter": "cloudflare",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",

@@ -2,6 +2,7 @@
   "name": "catalyze",
   "readable_name": "Catalyze",
   "url": "http://status.catalyze.io",
+  "twitter": "https://twitter.com/catalyzeio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "cloudshare",
   "readable_name": "CloudShare",
   "url": "http://status.cloudshare.com",
+  "twitter": "cloudshare",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "clever",
   "readable_name": "Clever",
   "url": "https://status.clever.com",
+  "twitter": "clever",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "chalkup",
   "readable_name": "Chalkup",
   "url": "http://status.chalkup.co/",
+  "twitter": "chalkupedu",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

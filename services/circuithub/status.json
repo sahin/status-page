@@ -2,6 +2,7 @@
   "name": "circuithub",
   "readable_name": "CircuitHub",
   "url": "http://status.circuithub.com/",
+  "twitter": "circuithub",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "clearbit",
   "readable_name": "Clearbit",
   "url": "http://status.clearbit.com",
+  "twitter": "clearbit",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "chute",
   "readable_name": "Chute",
   "url": "http://status.getchute.com",
+  "twitter": "getchute",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

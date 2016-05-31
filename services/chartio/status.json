@@ -2,6 +2,7 @@
   "name": "chartio",
   "readable_name": "Chartio",
   "url": "http://www.chartiostatus.com",
+  "twitter": "chartio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

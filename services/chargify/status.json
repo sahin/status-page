@@ -2,6 +2,7 @@
   "name": "chargify",
   "readable_name": "Chargify",
   "url": "http://status.chargify.io/",
+  "twitter": "chargify",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "canva",
   "readable_name": "Canva",
   "url": "http://status.canva.com",
+  "twitter": "canva",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "ciscospark",
   "readable_name": "Cisco Spark",
   "url": "https://status.ciscospark.com",
+  "twitter": "CiscoCollab",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
