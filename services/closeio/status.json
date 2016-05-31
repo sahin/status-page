@@ -2,6 +2,7 @@
   "name": "closeio",
   "readable_name": "Close.io",
   "url": "http://status.close.io",
+  "twitter": "closeio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

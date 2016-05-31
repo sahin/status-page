@@ -2,6 +2,7 @@
   "name": "checkr",
   "readable_name": "Checkr",
   "url": "http://checkrstatus.com",
+  "twitter": "checkr",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

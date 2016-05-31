@@ -2,6 +2,7 @@
   "name": "cloudinary",
   "readable_name": "Cloudinary",
   "url": "http://status.cloudinary.com",
+  "twitter": "cloudinary",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

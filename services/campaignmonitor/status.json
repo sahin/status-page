@@ -2,6 +2,7 @@
   "name": "campaignmonitor",
   "readable_name": "Campaign Monitor",
   "url": "https://status.campaignmonitor.com",
+  "twitter": "campaignmonitor",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

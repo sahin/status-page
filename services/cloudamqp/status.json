@@ -2,6 +2,7 @@
   "name": "cloudamqp",
   "readable_name": "CloudAMQP",
   "url": "http://status.cloudamqp.com",
+  "twitter": "cloudamqp",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

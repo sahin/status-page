@@ -2,6 +2,7 @@
   "name": "clef",
   "readable_name": "Clef",
   "url": "https://status.getclef.com",
+  "twitter": "getclef",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

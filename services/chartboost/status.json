@@ -2,6 +2,7 @@
   "name": "chartboost",
   "readable_name": "Chartboost",
   "url": "http://status.chartboost.com",
+  "twitter": "chartboost",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "chartbeat",
   "readable_name": "Chartbeat",
   "url": "http://status.chartbeat.com",
+  "twitter": "chartbeat",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

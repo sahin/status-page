@@ -2,6 +2,7 @@
   "name": "cloudsigma",
   "readable_name": "CloudSigma",
   "url": "http://status.cloudsigma.com",
+  "twitter": "CloudSigma",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

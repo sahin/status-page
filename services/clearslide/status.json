@@ -2,6 +2,7 @@
   "name": "clearslide",
   "readable_name": "ClearSlide",
   "url": "http://status.clearslide.com",
+  "twitter": "clearslide",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

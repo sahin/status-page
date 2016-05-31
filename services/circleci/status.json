@@ -2,6 +2,7 @@
   "name": "circleci",
   "readable_name": "CircleCI",
   "url": "http://status.circleci.com",
+  "twitter": "circleci",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "chatlio",
   "readable_name": "Chatlio",
   "url": "http://status.chatlio.com",
+  "twitter": "chatlio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

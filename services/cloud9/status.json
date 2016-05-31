@@ -2,6 +2,7 @@
   "name": "cloud9",
   "readable_name": "Cloud9",
   "url": "http://status.c9.io",
+  "twitter": "cloud9",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

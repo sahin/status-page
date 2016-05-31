@@ -2,6 +2,7 @@
   "name": "catchpoint",
   "readable_name": "Catchpoint",
   "url": "http://status.catchpoint.com",
+  "twitter": "Catchpoint",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
