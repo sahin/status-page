@@ -5,9 +5,9 @@
   "twitter": "baremetrics",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Minor",
-    "description": "Minor incident",
-    "updated_at": "2016-05-27T15:31:50.387Z",
-    "color": "yellow"
+    "indicator": "Operational",
+    "description": "All Systems Operational",
+    "updated_at": "2016-07-02T02:39:43.026Z",
+    "color": "green"
   }
 }
