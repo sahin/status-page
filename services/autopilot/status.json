@@ -5,9 +5,9 @@
   "twitter": "autopilotus",
   "provider": "StatusPage.io",
   "status": {
-    "indicator": "Non impact",
-    "description": "Non impact incident",
-    "updated_at": "2016-05-27T15:46:34.530Z",
-    "color": "black"
+    "indicator": "Minor",
+    "description": "Minor incident",
+    "updated_at": "2016-07-02T02:39:31.072Z",
+    "color": "yellow"
   }
 }
