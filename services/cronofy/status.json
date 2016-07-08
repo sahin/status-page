@@ -2,6 +2,7 @@
   "name": "cronofy",
   "readable_name": "Cronofy",
   "url": "http://status.cronofy.com",
+  "twitter": "cronofy",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

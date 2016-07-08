@@ -2,6 +2,7 @@
   "name": "customerio",
   "readable_name": "Customer.io",
   "url": "http://status.customer.io",
+  "twitter": "customerio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

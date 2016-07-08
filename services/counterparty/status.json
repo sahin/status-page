@@ -2,6 +2,7 @@
   "name": "counterparty",
   "readable_name": "Counterparty",
   "url": "http://status.counterparty.io",
+  "twitter": "CounterpartyXCP",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

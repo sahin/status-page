@@ -2,6 +2,7 @@
   "name": "compose",
   "readable_name": "Compose",
   "url": "https://status.compose.io",
+  "twitter": "composeio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "dispatch",
   "readable_name": "Dispatch",
   "url": "http://status.dispatch.me",
+  "twitter": "dispatch_me",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

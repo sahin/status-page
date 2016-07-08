@@ -2,6 +2,7 @@
   "name": "codeschool",
   "readable_name": "Code School",
   "url": "http://status.codeschool.com",
+  "twitter": "codeschool",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "desk",
   "readable_name": "Desk.com",
   "url": "https://status.desk.com",
+  "twitter": "desk",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

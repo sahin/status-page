@@ -2,6 +2,7 @@
   "name": "dnsimple",
   "readable_name": "DNSimple",
   "url": "http://dnsimplestatus.com",
+  "twitter": "dnsimple",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

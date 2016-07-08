@@ -2,6 +2,7 @@
   "name": "datasift",
   "readable_name": "DataSift",
   "url": "https://status.datasift.com",
+  "twitter": "datasift",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Major",

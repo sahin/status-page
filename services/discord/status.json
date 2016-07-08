@@ -2,6 +2,7 @@
   "name": "discord",
   "readable_name": "Discord",
   "url": "http://status.discordapp.com",
+  "twitter": "discordapp",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
