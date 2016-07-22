@@ -2,6 +2,7 @@
   "name": "docker",
   "readable_name": "Docker",
   "url": "https://status.docker.com",
+  "twitter": "docker",
   "provider": "Powered by Status.io",
   "status": {
     "description": "All Systems Operational",

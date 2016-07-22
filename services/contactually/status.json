@@ -2,6 +2,7 @@
   "name": "contactually",
   "readable_name": "Contactually",
   "url": "http://status.contactually.com",
+  "twitter": "contactually",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

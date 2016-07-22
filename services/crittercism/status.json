@@ -2,6 +2,7 @@
   "name": "crittercism",
   "readable_name": "Crittercism",
   "url": "http://status.crittercism.com",
+  "twitter": "apteligent",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

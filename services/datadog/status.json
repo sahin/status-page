@@ -2,6 +2,7 @@
   "name": "datadog",
   "readable_name": "Datadog",
   "url": "http://status.datadoghq.com",
+  "twitter": "datadoghq",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

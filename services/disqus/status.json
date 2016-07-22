@@ -2,6 +2,7 @@
   "name": "disqus",
   "readable_name": "Disqus",
   "url": "https://status.disqus.com",
+  "twitter": "disqus",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

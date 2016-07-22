@@ -2,6 +2,7 @@
   "name": "dotmailer",
   "readable_name": "dotmailer",
   "url": "http://status.dotmailer.com",
+  "twitter": "dotmailer",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

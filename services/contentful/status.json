@@ -2,6 +2,7 @@
   "name": "contentful",
   "readable_name": "Contentful",
   "url": "http://status.contentful.com",
+  "twitter": "contentful",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "coveralls",
   "readable_name": "Coveralls",
   "url": "http://status.coveralls.io",
+  "twitter": "CoverallsApp",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

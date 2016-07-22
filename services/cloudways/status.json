@@ -2,6 +2,7 @@
   "name": "cloudways",
   "readable_name": "Cloudways",
   "url": "http://status.cloudways.com",
+  "twitter": "cloudways",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "codeclimate",
   "readable_name": "Code Climate",
   "url": "http://status.codeclimate.com",
+  "twitter": "codeclimate",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

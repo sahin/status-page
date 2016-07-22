@@ -2,6 +2,7 @@
   "name": "coinbase",
   "readable_name": "Coinbase",
   "url": "http://status.coinbase.com",
+  "twitter": "coinbase",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

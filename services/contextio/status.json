@@ -2,6 +2,7 @@
   "name": "contextio",
   "readable_name": "Context.IO",
   "url": "http://status.context.io",
+  "twitter": "contextio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

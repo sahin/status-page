@@ -2,6 +2,7 @@
   "name": "codeship",
   "readable_name": "Codeship",
   "url": "http://codeshipstatus.com",
+  "twitter": "codeship",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

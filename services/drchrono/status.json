@@ -2,6 +2,7 @@
   "name": "drchrono",
   "readable_name": "drchrono",
   "url": "https://status.drchrono.com",
+  "twitter": "drchrono",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

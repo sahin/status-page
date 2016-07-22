@@ -2,6 +2,7 @@
   "name": "codecov",
   "readable_name": "Codecov",
   "url": "http://status.codecov.io",
+  "twitter": "codecov",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
