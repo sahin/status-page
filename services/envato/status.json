@@ -2,6 +2,7 @@
   "name": "envato",
   "readable_name": "Envato",
   "url": "http://status.envato.com",
+  "twitter": "envato",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "fastly",
   "readable_name": "Fastly",
   "url": "https://status.fastly.com",
+  "twitter": "fastly",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

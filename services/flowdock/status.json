@@ -2,6 +2,7 @@
   "name": "flowdock",
   "readable_name": "Flowdock",
   "url": "http://status.flowdock.com/",
+  "twitter": "flowdock",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "freshdesk",
   "readable_name": "Freshdesk",
   "url": "http://updates.freshdesk.com",
+  "twitter": "freshdesk",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

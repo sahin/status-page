@@ -2,6 +2,7 @@
   "name": "ghostinspector",
   "readable_name": "Ghost Inspector",
   "url": "https://ghostinspector.statuspage.io",
+  "twitter": "ghostinspector",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

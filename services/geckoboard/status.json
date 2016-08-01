@@ -2,6 +2,7 @@
   "name": "geckoboard",
   "readable_name": "Geckoboard",
   "url": "https://geckoboard.statuspage.io",
+  "twitter": "geckoboard",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

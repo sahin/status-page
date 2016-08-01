@@ -2,6 +2,7 @@
   "name": "front",
   "readable_name": "Front",
   "url": "http://status.frontapp.com",
+  "twitter": "front",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

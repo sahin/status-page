@@ -2,6 +2,7 @@
   "name": "gameanalytics",
   "readable_name": "GameAnalytics",
   "url": "https://gameanalytics.statuspage.io",
+  "twitter": "gameanalytics",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

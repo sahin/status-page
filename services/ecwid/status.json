@@ -2,6 +2,7 @@
   "name": "ecwid",
   "readable_name": "Ecwid",
   "url": "http://status.ecwid.com",
+  "twitter": "ecwid",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

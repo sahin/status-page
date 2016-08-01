@@ -2,6 +2,7 @@
   "name": "eventboard",
   "readable_name": "EventBoard",
   "url": "http://status.eventboard.io",
+  "twitter": "eventboard",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

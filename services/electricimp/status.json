@@ -2,6 +2,7 @@
   "name": "electricimp",
   "readable_name": "Electric Imp",
   "url": "http://status.electricimp.com",
+  "twitter": "electricimp",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

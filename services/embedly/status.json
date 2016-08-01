@@ -2,6 +2,7 @@
   "name": "embedly",
   "readable_name": "Embedly",
   "url": "http://status.embed.ly",
+  "twitter": "embedly",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

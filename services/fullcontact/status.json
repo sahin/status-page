@@ -2,6 +2,7 @@
   "name": "fullcontact",
   "readable_name": "FullContact",
   "url": "http://status.fullcontact.com",
+  "twitter": "fullcontact",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

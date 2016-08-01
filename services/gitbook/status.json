@@ -2,6 +2,7 @@
   "name": "gitbook",
   "readable_name": "GitBook",
   "url": "http://status.gitbook.com",
+  "twitter": "gitbook",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

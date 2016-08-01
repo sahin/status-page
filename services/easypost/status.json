@@ -2,6 +2,7 @@
   "name": "easypost",
   "readable_name": "EasyPost",
   "url": "http://www.easypoststatus.com",
+  "twitter": "easypost",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

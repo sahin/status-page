@@ -2,6 +2,7 @@
   "name": "freckle",
   "readable_name": "Freckle",
   "url": "http://status.letsfreckle.com",
+  "twitter": "freckle",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

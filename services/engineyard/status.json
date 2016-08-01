@@ -2,6 +2,7 @@
   "name": "engineyard",
   "readable_name": "Engine Yard",
   "url": "http://status.engineyard.com",
+  "twitter": "engineyard",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Non impact",

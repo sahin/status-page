@@ -2,6 +2,7 @@
   "name": "fieldbook",
   "readable_name": "Fieldbook",
   "url": "http://status.fieldbook.com",
+  "twitter": "fieldbookapp",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "gild",
   "readable_name": "Gild",
   "url": "http://status.gild.com",
+  "twitter": "gild",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

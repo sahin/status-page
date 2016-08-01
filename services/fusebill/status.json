@@ -2,6 +2,7 @@
   "name": "fusebill",
   "readable_name": "Fusebill",
   "url": "http://statuspage.fusebill.com",
+  "twitter": "fusebill",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

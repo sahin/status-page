@@ -2,6 +2,7 @@
   "name": "envoy",
   "readable_name": "Envoy",
   "url": "http://status.envoy.com",
+  "twitter": "envoy",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

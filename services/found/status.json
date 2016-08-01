@@ -2,6 +2,7 @@
   "name": "found",
   "readable_name": "Found",
   "url": "http://status.found.no",
+  "twitter": "found",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

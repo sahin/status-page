@@ -2,6 +2,7 @@
   "name": "formstack",
   "readable_name": "Formstack",
   "url": "http://status.formstack.com",
+  "twitter": "formstack",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

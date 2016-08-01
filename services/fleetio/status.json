@@ -2,6 +2,7 @@
   "name": "fleetio",
   "readable_name": "Fleetio",
   "url": "http://status.fleetio.com",
+  "twitter": "fleetio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
