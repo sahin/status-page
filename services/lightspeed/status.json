@@ -2,6 +2,7 @@
   "name": "lightspeed",
   "readable_name": "Lightspeed",
   "url": "http://status.lightspeedretail.com",
+  "twitter": "lightspeedhq",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

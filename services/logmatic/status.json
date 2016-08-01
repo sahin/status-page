@@ -2,6 +2,7 @@
   "name": "logmatic",
   "readable_name": "Logmatic.io",
   "url": "http://status.logmatic.io",
+  "twitter": "logmatic",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

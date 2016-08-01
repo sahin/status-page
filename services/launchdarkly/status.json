@@ -2,6 +2,7 @@
   "name": "launchdarkly",
   "readable_name": "LaunchDarkly",
   "url": "http://status.launchdarkly.com",
+  "twitter": "launchdarkly",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

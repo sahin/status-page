@@ -2,6 +2,7 @@
   "name": "litmus",
   "readable_name": "Litmus",
   "url": "https://status.litmus.com",
+  "twitter": "litmusapp",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "locationkit",
   "readable_name": "LocationKit",
   "url": "http://status.locationkit.io",
+  "twitter": "locationkit",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

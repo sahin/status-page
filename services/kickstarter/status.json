@@ -2,6 +2,7 @@
   "name": "kickstarter",
   "readable_name": "Kickstarter",
   "url": "http://status.kickstarter.com",
+  "twitter": "kickstarter",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

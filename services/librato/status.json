@@ -2,6 +2,7 @@
   "name": "librato",
   "readable_name": "Librato",
   "url": "https://status.librato.com",
+  "twitter": "librato",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",

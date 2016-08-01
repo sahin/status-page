@@ -2,6 +2,7 @@
   "name": "klarna",
   "readable_name": "Klarna",
   "url": "http://status.klarna.com",
+  "twitter": "klarna",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

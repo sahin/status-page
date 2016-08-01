@@ -2,6 +2,7 @@
   "name": "loader",
   "readable_name": "Loader.io",
   "url": "http://status.loader.io",
+  "twitter": "loaderio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

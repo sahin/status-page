@@ -2,6 +2,7 @@
   "name": "linode",
   "readable_name": "Linode",
   "url": "http://status.linode.com",
+  "twitter": "linode",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

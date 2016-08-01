@@ -2,6 +2,7 @@
   "name": "kenna",
   "readable_name": "Kenna Security",
   "url": "http://status.kennasecurity.com",
+  "twitter": "kennasecurity",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

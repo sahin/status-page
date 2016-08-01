@@ -2,6 +2,7 @@
   "name": "loadimpact",
   "readable_name": "Load Impact",
   "url": "http://status.loadimpact.com",
+  "twitter": "loadimpact",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

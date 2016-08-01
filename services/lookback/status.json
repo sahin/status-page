@@ -2,6 +2,7 @@
   "name": "lookback",
   "readable_name": "Lookback",
   "url": "http://status.lookback.io",
+  "twitter": "lookback",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

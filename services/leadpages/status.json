@@ -2,6 +2,7 @@
   "name": "leadpages",
   "readable_name": "LeadPages",
   "url": "http://status.leadpages.net",
+  "twitter": "leadpages",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

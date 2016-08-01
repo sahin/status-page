@@ -2,6 +2,7 @@
   "name": "keenio",
   "readable_name": "Keen IO",
   "url": "http://status.keen.io",
+  "twitter": "keen_io",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

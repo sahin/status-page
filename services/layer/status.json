@@ -2,6 +2,7 @@
   "name": "layer",
   "readable_name": "Layer",
   "url": "http://status.layer.com",
+  "twitter": "layer",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

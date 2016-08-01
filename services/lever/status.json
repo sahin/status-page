@@ -2,6 +2,7 @@
   "name": "lever",
   "readable_name": "Lever",
   "url": "https://status.lever.co",
+  "twitter": "lever",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",
