@@ -2,6 +2,7 @@
   "name": "squarespace",
   "readable_name": "Squarespace",
   "url": "https://status.squarespace.com",
+  "twitter": "squarespace",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "scout",
   "readable_name": "Scout",
   "url": "https://status.scoutapp.com",
+  "twitter": "scout",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "resin",
   "readable_name": "Resin.io",
   "url": "http://status.resin.io",
+  "twitter": "resin_io",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

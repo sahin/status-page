@@ -2,6 +2,7 @@
   "name": "robin",
   "readable_name": "Robin",
   "url": "http://status.robinpowered.com",
+  "twitter": "robinpowered",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

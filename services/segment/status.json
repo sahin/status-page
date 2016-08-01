@@ -2,6 +2,7 @@
   "name": "segment",
   "readable_name": "Segment",
   "url": "http://status.segment.com",
+  "twitter": "segment",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "solano-ci",
   "readable_name": "Solano CI",
   "url": "http://status.tddium.com/",
+  "twitter": "solanolabs",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "quotaguard",
   "readable_name": "QuotaGuard",
   "url": "http://status.quotaguard.com",
+  "twitter": "quotaguard",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

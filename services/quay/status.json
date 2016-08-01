@@ -2,6 +2,7 @@
   "name": "quay",
   "readable_name": "Quay",
   "url": "http://status.quay.io",
+  "twitter": "quayio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

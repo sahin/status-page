@@ -2,6 +2,7 @@
   "name": "shopkeep",
   "readable_name": "ShopKeep",
   "url": "http://status.shopkeep.com",
+  "twitter": "shopkeep",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

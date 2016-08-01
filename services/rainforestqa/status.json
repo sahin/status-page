@@ -2,6 +2,7 @@
   "name": "rainforestqa",
   "readable_name": "Rainforest QA",
   "url": "http://status.rainforestqa.com",
+  "twitter": "rainforestqa",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

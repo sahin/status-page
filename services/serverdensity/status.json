@@ -2,6 +2,7 @@
   "name": "serverdensity",
   "readable_name": "Server Density",
   "url": "http://status.serverdensity.com",
+  "twitter": "serverdensity",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

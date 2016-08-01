@@ -2,6 +2,7 @@
   "name": "shipwire",
   "readable_name": "Shipwire",
   "url": "http://status.shipwire.com",
+  "twitter": "shipwire",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

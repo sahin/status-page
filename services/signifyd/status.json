@@ -2,6 +2,7 @@
   "name": "signifyd",
   "readable_name": "Signifyd",
   "url": "http://status.signifyd.com",
+  "twitter": "signifyd",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

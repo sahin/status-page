@@ -2,6 +2,7 @@
   "name": "swrve",
   "readable_name": "Swrve",
   "url": "http://status.swrve.com",
+  "twitter": "swrve",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

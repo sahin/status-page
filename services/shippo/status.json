@@ -2,6 +2,7 @@
   "name": "shippo",
   "readable_name": "Shippo",
   "url": "http://status.goshippo.com",
+  "twitter": "goshippo",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "strava",
   "readable_name": "Strava",
   "url": "http://status.strava.com",
+  "twitter": "strava",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

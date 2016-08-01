@@ -2,6 +2,7 @@
   "name": "rubygems",
   "readable_name": "RubyGems",
   "url": "https://status.rubygems.org",
+  "twitter": "rubygems",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

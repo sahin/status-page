@@ -2,6 +2,7 @@
   "name": "scrapinghub",
   "readable_name": "Scrapinghub",
   "url": "http://status.scrapinghub.com",
+  "twitter": "scrapinghub",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

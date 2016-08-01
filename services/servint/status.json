@@ -2,6 +2,7 @@
   "name": "servint",
   "readable_name": "ServInt",
   "url": "https://servint.statuspage.io",
+  "twitter": "servint",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

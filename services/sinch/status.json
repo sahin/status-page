@@ -2,6 +2,7 @@
   "name": "sinch",
   "readable_name": "Sinch",
   "url": "http://status.sinch.com",
+  "twitter": "sinchdev",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",

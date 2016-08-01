@@ -2,6 +2,7 @@
   "name": "stoplight",
   "readable_name": "StopLight",
   "url": "http://status.stoplight.io",
+  "twitter": "stoplightio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

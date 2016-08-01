@@ -2,6 +2,7 @@
   "name": "stream",
   "readable_name": "Stream",
   "url": "http://status.getstream.io",
+  "twitter": "getstream_io",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "stormpath",
   "readable_name": "Stormpath",
   "url": "http://status.stormpath.com",
+  "twitter": "gostormpath",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

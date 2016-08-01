@@ -2,6 +2,7 @@
   "name": "signalfx",
   "readable_name": "SignalFX",
   "url": "http://status.signalfx.com",
+  "twitter": "signalfx",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

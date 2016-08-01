@@ -2,6 +2,7 @@
   "name": "switch",
   "readable_name": "Switch.co",
   "url": "http://status.dialpad.com",
+  "twitter": "switch",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "superfeedr",
   "readable_name": "Superfeedr",
   "url": "http://status.superfeedr.com",
+  "twitter": "superfeedr",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "switchco",
   "readable_name": "Dialpad",
   "url": "http://status.dialpad.com/",
+  "twitter": "DialpadHQ",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

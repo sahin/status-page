@@ -2,6 +2,7 @@
   "name": "reddit",
   "readable_name": "reddit",
   "url": "http://www.redditstatus.com",
+  "twitter": "reddit",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

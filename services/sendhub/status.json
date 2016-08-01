@@ -2,6 +2,7 @@
   "name": "sendhub",
   "readable_name": "SendHub",
   "url": "http://status.sendhub.com",
+  "twitter": "sendhub",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

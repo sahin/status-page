@@ -2,6 +2,7 @@
   "name": "sentry",
   "readable_name": "Sentry",
   "url": "http://status.getsentry.com",
+  "twitter": "getsentry",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

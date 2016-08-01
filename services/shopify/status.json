@@ -2,6 +2,7 @@
   "name": "shopify",
   "readable_name": "Shopify",
   "url": "https://status.shopify.com",
+  "twitter": "shopify",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

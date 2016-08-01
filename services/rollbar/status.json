@@ -2,6 +2,7 @@
   "name": "rollbar",
   "readable_name": "Rollbar",
   "url": "http://status.rollbar.com",
+  "twitter": "rollbar",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

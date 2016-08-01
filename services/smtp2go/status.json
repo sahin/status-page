@@ -2,6 +2,7 @@
   "name": "smtp2go",
   "readable_name": "SMTP2GO",
   "url": "http://smtp2gostatus.com",
+  "twitter": "smtp2go",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
