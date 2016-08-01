@@ -2,6 +2,7 @@
   "name": "incapsula",
   "readable_name": "Incapsula",
   "url": "https://status.incapsula.com",
+  "twitter": "ncapsula_com",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

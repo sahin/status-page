@@ -2,6 +2,7 @@
   "name": "iwantmyname",
   "readable_name": "iwantmyname",
   "url": "http://status.iwantmyname.com",
+  "twitter": "greenhouse",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

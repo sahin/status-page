@@ -2,6 +2,7 @@
   "name": "heap",
   "readable_name": "Heap",
   "url": "http://status.heapanalytics.com",
+  "twitter": "heap",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

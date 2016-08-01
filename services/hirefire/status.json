@@ -2,6 +2,7 @@
   "name": "hirefire",
   "readable_name": "HireFire",
   "url": "http://status.hirefire.io",
+  "twitter": "hirefireio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

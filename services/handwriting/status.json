@@ -2,6 +2,7 @@
   "name": "handwriting",
   "readable_name": "Handwriting.io",
   "url": "http://status.handwriting.io",
+  "twitter": "handwritingio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

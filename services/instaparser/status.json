@@ -2,6 +2,7 @@
   "name": "instaparser",
   "readable_name": "Instaparser",
   "url": "http://status.instaparser.com",
+  "twitter": "Instapaper",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

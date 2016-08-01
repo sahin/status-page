@@ -2,6 +2,7 @@
   "name": "hipchat",
   "readable_name": "HipChat",
   "url": "https://status.hipchat.com",
+  "twitter": "hipchat",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

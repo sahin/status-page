@@ -2,6 +2,7 @@
   "name": "hellosign",
   "readable_name": "HelloSign",
   "url": "http://status.hellosign.com",
+  "twitter": "hellosign",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

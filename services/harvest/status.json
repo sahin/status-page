@@ -2,6 +2,7 @@
   "name": "harvest",
   "readable_name": "Harvest",
   "url": "http://www.harveststatus.com",
+  "twitter": "harvest",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

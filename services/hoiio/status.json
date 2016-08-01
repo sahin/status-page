@@ -2,6 +2,7 @@
   "name": "hoiio",
   "readable_name": "Hoiio",
   "url": "http://status.hoiio.com/",
+  "twitter": "hoiio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

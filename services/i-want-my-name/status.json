@@ -2,6 +2,7 @@
   "name": "i-want-my-name",
   "readable_name": "I Want My Name",
   "url": "http://status.iwantmyname.com/",
+  "twitter": "iwantmyname",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

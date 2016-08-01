@@ -2,6 +2,7 @@
   "name": "intuit-developer",
   "readable_name": "Intuit Developer",
   "url": "http://developer-status.intuit.com/",
+  "twitter": "intuitdev",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Major",

@@ -2,6 +2,7 @@
   "name": "honeybadger",
   "readable_name": "Honeybadger",
   "url": "http://status.honeybadger.io",
+  "twitter": "honeybadger",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

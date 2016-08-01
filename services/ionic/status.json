@@ -2,6 +2,7 @@
   "name": "ionic",
   "readable_name": "Ionic",
   "url": "http://status.ionic.io",
+  "twitter": "ionicframework",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
