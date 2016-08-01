@@ -2,6 +2,7 @@
   "name": "pantheon",
   "readable_name": "Pantheon",
   "url": "http://status.pantheon.io",
+  "twitter": "getpantheon",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "phaxio",
   "readable_name": "Phaxio",
   "url": "http://status.phaxio.com",
+  "twitter": "phaxio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

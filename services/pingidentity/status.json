@@ -2,6 +2,7 @@
   "name": "pingidentity",
   "readable_name": "Ping Identity",
   "url": "https://status.pingidentity.com",
+  "twitter": "pingidentity",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

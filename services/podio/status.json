@@ -2,6 +2,7 @@
   "name": "podio",
   "readable_name": "Podio",
   "url": "http://status.podio.com",
+  "twitter": "podio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

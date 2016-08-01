@@ -2,6 +2,7 @@
   "name": "pinpayments",
   "readable_name": "Pin Payments",
   "url": "https://pin.statuspage.io",
+  "twitter": "pinpayments",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

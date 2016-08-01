@@ -2,6 +2,7 @@
   "name": "proposify",
   "readable_name": "Proposify",
   "url": "http://status.proposify.biz",
+  "twitter": "proposify",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "postplanner",
   "readable_name": "Post Planner",
   "url": "http://status.postplanner.com",
+  "twitter": "postplanner",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

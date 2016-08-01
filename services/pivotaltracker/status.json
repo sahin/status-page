@@ -2,6 +2,7 @@
   "name": "pivotaltracker",
   "readable_name": "Pivotal Tracker",
   "url": "https://status.pivotaltracker.com",
+  "twitter": "pivotaltracker",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

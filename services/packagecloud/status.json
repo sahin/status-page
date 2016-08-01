@@ -2,6 +2,7 @@
   "name": "packagecloud",
   "readable_name": "packagecloud.io",
   "url": "http://www.packagecloudstatus.io",
+  "twitter": "packagecloud",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

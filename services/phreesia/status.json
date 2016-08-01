@@ -2,6 +2,7 @@
   "name": "phreesia",
   "readable_name": "Phreesia",
   "url": "http://status.phreesia.net",
+  "twitter": "phreesia",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

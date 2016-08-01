@@ -2,6 +2,7 @@
   "name": "plex",
   "readable_name": "Plex",
   "url": "http://status.plex.tv",
+  "twitter": "plex",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
