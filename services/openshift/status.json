@@ -2,6 +2,7 @@
   "name": "openshift",
   "readable_name": "OpenShift",
   "url": "http://status.openshift.com",
+  "twitter": "openshift",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

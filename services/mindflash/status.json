@@ -2,6 +2,7 @@
   "name": "mindflash",
   "readable_name": "Mindflash",
   "url": "http://trust.mindflash.com",
+  "twitter": "mindflash",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Non impact",

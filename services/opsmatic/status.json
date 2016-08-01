@@ -2,6 +2,7 @@
   "name": "opsmatic",
   "readable_name": "Opsmatic",
   "url": "http://status.opsmatic.com",
+  "twitter": "opsmatic",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

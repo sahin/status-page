@@ -2,6 +2,7 @@
   "name": "moz",
   "readable_name": "Moz",
   "url": "http://health.moz.com",
+  "twitter": "moz",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

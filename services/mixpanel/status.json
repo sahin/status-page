@@ -2,6 +2,7 @@
   "name": "mixpanel",
   "readable_name": "Mixpanel",
   "url": "https://status.mixpanel.com/",
+  "twitter": "mixpanel",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

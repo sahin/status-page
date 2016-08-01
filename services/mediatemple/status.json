@@ -2,6 +2,7 @@
   "name": "mediatemple",
   "readable_name": "Media Temple",
   "url": "http://status.mediatemple.net",
+  "twitter": "mediatemple",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

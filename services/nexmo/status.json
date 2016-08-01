@@ -2,6 +2,7 @@
   "name": "nexmo",
   "readable_name": "Nexmo",
   "url": "https://status.nexmo.com",
+  "twitter": "nexmo",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

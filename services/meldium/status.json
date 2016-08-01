@@ -2,6 +2,7 @@
   "name": "meldium",
   "readable_name": "Meldium",
   "url": "http://status.meldium.com",
+  "twitter": "meldium",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

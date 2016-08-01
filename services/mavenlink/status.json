@@ -2,6 +2,7 @@
   "name": "mavenlink",
   "readable_name": "Mavenlink",
   "url": "https://mavenlink.statuspage.io",
+  "twitter": "mavenlink",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

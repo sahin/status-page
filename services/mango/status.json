@@ -2,6 +2,7 @@
   "name": "mango",
   "readable_name": "Mango",
   "url": "https://status.getmango.com/",
+  "twitter": "getmango",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

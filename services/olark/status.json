@@ -2,6 +2,7 @@
   "name": "olark",
   "readable_name": "Olark",
   "url": "http://status.olark.com",
+  "twitter": "olark",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

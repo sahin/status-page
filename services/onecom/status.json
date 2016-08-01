@@ -2,6 +2,7 @@
   "name": "onecom",
   "readable_name": "One.com",
   "url": "http://status.one.com",
+  "twitter": "onecom",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

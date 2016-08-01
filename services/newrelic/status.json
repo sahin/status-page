@@ -2,6 +2,7 @@
   "name": "newrelic",
   "readable_name": "New Relic",
   "url": "https://status.newrelic.com",
+  "twitter": "newrelic",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "outbound",
   "readable_name": "Outbound",
   "url": "http://status.outbound.io",
+  "twitter": "outboundio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",

@@ -2,6 +2,7 @@
   "name": "mapbox",
   "readable_name": "Mapbox",
   "url": "http://status.mapbox.com",
+  "twitter": "mapbox",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
