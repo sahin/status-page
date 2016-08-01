@@ -2,6 +2,7 @@
   "name": "victorops",
   "readable_name": "VictorOps",
   "url": "https://status.victorops.com",
+  "twitter": "victorops",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

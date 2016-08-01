@@ -2,6 +2,7 @@
   "name": "unbounce",
   "readable_name": "Unbounce",
   "url": "http://status.unbounce.com",
+  "twitter": "unbounce",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

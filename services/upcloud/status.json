@@ -2,6 +2,7 @@
   "name": "upcloud",
   "readable_name": "UpCloud",
   "url": "http://status.upcloud.com",
+  "twitter": "upcloud",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

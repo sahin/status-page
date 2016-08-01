@@ -1,5 +1,8 @@
 {
+  "name": "bitrise",
+  "readable_name": "Bitrise",
   "url": "http://status.bitrise.io",
+  "twitter": "bitrise",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

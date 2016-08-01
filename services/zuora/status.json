@@ -2,6 +2,7 @@
   "name": "zuora",
   "readable_name": "Zuora",
   "url": "http://trust.zuora.com",
+  "twitter": "zuora",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

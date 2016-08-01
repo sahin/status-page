@@ -2,6 +2,7 @@
   "name": "tapglue",
   "readable_name": "Tapglue",
   "url": "http://status.tapglue.com",
+  "twitter": "tapglue",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

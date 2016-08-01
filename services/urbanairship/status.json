@@ -2,6 +2,7 @@
   "name": "urbanairship",
   "readable_name": "Urban Airship",
   "url": "http://status.urbanairship.com",
+  "twitter": "urbanairship",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

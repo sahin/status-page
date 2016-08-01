@@ -2,6 +2,7 @@
   "name": "tropo",
   "readable_name": "Tropo",
   "url": "http://status.tropo.com",
+  "twitter": "tropo",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

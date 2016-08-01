@@ -2,6 +2,7 @@
   "name": "vividcortex",
   "readable_name": "VividCortex",
   "url": "https://vividcortex.statuspage.io",
+  "twitter": "vividcortex",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

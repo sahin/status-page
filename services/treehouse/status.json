@@ -2,6 +2,7 @@
   "name": "treehouse",
   "readable_name": "Treehouse",
   "url": "http://status.teamtreehouse.com",
+  "twitter": "treehouse",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

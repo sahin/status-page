@@ -2,6 +2,7 @@
   "name": "twilio",
   "readable_name": "Twilio",
   "url": "http://status.twilio.com",
+  "twitter": "twilio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

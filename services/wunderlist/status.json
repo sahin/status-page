@@ -2,6 +2,7 @@
   "name": "wunderlist",
   "readable_name": "Wunderlist",
   "url": "https://status.wunderlist.com",
+  "twitter": "wunderlist",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

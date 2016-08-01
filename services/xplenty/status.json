@@ -2,6 +2,7 @@
   "name": "xplenty",
   "readable_name": "Xplenty",
   "url": "http://status.xplenty.com",
+  "twitter": "xplenty",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

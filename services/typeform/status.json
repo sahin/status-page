@@ -2,6 +2,7 @@
   "name": "typeform",
   "readable_name": "Typeform",
   "url": "http://status.typeform.com",
+  "twitter": "typeform",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

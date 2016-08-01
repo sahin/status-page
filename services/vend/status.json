@@ -2,6 +2,7 @@
   "name": "vend",
   "readable_name": "Vend",
   "url": "http://status.vendhq.com",
+  "twitter": "vendhq",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "xamarin",
   "readable_name": "Xamarin",
   "url": "http://status.xamarin.com",
+  "twitter": "xamarinhq",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

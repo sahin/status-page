@@ -2,6 +2,7 @@
   "name": "twotap",
   "readable_name": "TwoTap",
   "url": "http://status.twotap.com",
+  "twitter": "twotapbuy",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "yotpo",
   "readable_name": "Yotpo",
   "url": "http://status.yotpo.com",
+  "twitter": "yotpo",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

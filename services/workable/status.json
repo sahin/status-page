@@ -2,6 +2,7 @@
   "name": "workable",
   "readable_name": "Workable",
   "url": "http://status.workable.com",
+  "twitter": "workable",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

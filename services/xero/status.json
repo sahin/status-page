@@ -2,6 +2,7 @@
   "name": "xero",
   "readable_name": "Xero",
   "url": "https://status.developer.xero.com",
+  "twitter": "xero",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

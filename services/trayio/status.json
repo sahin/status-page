@@ -2,6 +2,7 @@
   "name": "trayio",
   "readable_name": "tray.io",
   "url": "http://status.tray.io",
+  "twitter": "tray",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "uservoice",
   "readable_name": "UserVoice",
   "url": "https://status.uservoice.com",
+  "twitter": "uservoice",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Non impact",

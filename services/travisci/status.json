@@ -2,6 +2,7 @@
   "name": "travisci",
   "readable_name": "Travis CI",
   "url": "https://www.traviscistatus.com",
+  "twitter": "travisci",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
