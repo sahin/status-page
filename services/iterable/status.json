@@ -2,6 +2,7 @@
   "name": "iterable",
   "readable_name": "Iterable",
   "url": "http://status.iterable.com",
+  "twitter": "iterable",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

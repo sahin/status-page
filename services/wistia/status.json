@@ -2,6 +2,7 @@
   "name": "wistia",
   "readable_name": "Wistia",
   "url": "https://status.wistia.com",
+  "twitter": "wistia",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

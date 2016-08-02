@@ -2,6 +2,7 @@
   "name": "opensrs",
   "readable_name": "OpenSRS",
   "url": "http://opensrsstatus.com",
+  "twitter": "opensrs",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

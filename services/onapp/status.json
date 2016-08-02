@@ -2,6 +2,7 @@
   "name": "onapp",
   "readable_name": "OnApp",
   "url": "http://status.onapp.com",
+  "twitter": "onapp",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

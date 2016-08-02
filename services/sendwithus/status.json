@@ -2,6 +2,7 @@
   "name": "sendwithus",
   "readable_name": "Sendwithus",
   "url": "http://status.sendwithus.com",
+  "twitter": "send_with_us",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

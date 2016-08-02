@@ -2,6 +2,7 @@
   "name": "particle",
   "readable_name": "Particle",
   "url": "http://status.particle.io",
+  "twitter": "particle",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "taskrabbit",
   "readable_name": "TaskRabbit",
   "url": "http://status.taskrabbit.com",
+  "twitter": "taskrabbit",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

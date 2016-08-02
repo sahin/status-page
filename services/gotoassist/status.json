@@ -2,6 +2,7 @@
   "name": "gotoassist",
   "readable_name": "GoToAssist",
   "url": "http://status.gotoassist.com",
+  "twitter": "gotoassist",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

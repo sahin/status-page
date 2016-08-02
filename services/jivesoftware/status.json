@@ -2,6 +2,7 @@
   "name": "jivesoftware",
   "readable_name": "Jive Software",
   "url": "http://status.jivesoftware.com",
+  "twitter": "jivesoftware",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

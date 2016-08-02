@@ -2,6 +2,7 @@
   "name": "rjmetrics",
   "readable_name": "RJMetrics",
   "url": "http://status.rjmetrics.com",
+  "twitter": "rjmetrics",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

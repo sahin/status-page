@@ -2,6 +2,7 @@
   "name": "getresponse",
   "readable_name": "GetResponse",
   "url": "http://status.getresponse.com",
+  "twitter": "getresponse",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

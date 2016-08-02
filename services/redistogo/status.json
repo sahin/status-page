@@ -2,6 +2,7 @@
   "name": "redistogo",
   "readable_name": "Redis To Go",
   "url": "http://status.redistogo.com",
+  "twitter": "redistogo",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

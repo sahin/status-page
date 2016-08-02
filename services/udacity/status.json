@@ -2,6 +2,7 @@
   "name": "udacity",
   "readable_name": "Udacity",
   "url": "http://status.udacity.com",
+  "twitter": "udacity",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

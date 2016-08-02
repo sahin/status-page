@@ -2,6 +2,7 @@
   "name": "webflow",
   "readable_name": "Webflow",
   "url": "http://status.webflow.com",
+  "twitter": "webflowapp",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

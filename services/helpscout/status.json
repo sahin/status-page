@@ -2,6 +2,7 @@
   "name": "helpscout",
   "readable_name": "Help Scout",
   "url": "http://status.helpscout.net",
+  "twitter": "helpscout",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

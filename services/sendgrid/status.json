@@ -2,6 +2,7 @@
   "name": "sendgrid",
   "readable_name": "SendGrid",
   "url": "http://status.sendgrid.com",
+  "twitter": "sendgrid",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

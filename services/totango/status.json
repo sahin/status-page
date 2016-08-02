@@ -2,6 +2,7 @@
   "name": "totango",
   "readable_name": "Totango",
   "url": "http://status.totango.com",
+  "twitter": "totango",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "intercom",
   "readable_name": "Intercom",
   "url": "https://status.intercom.io",
+  "twitter": "intercom",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

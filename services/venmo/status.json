@@ -2,6 +2,7 @@
   "name": "venmo",
   "readable_name": "Venmo",
   "url": "http://status.venmo.com",
+  "twitter": "venmo",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

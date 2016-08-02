@@ -2,6 +2,7 @@
   "name": "mode",
   "readable_name": "Mode Analytics",
   "url": "http://status.modeanalytics.com",
+  "twitter": "modeanalytics",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

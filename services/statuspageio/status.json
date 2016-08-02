@@ -2,6 +2,7 @@
   "name": "statuspageio",
   "readable_name": "StatusPage.io",
   "url": "http://metastatuspage.com/",
+  "twitter": "statuspageio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

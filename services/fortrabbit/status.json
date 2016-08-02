@@ -2,6 +2,7 @@
   "name": "fortrabbit",
   "readable_name": "fortrabbit",
   "url": "http://status.fortrabbit.com",
+  "twitter": "fortrabbit",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "packet",
   "readable_name": "Packet",
   "url": "http://status.packet.net",
+  "twitter": "packethost",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

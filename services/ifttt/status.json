@@ -2,6 +2,7 @@
   "name": "ifttt",
   "readable_name": "IFTTT",
   "url": "http://status.ifttt.com",
+  "twitter": "ifttt",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

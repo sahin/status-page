@@ -2,6 +2,7 @@
   "name": "redislabs",
   "readable_name": "Redis Labs",
   "url": "https://status.redislabs.com",
+  "twitter": "redislabs",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "syncano",
   "readable_name": "Syncano",
   "url": "http://status.syncano.com",
+  "twitter": "syncano",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "taplytics",
   "readable_name": "Taplytics",
   "url": "http://status.taplytics.com",
+  "twitter": "taplytics",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

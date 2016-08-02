@@ -2,6 +2,7 @@
   "name": "nitrous",
   "readable_name": "Nitrous",
   "url": "http://status.nitrous.io",
+  "twitter": "nitrous",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

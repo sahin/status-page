@@ -2,6 +2,7 @@
   "name": "pagerduty",
   "readable_name": "PagerDuty",
   "url": "https://status.pagerduty.com",
+  "twitter": "pagerduty",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

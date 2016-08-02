@@ -2,6 +2,7 @@
   "name": "uberconference",
   "readable_name": "UberConference",
   "url": "http://status.uberconference.com/",
+  "twitter": "uberconference",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

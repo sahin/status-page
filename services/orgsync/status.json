@@ -2,6 +2,7 @@
   "name": "orgsync",
   "readable_name": "OrgSync",
   "url": "http://status.orgsync.com",
+  "twitter": "orgsync",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

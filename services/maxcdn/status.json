@@ -2,6 +2,7 @@
   "name": "maxcdn",
   "readable_name": "MaxCDN",
   "url": "http://status.maxcdn.com",
+  "twitter": "maxcdn",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

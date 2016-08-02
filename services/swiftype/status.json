@@ -2,6 +2,7 @@
   "name": "swiftype",
   "readable_name": "Swiftype",
   "url": "http://status.swiftype.com",
+  "twitter": "swiftype",
   "provider": "Powered by Status.io",
   "status": {
     "description": "All Systems Operational",

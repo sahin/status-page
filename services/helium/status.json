@@ -2,6 +2,7 @@
   "name": "helium",
   "readable_name": "Helium",
   "url": "http://status.helium.com",
+  "twitter": "helium",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

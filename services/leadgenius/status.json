@@ -2,6 +2,7 @@
   "name": "leadgenius",
   "readable_name": "LeadGenius",
   "url": "http://status.leadgenius.com",
+  "twitter": "leadgenius",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

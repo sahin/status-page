@@ -2,6 +2,7 @@
   "name": "invision",
   "readable_name": "InVision",
   "url": "http://status.invisionapp.com",
+  "twitter": "InVisionApp",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

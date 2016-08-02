@@ -2,6 +2,7 @@
   "name": "vimeo",
   "readable_name": "Vimeo",
   "url": "http://www.vimeostatus.com",
+  "twitter": "vimeo",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",

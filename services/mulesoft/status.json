@@ -2,6 +2,7 @@
   "name": "mulesoft",
   "readable_name": "MuleSoft",
   "url": "http://status.mulesoft.com",
+  "twitter": "mulesoft",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

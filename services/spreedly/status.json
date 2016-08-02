@@ -2,6 +2,7 @@
   "name": "spreedly",
   "readable_name": "Spreedly",
   "url": "http://status.spreedly.com",
+  "twitter": "spreedly",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

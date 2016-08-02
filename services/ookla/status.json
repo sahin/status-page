@@ -2,6 +2,7 @@
   "name": "ookla",
   "readable_name": "Ookla",
   "url": "http://status.ookla.com",
+  "twitter": "ookla",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

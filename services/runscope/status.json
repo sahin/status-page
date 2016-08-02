@@ -2,6 +2,7 @@
   "name": "runscope",
   "readable_name": "Runscope",
   "url": "http://status.runscope.com",
+  "twitter": "runscope",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

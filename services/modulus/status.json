@@ -2,6 +2,7 @@
   "name": "modulus",
   "readable_name": "Modulus",
   "url": "http://status.modulus.io",
+  "twitter": "onmodulus",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

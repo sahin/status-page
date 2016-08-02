@@ -2,6 +2,7 @@
   "name": "wheniwork",
   "readable_name": "When I Work",
   "url": "http://status.wheniwork.com",
+  "twitter": "wheniwork",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

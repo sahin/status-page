@@ -2,6 +2,7 @@
   "name": "threatstack",
   "readable_name": "Threat Stack",
   "url": "http://status.threatstack.com",
+  "twitter": "threatstack",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

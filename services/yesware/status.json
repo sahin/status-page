@@ -2,6 +2,7 @@
   "name": "yesware",
   "readable_name": "Yesware",
   "url": "http://status.yesware.com",
+  "twitter": "yesware",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "meteor",
   "readable_name": "Meteor",
   "url": "http://status.meteor.com",
+  "twitter": "meteorjs",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

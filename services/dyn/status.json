@@ -2,6 +2,7 @@
   "name": "dyn",
   "readable_name": "Dyn",
   "url": "https://www.dynstatus.com",
+  "twitter": "dyn",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",

@@ -2,6 +2,7 @@
   "name": "phrase",
   "readable_name": "PhraseApp",
   "url": "http://status.phraseapp.com",
+  "twitter": "phraseapp",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

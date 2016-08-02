@@ -2,6 +2,7 @@
   "name": "hightail",
   "readable_name": "Hightail",
   "url": "http://status.hightail.com",
+  "twitter": "hightail",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

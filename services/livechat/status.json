@@ -2,6 +2,7 @@
   "name": "livechat",
   "readable_name": "LiveChat",
   "url": "https://status.livechatinc.com",
+  "twitter": "livechat",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

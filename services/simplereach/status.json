@@ -2,6 +2,7 @@
   "name": "simplereach",
   "readable_name": "Simplereach",
   "url": "http://status.simplereach.com",
+  "twitter": "simplereach",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "sparkcentral",
   "readable_name": "Sparkcentral",
   "url": "http://status.sparkcentral.com",
+  "twitter": "sparkcentral",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

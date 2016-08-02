@@ -2,6 +2,7 @@
   "name": "namely",
   "readable_name": "Namely",
   "url": "https://status.namely.com",
+  "twitter": "namely",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

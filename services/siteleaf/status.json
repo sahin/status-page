@@ -2,6 +2,7 @@
   "name": "siteleaf",
   "readable_name": "Siteleaf",
   "url": "http://status.siteleaf.com",
+  "twitter": "siteleaf",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

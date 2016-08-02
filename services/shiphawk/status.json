@@ -2,6 +2,7 @@
   "name": "shiphawk",
   "readable_name": "ShipHawk",
   "url": "https://shiphawk.statuspage.io",
+  "twitter": "shiphawk",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

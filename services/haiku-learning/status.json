@@ -2,6 +2,7 @@
   "name": "haiku-learning",
   "readable_name": "Haiku Learning",
   "url": "http://status.haikulearning.com",
+  "twitter": "haikulearning",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",

@@ -2,6 +2,7 @@
   "name": "npm",
   "readable_name": "npm",
   "url": "http://status.npmjs.org",
+  "twitter": "npmjs",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

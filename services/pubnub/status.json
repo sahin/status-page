@@ -2,6 +2,7 @@
   "name": "pubnub",
   "readable_name": "PubNub",
   "url": "http://status.pubnub.com",
+  "twitter": "pubnub",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

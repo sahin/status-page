@@ -2,6 +2,7 @@
   "name": "fabric",
   "readable_name": "Fabric",
   "url": "http://status.fabric.io",
+  "twitter": "fabric",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",

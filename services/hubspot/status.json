@@ -2,6 +2,7 @@
   "name": "hubspot",
   "readable_name": "HubSpot",
   "url": "https://status.hubspot.com",
+  "twitter": "hubspot",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

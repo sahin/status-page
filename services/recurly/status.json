@@ -2,6 +2,7 @@
   "name": "recurly",
   "readable_name": "Recurly",
   "url": "https://status.recurly.com",
+  "twitter": "recurly",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

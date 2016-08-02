@@ -2,6 +2,7 @@
   "name": "skylight",
   "readable_name": "Skylight",
   "url": "http://status.skylight.io",
+  "twitter": "skylight",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

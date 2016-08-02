@@ -2,6 +2,7 @@
   "name": "procore",
   "readable_name": "Procore",
   "url": "http://status.procore.com",
+  "twitter": "procoretech",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

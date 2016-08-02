@@ -2,6 +2,7 @@
   "name": "pusher",
   "readable_name": "Pusher",
   "url": "https://status.pusher.com",
+  "twitter": "pusher",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "parse",
   "readable_name": "Parse",
   "url": "https://status.parse.com",
+  "twitter": "parseit",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

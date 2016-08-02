@@ -2,6 +2,7 @@
   "name": "saucelabs",
   "readable_name": "Sauce Labs",
   "url": "http://status.saucelabs.com",
+  "twitter": "saucelabs",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "go-cardless",
   "readable_name": "Go Cardless",
   "url": "http://www.gocardless-status.com/",
+  "twitter": "gocardless",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

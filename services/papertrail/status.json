@@ -2,6 +2,7 @@
   "name": "papertrail",
   "readable_name": "Papertrail",
   "url": "http://www.papertrailstatus.com",
+  "twitter": "papertrailapp",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",

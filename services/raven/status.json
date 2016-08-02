@@ -2,6 +2,7 @@
   "name": "raven",
   "readable_name": "Raven",
   "url": "http://status.raventools.com",
+  "twitter": "RavenTools",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Non impact",

@@ -2,6 +2,7 @@
   "name": "kissmetrics",
   "readable_name": "Kissmetrics",
   "url": "https://kmstatus.com",
+  "twitter": "kissmetrics",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "siftscience",
   "readable_name": "Sift Science",
   "url": "https://status.siftscience.com",
+  "twitter": "siftscience",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

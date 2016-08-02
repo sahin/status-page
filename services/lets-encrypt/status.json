@@ -2,6 +2,7 @@
   "name": "lets-encrypt",
   "readable_name": "Let's Encrypt",
   "url": "https://letsencrypt.status.io",
+  "twitter": "letsencrypt",
   "provider": "Powered by Status.io",
   "status": {
     "description": "All Systems Operational",

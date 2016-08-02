@@ -2,6 +2,7 @@
   "name": "iron",
   "readable_name": "Iron.io",
   "url": "https://status.iron.io",
+  "twitter": "getiron",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

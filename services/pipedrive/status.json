@@ -2,6 +2,7 @@
   "name": "pipedrive",
   "readable_name": "Pipedrive",
   "url": "http://status.pipedrive.com",
+  "twitter": "pipedrive",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

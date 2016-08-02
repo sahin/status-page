@@ -2,6 +2,7 @@
   "name": "imgix",
   "readable_name": "imgix",
   "url": "http://status.imgix.com",
+  "twitter": "imgix",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

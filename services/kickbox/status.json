@@ -2,6 +2,7 @@
   "name": "kickbox",
   "readable_name": "Kickbox",
   "url": "http://status.kickbox.io",
+  "twitter": "kickboxio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

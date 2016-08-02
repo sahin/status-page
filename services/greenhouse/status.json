@@ -2,6 +2,7 @@
   "name": "greenhouse",
   "readable_name": "Greenhouse",
   "url": "http://status.greenhouse.io",
+  "twitter": "greenhouse",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

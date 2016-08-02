@@ -2,6 +2,7 @@
   "name": "medium",
   "readable_name": "Medium",
   "url": "https://medium.statuspage.io",
+  "twitter": "medium",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

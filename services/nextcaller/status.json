@@ -2,6 +2,7 @@
   "name": "nextcaller",
   "readable_name": "Next Caller",
   "url": "http://status.nextcaller.com",
+  "twitter": "nextcaller",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Unknown",

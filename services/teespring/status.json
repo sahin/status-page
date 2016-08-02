@@ -2,6 +2,7 @@
   "name": "teespring",
   "readable_name": "Teespring",
   "url": "http://status.teespring.com",
+  "twitter": "teespring",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

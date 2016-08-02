@@ -2,6 +2,7 @@
   "name": "sprout",
   "readable_name": "Sprout",
   "url": "http://status.sproutsocial.com",
+  "twitter": "sprout",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",

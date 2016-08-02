@@ -2,6 +2,7 @@
   "name": "flyingsphinx",
   "readable_name": "Flying Sphinx",
   "url": "http://status.flying-sphinx.com",
+  "twitter": "flying_sphinx",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

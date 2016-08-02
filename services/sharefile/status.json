@@ -2,6 +2,7 @@
   "name": "sharefile",
   "readable_name": "ShareFile",
   "url": "http://status.sharefile.com",
+  "twitter": "sharefile",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

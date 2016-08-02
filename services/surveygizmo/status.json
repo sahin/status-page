@@ -2,6 +2,7 @@
   "name": "surveygizmo",
   "readable_name": "SurveyGizmo",
   "url": "https://surveygizmo.statuspage.io",
+  "twitter": "surveygizmo",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

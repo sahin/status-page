@@ -2,6 +2,7 @@
   "name": "periscope",
   "readable_name": "Periscope Data",
   "url": "https://status.periscopedata.com",
+  "twitter": "periscopedata",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

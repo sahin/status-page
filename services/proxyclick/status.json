@@ -2,6 +2,7 @@
   "name": "proxyclick",
   "readable_name": "Proxyclick",
   "url": "http://status.proxyclick.com",
+  "twitter": "proxyclick",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

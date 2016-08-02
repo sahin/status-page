@@ -2,6 +2,7 @@
   "name": "insightly",
   "readable_name": "Insightly",
   "url": "http://status.insightly.com",
+  "twitter": "insightlyapp",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

@@ -2,6 +2,7 @@
   "name": "mailgun",
   "readable_name": "Mailgun",
   "url": "http://status.mailgun.com",
+  "twitter": "mail_gun",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

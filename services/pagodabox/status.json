@@ -2,6 +2,7 @@
   "name": "pagodabox",
   "readable_name": "Pagoda Box",
   "url": "http://status.pagodabox.io",
+  "twitter": "pagodabox",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

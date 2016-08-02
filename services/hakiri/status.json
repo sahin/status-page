@@ -2,6 +2,7 @@
   "name": "hakiri",
   "readable_name": "Hakiri",
   "url": "http://status.hakiri.io",
+  "twitter": "hakirisec",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

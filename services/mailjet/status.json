@@ -2,6 +2,7 @@
   "name": "mailjet",
   "readable_name": "Mailjet",
   "url": "http://status.mailjet.com",
+  "twitter": "mailjet",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

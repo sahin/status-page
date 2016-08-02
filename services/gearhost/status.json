@@ -2,6 +2,7 @@
   "name": "gearhost",
   "readable_name": "GearHost",
   "url": "https://gearhost.statuspage.io/",
+  "twitter": "gearhost",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

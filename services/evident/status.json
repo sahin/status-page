@@ -2,6 +2,7 @@
   "name": "evident",
   "readable_name": "Evident.io",
   "url": "http://status.evident.io",
+  "twitter": "evident",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

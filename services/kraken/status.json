@@ -2,6 +2,7 @@
   "name": "kraken",
   "readable_name": "Kraken.io",
   "url": "https://status.kraken.io",
+  "twitter": "krakenio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

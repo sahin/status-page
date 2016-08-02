@@ -2,6 +2,7 @@
   "name": "relateiq",
   "readable_name": "SalesforceIQ",
   "url": "https://status.salesforceiq.com/",
+  "twitter": "salesforceiq",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

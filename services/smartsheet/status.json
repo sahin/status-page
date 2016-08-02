@@ -2,6 +2,7 @@
   "name": "smartsheet",
   "readable_name": "Smartsheet.com",
   "url": "http://status.smartsheet.com",
+  "twitter": "smartsheet",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",

@@ -2,6 +2,7 @@
   "name": "sumologic",
   "readable_name": "Sumo Logic",
   "url": "http://status.sumologic.com",
+  "twitter": "sumologic",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

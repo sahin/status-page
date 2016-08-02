@@ -2,6 +2,7 @@
   "name": "spark",
   "readable_name": "Spark",
   "url": "http://status.spark.io/",
+  "twitter": "particle",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

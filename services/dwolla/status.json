@@ -2,6 +2,7 @@
   "name": "dwolla",
   "readable_name": "Dwolla",
   "url": "http://status.dwolla.com",
+  "twitter": "dwolla",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

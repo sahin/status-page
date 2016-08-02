@@ -2,6 +2,7 @@
   "name": "opbeat",
   "readable_name": "Opbeat",
   "url": "http://status.opbeat.com",
+  "twitter": "opbeat",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

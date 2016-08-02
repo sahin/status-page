@@ -2,6 +2,7 @@
   "name": "scrutinizer",
   "readable_name": "Scrutinizer",
   "url": "http://status.scrutinizer-ci.com",
+  "twitter": "scrutinizerci",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

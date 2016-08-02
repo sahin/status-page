@@ -2,6 +2,7 @@
   "name": "gotomeeting",
   "readable_name": "GoToMeeting",
   "url": "http://status.gotomeeting.com",
+  "twitter": "gotomeeting",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

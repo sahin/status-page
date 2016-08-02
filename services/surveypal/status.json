@@ -2,6 +2,7 @@
   "name": "surveypal",
   "readable_name": "Surveypal",
   "url": "https://status.surveypal.com",
+  "twitter": "surveypal",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

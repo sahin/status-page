@@ -2,6 +2,7 @@
   "name": "filepicker",
   "readable_name": "Filestack",
   "url": "http://status.filestack.com/",
+  "twitter": "filestack",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

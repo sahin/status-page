@@ -2,6 +2,7 @@
   "name": "hashicorp",
   "readable_name": "HashiCorp",
   "url": "http://status.hashicorp.com",
+  "twitter": "hashicorp",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

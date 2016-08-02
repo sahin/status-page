@@ -2,6 +2,7 @@
   "name": "kontakt",
   "readable_name": "Kontakt.io",
   "url": "http://status.kontakt.io",
+  "twitter": "kontakt_io",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

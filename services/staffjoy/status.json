@@ -2,6 +2,7 @@
   "name": "staffjoy",
   "readable_name": "Staffjoy",
   "url": "http://status.staffjoy.com",
+  "twitter": "staffjoy",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

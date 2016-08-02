@@ -2,6 +2,7 @@
   "name": "hostedgraphite",
   "readable_name": "Hosted Graphite",
   "url": "http://status.hostedgraphite.com",
+  "twitter": "hostedgraphite",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

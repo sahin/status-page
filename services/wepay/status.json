@@ -2,6 +2,7 @@
   "name": "wepay",
   "readable_name": "WePay",
   "url": "https://status.wepay.com",
+  "twitter": "wepay",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

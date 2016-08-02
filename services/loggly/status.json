@@ -2,6 +2,7 @@
   "name": "loggly",
   "readable_name": "Loggly",
   "url": "http://status.loggly.com",
+  "twitter": "loggly",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

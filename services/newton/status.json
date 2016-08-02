@@ -2,6 +2,7 @@
   "name": "newton",
   "readable_name": "Newton Software",
   "url": "http://status.newtonsoftware.com",
+  "twitter": "newtonsoftware",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

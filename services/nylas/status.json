@@ -2,6 +2,7 @@
   "name": "nylas",
   "readable_name": "Nylas",
   "url": "http://status.nylas.com",
+  "twitter": "nylas",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Minor",

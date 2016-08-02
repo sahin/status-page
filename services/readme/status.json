@@ -2,6 +2,7 @@
   "name": "readme",
   "readable_name": "ReadMe",
   "url": "http://status.readme.io",
+  "twitter": "readmeio",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

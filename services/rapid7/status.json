@@ -2,6 +2,7 @@
   "name": "rapid7",
   "readable_name": "Rapid7",
   "url": "https://status.rapid7.com/",
+  "twitter": "rapid7",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

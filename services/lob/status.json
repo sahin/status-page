@@ -2,6 +2,7 @@
   "name": "lob",
   "readable_name": "Lob",
   "url": "http://status.lob.com",
+  "twitter": "lob",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

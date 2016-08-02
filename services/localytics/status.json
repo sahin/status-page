@@ -2,6 +2,7 @@
   "name": "localytics",
   "readable_name": "Localytics",
   "url": "http://status.localytics.com",
+  "twitter": "localytics",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

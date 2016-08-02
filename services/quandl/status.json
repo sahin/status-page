@@ -2,6 +2,7 @@
   "name": "quandl",
   "readable_name": "Quandl",
   "url": "http://status.quandl.com",
+  "twitter": "quandl",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

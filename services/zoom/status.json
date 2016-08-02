@@ -2,6 +2,7 @@
   "name": "zoom",
   "readable_name": "Zoom",
   "url": "http://status.zoom.us",
+  "twitter": "zoom_us",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",

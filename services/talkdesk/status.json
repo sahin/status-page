@@ -2,6 +2,7 @@
   "name": "talkdesk",
   "readable_name": "Talkdesk",
   "url": "http://status.talkdesk.com",
+  "twitter": "talkdesk",
   "provider": "StatusPage.io",
   "status": {
     "indicator": "Operational",
